@@ -1,0 +1,74 @@
+{
+  "updated": "2025-01-24T06:05:24.181317Z",
+  "exchanges": [
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Divine Orb",
+      "lastUpdated": "2025-01-24T06:05:24.181317Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 180.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 183.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 185.0,
+          "stock": 37
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 187.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 188.0,
+          "stock": 100
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 188.0,
+          "stock": 395
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 175.0,
+          "stock": 175
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 171.0,
+          "stock": 8037
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 170.0,
+          "stock": 2210
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 169.0,
+          "stock": 507
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 168.0,
+          "stock": 1008
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 168.0,
+          "stock": 895696
+        }
+      ]
+    }
+  ]
+}
