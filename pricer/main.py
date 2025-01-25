@@ -3,6 +3,7 @@ import datetime
 import re
 import os
 from time import sleep
+from utils.currencies import have_currencies, want_currencies
 
 from PIL import ImageGrab, ImageOps, ImageEnhance, Image
 import pytesseract
@@ -279,9 +280,43 @@ def update_exchange(data, have_currency, want_currency, new_offers, new_competin
     exchange["offers"] = new_offers
     exchange["competingTrades"] = new_competing
 
+###############################################################################
+# 4. EXCHANGE LOGIC
+###############################################################################
+
+def get_offers_for_pair(have_currency, want_currency):
+    # Have exchange interface opened
+    print(f"Getting offers for {have_currency} -> {want_currency}")
+
+    # Move Cursor to Have Currency
+    # Click on Have Currency
+    # Ctrl + F
+    # Paste Have Currency
+    # Move Cursor to Top Middle where Currency is displayed
+    # Click on Currency
+
+    # Move Cursor to Want Currency
+    # Click on Want Currency
+    # Ctrl + F
+    # Paste Want Currency
+    # Move Cursor to Top Middle where Currency is displayed
+    # Click on Currency
+
+    # Move Cursor to Top Middle where Market Ratio is displayed
+    # Hold Alt
+
+    # Perform check if there are no available or competing trades
+    # If there are no trades in either side, return empty lists
+    # If there are trades:
+    #   1. Capture and process the main trades window
+    #   2. Capture and process the competing trades window
+    #   3. OCR each processed image
+    #   4. Parse the OCR results
+    #   5. Return the parsed results
+
 
 ###############################################################################
-# 4. MAIN SCRIPT LOGIC
+# 5. MAIN SCRIPT LOGIC
 ###############################################################################
 
 def main():
@@ -323,7 +358,13 @@ def main():
     data = load_data(json_path)
 
     # 3. Update the "Chaos Orb" -> "Divine Orb" exchange
-    update_exchange(data, "Chaos Orb", "Divine Orb", main_trades, competing_trades)
+    for have in have_currencies:
+        for want in want_currencies:
+            if want == have:
+                continue
+            main_trades, competing_trades = get_offers_for_pair(have, want)
+
+    # update_exchange(data, "Chaos Orb", "Orb of Alteration", main_trades, competing_trades)
 
     # 4. Save the updated data
     save_data(json_path, data)
