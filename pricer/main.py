@@ -4,6 +4,8 @@ import re
 import os
 from time import sleep
 from utils.currencies import have_currencies, want_currencies
+from env import resolution_2560 as resolution
+import pyautogui
 
 from PIL import ImageGrab, ImageOps, ImageEnhance, Image
 import pytesseract
@@ -288,7 +290,10 @@ def get_offers_for_pair(have_currency, want_currency):
     # Have exchange interface opened
     print(f"Getting offers for {have_currency} -> {want_currency}")
 
-    # Move Cursor to Have Currency
+    # Move Cursor to random Have location within these coordinates (1473, 298, 1748, 343)
+    
+
+
     # Click on Have Currency
     # Ctrl + F
     # Paste Have Currency
@@ -324,8 +329,8 @@ def main():
     # 1. Grab or define the region where Path of Exile shows the trade info.
     #    For demonstration, let's just do the entire screen (not recommended).
     #    Alternatively, you can do something like region=(100, 100, 600, 600).
-    main_trades_region = (1150, 355, 1411, 534)  # Or (x1, y1, x2, y2)
-    competing_trades_region = (1150, 616, 1411, 801)
+    main_trades_region = resolution[0]
+    competing_trades_region = resolution[1]
 
     # 2. Optionally automate in-game actions (e.g., pyautogui to press Alt, etc.).
     #    Here we'll assume you're already on the right screen with Alt pressed if needed.
