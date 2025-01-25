@@ -35,11 +35,11 @@ def exchange_search(currency, coords):
 
 
 
-pyautogui.sleep(2)
-move_mouse_to_position(resolution[2])  # Move mouse to random position on
-click_mouse()  # Click mouse
-exchange_search('Chaos Orb', resolution[5])  # Search for currency exchange
+# pyautogui.sleep(2)
+# move_mouse_to_position(resolution[2])  # Move mouse to random position on
+# click_mouse()  # Click mouse
+# exchange_search('Chaos Orb', resolution[5])  # Search for currency exchange
 
-move_mouse_to_position(resolution[3])  # Move mouse to random position on
-click_mouse()  # Click mouse
-exchange_search('Divine Orb', resolution[5])  # Search for currency exchange
+# move_mouse_to_position(resolution[3])  # Move mouse to random position on
+# click_mouse()  # Click mouse
+# exchange_search('Divine Orb', resolution[5])  # Search for currency exchange

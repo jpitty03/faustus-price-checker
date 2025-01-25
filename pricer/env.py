@@ -5,5 +5,6 @@ resolution_2560 = [
     (1473, 298, 1748, 343),              # Have Currenecy Region [2]
     (806, 297, 1083, 344),               # Want Currency Region [3]
     (1158, 220, 1402, 250),              # Market Ratio Region [4]
-    (1284, 243, 1558, 284)               # Select Currency Region [5]
+    (1284, 243, 1558, 284),              # Select Currency Region [5]
+    (985, 184, 1570, 214)                # Check if no trades are available [6]
 ]

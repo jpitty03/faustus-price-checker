@@ -3,9 +3,11 @@ import datetime
 import re
 import os
 from time import sleep
+
+import pyautogui
+from utils.mouse_helper import exchange_search, move_mouse_to_position
 from utils.currencies import have_currencies, want_currencies
 from env import resolution_2560 as resolution
-import pyautogui
 
 from PIL import ImageGrab, ImageOps, ImageEnhance, Image
 import pytesseract
@@ -76,6 +78,39 @@ def ocr_extract_text(image):
     custom_config = r"--psm 6"
     text = pytesseract.image_to_string(image, config=custom_config)
     return text
+
+def capture_and_process_no_trades(region=None, save_debug=True, debug_dir="screenshots", upscale_factor=3.0):
+    # 1. Capture screenshot
+    screenshot = ImageGrab.grab(bbox=region) if region else ImageGrab.grab()
+
+    if save_debug:
+        os.makedirs(debug_dir, exist_ok=True)
+        ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+        original_path = os.path.join(debug_dir, f"original_{ts}.png")
+        screenshot.save(original_path)
+
+    # 2. Convert to grayscale
+    processed = screenshot.convert("L")
+
+    # 3. (Optional) Invert
+    processed = ImageOps.invert(processed)
+
+    if upscale_factor != 1.0:
+        w, h = processed.size
+        new_w = int(w * upscale_factor)
+        new_h = int(h * upscale_factor)
+        processed = processed.resize((new_w, new_h), Image.LANCZOS)
+
+    # 6. (Optional) Threshold
+    processed = processed.point(lambda x: 255 if x > 105 else 0, '1')
+
+    # 7. Save debug
+    if save_debug:
+        ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+        processed_path = os.path.join(debug_dir, f"processed_{ts}.png")
+        processed.save(processed_path)
+
+    return processed
 
 ###############################################################################
 # 2. PARSING LOGIC
@@ -291,23 +326,28 @@ def get_offers_for_pair(have_currency, want_currency):
     print(f"Getting offers for {have_currency} -> {want_currency}")
 
     # Move Cursor to random Have location within these coordinates (1473, 298, 1748, 343)
-    
-
-
     # Click on Have Currency
+    move_mouse_to_position(resolution[2])
+
     # Ctrl + F
     # Paste Have Currency
     # Move Cursor to Top Middle where Currency is displayed
     # Click on Currency
+    exchange_search(have_currency, resolution[5])
 
     # Move Cursor to Want Currency
     # Click on Want Currency
+    move_mouse_to_position(resolution[3])
+
     # Ctrl + F
     # Paste Want Currency
     # Move Cursor to Top Middle where Currency is displayed
     # Click on Currency
+    exchange_search(want_currency, resolution[5])
 
     # Move Cursor to Top Middle where Market Ratio is displayed
+    move_mouse_to_position(resolution[4])
+
     # Hold Alt
 
     # Perform check if there are no available or competing trades
@@ -318,6 +358,21 @@ def get_offers_for_pair(have_currency, want_currency):
     #   3. OCR each processed image
     #   4. Parse the OCR results
     #   5. Return the parsed results
+
+def is_no_trades():
+    pyautogui.keyDown('alt')
+    no_trades_img = capture_and_process_no_trades(resolution[6], save_debug=True, debug_dir="screenshots")
+
+    custom_config = "--psm 6"
+    no_trades_text = pytesseract.image_to_string(no_trades_img, config=custom_config)
+    no_trades_text = no_trades_text.splitlines()
+
+    pyautogui.keyUp('alt')
+
+    if "There are no" in no_trades_text[0]:
+        return True
+    return False
+
 
 
 ###############################################################################
@@ -367,7 +422,7 @@ def main():
         for want in want_currencies:
             if want == have:
                 continue
-            main_trades, competing_trades = get_offers_for_pair(have, want)
+            get_offers_for_pair(have, want) # This sets up the exchange interface for Have/Want
 
     # update_exchange(data, "Chaos Orb", "Orb of Alteration", main_trades, competing_trades)
 
@@ -377,4 +432,5 @@ def main():
     print(f"Updated data in {json_path}")
 
 if __name__ == "__main__":
-    main()
+    pyautogui.sleep(2)
+    print(is_no_trades())
