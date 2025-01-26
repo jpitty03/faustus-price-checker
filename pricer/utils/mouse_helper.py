@@ -1,5 +1,4 @@
 import random
-from env import resolution_2560 as resolution
 import pyautogui
 
 

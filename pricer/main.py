@@ -5,9 +5,9 @@ import os
 from time import sleep
 
 import pyautogui
-from utils.mouse_helper import exchange_search, move_mouse_to_position
+from utils.mouse_helper import click_mouse, exchange_search, move_mouse_to_position
 from utils.currencies import have_currencies, want_currencies
-from env import resolution_2560 as resolution
+from utils.resolution_helper import resolution_2560 as resolution
 
 from PIL import ImageGrab, ImageOps, ImageEnhance, Image
 import pytesseract
@@ -29,8 +29,13 @@ def capture_and_process_trade_window(
     contrast_factor=1.5,
     upscale_factor=3.0
 ):
+    # Move Cursor to Top Middle where Market Ratio is displayed
+    move_mouse_to_position(resolution[4])
+
     # 1. Capture screenshot
+    pyautogui.keyDown('alt')
     screenshot = ImageGrab.grab(bbox=region) if region else ImageGrab.grab()
+    pyautogui.keyUp('alt')
 
     if save_debug:
         os.makedirs(debug_dir, exist_ok=True)
@@ -328,25 +333,26 @@ def get_offers_for_pair(have_currency, want_currency):
     # Move Cursor to random Have location within these coordinates (1473, 298, 1748, 343)
     # Click on Have Currency
     move_mouse_to_position(resolution[2])
+    click_mouse()
 
     # Ctrl + F
     # Paste Have Currency
     # Move Cursor to Top Middle where Currency is displayed
     # Click on Currency
     exchange_search(have_currency, resolution[5])
+    click_mouse()
 
     # Move Cursor to Want Currency
     # Click on Want Currency
     move_mouse_to_position(resolution[3])
+    click_mouse()
 
     # Ctrl + F
     # Paste Want Currency
     # Move Cursor to Top Middle where Currency is displayed
     # Click on Currency
     exchange_search(want_currency, resolution[5])
-
-    # Move Cursor to Top Middle where Market Ratio is displayed
-    move_mouse_to_position(resolution[4])
+    click_mouse()
 
     # Hold Alt
 
@@ -360,6 +366,7 @@ def get_offers_for_pair(have_currency, want_currency):
     #   5. Return the parsed results
 
 def is_no_trades():
+    move_mouse_to_position(resolution[4])
     pyautogui.keyDown('alt')
     no_trades_img = capture_and_process_no_trades(resolution[6], save_debug=True, debug_dir="screenshots")
 
@@ -381,39 +388,6 @@ def is_no_trades():
 
 def main():
     sleep(3)  # Give you time to switch to the right screen
-    # 1. Grab or define the region where Path of Exile shows the trade info.
-    #    For demonstration, let's just do the entire screen (not recommended).
-    #    Alternatively, you can do something like region=(100, 100, 600, 600).
-    main_trades_region = resolution[0]
-    competing_trades_region = resolution[1]
-
-    # 2. Optionally automate in-game actions (e.g., pyautogui to press Alt, etc.).
-    #    Here we'll assume you're already on the right screen with Alt pressed if needed.
-
-    # 3. Take a screenshot
-    main_trades_img = capture_and_process_trade_window(region=main_trades_region, save_debug=True, debug_dir="screenshots")
-    competing_trades_img = capture_and_process_trade_window(region=competing_trades_region, save_debug=True, debug_dir="screenshots")
-
-    # 4. OCR each processed image
-    custom_config = "--psm 6"
-    main_text = pytesseract.image_to_string(main_trades_img, config=custom_config)
-    main_text = main_text.splitlines()
-    competing_text = pytesseract.image_to_string(competing_trades_img, config=custom_config)
-    competing_text = competing_text.splitlines()
-
-    print("\n=== MAIN TRADES OCR ===")
-    print(main_text)
-    print("\n=== MAIN TRADES PARSED OCR ===")
-    print(parse_ocr_block(main_text))
-    main_trades = parse_ocr_block(main_text)
-
-    print("\n=== COMPETING TRADES OCR ===")
-    print(competing_text)
-    print("\n=== COMPETING TRADES PARSED OCR ===")
-    print(parse_ocr_block(competing_text))
-    competing_trades = parse_ocr_block(competing_text)
-
-    # 2. Load existing data from "prices.json" (or another file)
     json_path = "prices.json"
     data = load_data(json_path)
 
@@ -423,6 +397,70 @@ def main():
             if want == have:
                 continue
             get_offers_for_pair(have, want) # This sets up the exchange interface for Have/Want
+            if is_no_trades():
+                print(f"No trades available for {have} -> {want}")
+                continue
+            # perform screenshot and ocr
+            main_trades_img = capture_and_process_trade_window(region=resolution[0], save_debug=True, debug_dir="screenshots")
+            competing_trades_img = capture_and_process_trade_window(region=resolution[1], save_debug=True, debug_dir="screenshots")
+            custom_config = "--psm 6"
+            main_text = pytesseract.image_to_string(main_trades_img, config=custom_config)
+            main_text = main_text.splitlines()
+            competing_text = pytesseract.image_to_string(competing_trades_img, config=custom_config)
+            competing_text = competing_text.splitlines()
+
+            print("\n=== MAIN TRADES OCR ===")
+            print(main_text)
+            print("\n=== MAIN TRADES PARSED OCR ===")
+            print(parse_ocr_block(main_text))
+            main_trades = parse_ocr_block(main_text)
+            print(main_trades)
+
+            print("\n=== COMPETING TRADES OCR ===")
+            print(competing_text)
+            print("\n=== COMPETING TRADES PARSED OCR ===")
+            print(parse_ocr_block(competing_text))
+            competing_trades = parse_ocr_block(competing_text)
+            print(competing_trades)
+
+            # update exchange prices
+            update_exchange(data, have, want, main_trades, competing_trades)
+
+
+    # 1. Grab or define the region where Path of Exile shows the trade info.
+    #    For demonstration, let's just do the entire screen (not recommended).
+    #    Alternatively, you can do something like region=(100, 100, 600, 600).
+    # main_trades_region = resolution[0]
+    # competing_trades_region = resolution[1]
+
+    # 2. Optionally automate in-game actions (e.g., pyautogui to press Alt, etc.).
+    #    Here we'll assume you're already on the right screen with Alt pressed if needed.
+
+    # 3. Take a screenshot
+    # main_trades_img = capture_and_process_trade_window(region=main_trades_region, save_debug=True, debug_dir="screenshots")
+    # competing_trades_img = capture_and_process_trade_window(region=competing_trades_region, save_debug=True, debug_dir="screenshots")
+
+    # # 4. OCR each processed image
+    # custom_config = "--psm 6"
+    # main_text = pytesseract.image_to_string(main_trades_img, config=custom_config)
+    # main_text = main_text.splitlines()
+    # competing_text = pytesseract.image_to_string(competing_trades_img, config=custom_config)
+    # competing_text = competing_text.splitlines()
+
+    # print("\n=== MAIN TRADES OCR ===")
+    # print(main_text)
+    # print("\n=== MAIN TRADES PARSED OCR ===")
+    # print(parse_ocr_block(main_text))
+    # main_trades = parse_ocr_block(main_text)
+
+    # print("\n=== COMPETING TRADES OCR ===")
+    # print(competing_text)
+    # print("\n=== COMPETING TRADES PARSED OCR ===")
+    # print(parse_ocr_block(competing_text))
+    # competing_trades = parse_ocr_block(competing_text)
+
+    # 2. Load existing data from "prices.json" (or another file)
+
 
     # update_exchange(data, "Chaos Orb", "Orb of Alteration", main_trades, competing_trades)
 
@@ -432,5 +470,4 @@ def main():
     print(f"Updated data in {json_path}")
 
 if __name__ == "__main__":
-    pyautogui.sleep(2)
-    print(is_no_trades())
+    main()

@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-24T22:41:40.395883Z",
+  "updated": "2025-01-26T02:42:40.406188Z",
   "exchanges": [
     {
       "haveCurrency": "Chaos Orb",
@@ -205,6 +205,75 @@
           "haveAmount": 12.0,
           "wantAmount": 1.0,
           "stock": 799
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Orb of Regret",
+      "lastUpdated": "2025-01-26T02:42:40.406188Z",
+      "offers": [
+        {
+          "haveAmount": 1.25,
+          "wantAmount": 1.0,
+          "stock": 2860
+        },
+        {
+          "haveAmount": 1.1,
+          "wantAmount": 1.0,
+          "stock": 2541
+        },
+        {
+          "haveAmount": 1.08,
+          "wantAmount": 1.0,
+          "stock": 65
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.17,
+          "stock": 1226
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.17,
+          "stock": 9420
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 80
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 22
         }
       ]
     }
