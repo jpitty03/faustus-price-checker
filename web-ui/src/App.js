@@ -1,12 +1,15 @@
 import React from "react";
-import PoEExchanges from "./components/PoEExchanges";
+import PriceDataGrid from "./components/PriceDataGrid";
+import HeaderBar from "./components/HeaderBar";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <PoEExchanges />
-      </header>
+    <div>
+      <HeaderBar />
+      <div style={{ padding: "1rem" }}>
+        <h2>PoE Currency Data</h2>
+        <PriceDataGrid />
+      </div>
     </div>
   );
 }

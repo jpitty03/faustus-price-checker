@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "homepage": "https://jpitty03.github.io/faustus-price-checker",
   "private": true,
+  "proxy": "https://poe.ninja/api/data/currencyoverview?league=Standard&type=Currency&language=en",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.1",
     "@mui/material": "^6.4.1",
+    "@mui/x-data-grid": "^7.24.1",
     "cra-template": "1.2.0",
+    "poe-api-manager": "^1.2.19",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"

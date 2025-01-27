@@ -11,9 +11,18 @@ const theme = createTheme({
   palette: {
     mode: "dark",
     primary: {
-      main: "#dfdsfds"
+      main: "#90caf9",  // a lighter blue for dark backgrounds
     },
-    // etc.
+    secondary: {
+      main: "#f48fb1",  // pink accent
+    },
+    background: {
+      default: "#121212", // typical dark background
+      paper: "#1d1d1d"
+    },
+    text: {
+      primary: "#ffffff"  // ensures text is readable against dark background
+    }
   }
 });
 
