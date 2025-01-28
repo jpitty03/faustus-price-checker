@@ -11,7 +11,15 @@ def move_mouse_to_position(coords):
     pyautogui.moveTo(
         x=x, 
         y=y, 
-        duration=.4,  # Duration in seconds
+        duration=.2,  # Duration in seconds
+        tween=pyautogui.easeInOutQuad  # Tweening function for smooth movement
+    )
+
+def move_mouse_to_random():
+    pyautogui.moveTo(
+        x=1487, 
+        y=419, 
+        duration=.1,  # Duration in seconds
         tween=pyautogui.easeInOutQuad  # Tweening function for smooth movement
     )
 

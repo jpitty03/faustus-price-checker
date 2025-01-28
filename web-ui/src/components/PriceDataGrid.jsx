@@ -1,22 +1,84 @@
 import React, { useEffect, useState } from "react";
 import { DataGrid } from "@mui/x-data-grid";
+import { getColumns } from "./ColDefs";
 
-// Flatten logic for prices.json
+// Helper: Build Currency Map
+function buildCurrencyMap(ninjaData) {
+  const linesMap = {}; // Map for chaosEquivalent data
+
+  // Build a map from "lines"
+  if (ninjaData && ninjaData.lines) {
+    ninjaData.lines.forEach((line) => {
+      const name = line.currencyTypeName;
+      linesMap[name] = {
+        chaosEquivalent: line.chaosEquivalent || 0,
+        pay: line.pay,
+        receive: line.receive,
+      };
+    });
+  }
+
+  const mergedMap = {};
+
+  // Merge with currencyDetails
+  if (ninjaData && ninjaData.currencyDetails) {
+    ninjaData.currencyDetails.forEach((c) => {
+      const name = c.name;
+      const icon = c.icon;
+      const lineObj = linesMap[name] || {};
+
+      mergedMap[name] = {
+        icon,
+        chaosEquivalent: lineObj.chaosEquivalent || 0,
+        tradeId: c.tradeId,
+      };
+    });
+  }
+
+  return mergedMap;
+}
+
+// // Helper: Define Columns
+// function getColumns(currencyIconMap) {
+//   return [
+//     {
+//       field: "haveCurrency",
+//       headerName: "Have Currency",
+//       width: 250,
+//       renderCell: (params) => {
+//         const currencyName = params.value;
+//         const amount = params.row.haveAmount;
+//         const iconUrl = currencyIconMap[currencyName]?.icon;
+//         return (
+//           <div style={{ display: "flex", alignItems: "center" }}>
+//             <span style={{ marginRight: 8 }}>{amount}</span>
+//             {iconUrl && (
+//               <img
+//                 src={iconUrl}
+//                 alt={currencyName}
+//                 style={{ width: 24, height: 24, marginRight: 8 }}
+//               />
+//             )}
+//             <span>{currencyName}</span>
+//           </div>
+//         );
+//       },
+//     },
+//     { field: "wantCurrency", headerName: "Want Currency", width: 150 },
+//     { field: "lastUpdated", headerName: "Last Updated", width: 180 },
+//     { field: "rowType", headerName: "Type", width: 100 },
+//     { field: "haveAmount", headerName: "Have Amt", type: "number", width: 100 },
+//     { field: "wantAmount", headerName: "Want Amt", type: "number", width: 100 },
+//     { field: "stock", headerName: "Stock", type: "number", width: 100 },
+//   ];
+// }
+
+// Helper: Flatten Exchanges
 function flattenExchanges(pricesJson) {
-  // pricesJson should look like:
-  // {
-  //   "updated": "2025-01-26T02:42:40.406188Z",
-  //   "exchanges": [
-  //       {
-  //         "haveCurrency": "...",
-  //         "wantCurrency": "...",
-  //         "lastUpdated": "...",
-  //         "offers": [...],
-  //         "competingTrades": [...]
-  //       },
-  //       ...
-  //   ]
-  // }
+  if (!pricesJson || !pricesJson.exchanges) {
+    console.error("Invalid data structure received:", pricesJson);
+    return [];
+  }
 
   let rowId = 1;
   const rows = [];
@@ -30,16 +92,16 @@ function flattenExchanges(pricesJson) {
       rows.push({
         id: rowId++,
         rowType: "offer",
-        haveCurrency,
+        haveCurrency: haveCurrency,
         wantCurrency,
         lastUpdated,
-        haveAmount: firstOffer.haveAmount,
-        wantAmount: firstOffer.wantAmount,
-        stock: firstOffer.stock
+        haveAmount: firstOffer.wantAmount,
+        wantAmount: firstOffer.haveAmount,
+        stock: firstOffer.stock,
       });
     }
 
-    // If there's at least one competing, push the first
+    // If there's at least one competing trade, push the first
     if (competingTrades && competingTrades.length > 0) {
       const firstCompeting = competingTrades[0];
       rows.push({
@@ -48,9 +110,9 @@ function flattenExchanges(pricesJson) {
         haveCurrency,
         wantCurrency,
         lastUpdated,
-        haveAmount: firstCompeting.haveAmount,
-        wantAmount: firstCompeting.wantAmount,
-        stock: firstCompeting.stock
+        haveAmount: firstCompeting.wantAmount,
+        wantAmount: firstCompeting.haveAmount,
+        stock: firstCompeting.stock,
       });
     }
   });
@@ -58,71 +120,39 @@ function flattenExchanges(pricesJson) {
   return rows;
 }
 
+// Main Component
 export default function PriceDataGrid() {
   const [rows, setRows] = useState([]);
   const [currencyIconMap, setCurrencyIconMap] = useState({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Fetch both currencyOverview.json (for icons) and prices.json (for exchange data).
-    Promise.all([
-      fetch("/faustusPrices.json").then((res) => res.json()),
-      fetch("/faustusPrices.json").then((res) => res.json())
-    ])
-      .then(([ninjaData, pricesData]) => {
-        console.log("Fetched JSON Ninja files:", ninjaData);
-        console.log("Fetched JSON faustusPrices files:", pricesData);
-        // 1. Build icon map from the currencyOverview
-        const iconMap = {};
-        if (ninjaData.currencyDetails) {
-          ninjaData.currencyDetails.forEach((c) => {
-            iconMap[c.name] = c.icon;
-          });
-        }
+    // Fetch currencyOverview.json (Ninja data)
+    fetch("/faustus-price-checker/currencyOverview.json")
+      .then((res) => res.json())
+      .then((ninjaData) => {
+        const mergedMap = buildCurrencyMap(ninjaData);
+        setCurrencyIconMap(mergedMap);
 
-        // 2. Flatten the newly fetched prices.json
+        // Console log after processing currencyOverview
+        console.log("Merged Currency Map (Icons & Chaos Equivalents):", mergedMap);
+
+        // Fetch faustusPrices.json
+        return fetch("/faustus-price-checker/faustusPrices.json");
+      })
+      .then((res) => res.json())
+      .then((pricesData) => {
         const flattenedRows = flattenExchanges(pricesData);
-
-        // 3. Update state
-        setCurrencyIconMap(iconMap);
         setRows(flattenedRows);
         setLoading(false);
       })
       .catch((err) => {
-        console.error("Error fetching JSON files:", err);
+        console.error("Error fetching data:", err);
         setLoading(false);
       });
   }, []);
 
-  const columns = [
-    {
-      field: "haveCurrency",
-      headerName: "Have Currency",
-      width: 200,
-      renderCell: (params) => {
-        const currencyName = params.value;
-        const iconUrl = currencyIconMap[currencyName];
-        return (
-          <div style={{ display: "flex", alignItems: "center" }}>
-            {iconUrl && (
-              <img
-                src={iconUrl}
-                alt={currencyName}
-                style={{ width: 24, height: 24, marginRight: 8 }}
-              />
-            )}
-            {currencyName}
-          </div>
-        );
-      }
-    },
-    { field: "wantCurrency", headerName: "Want Currency", width: 130 },
-    { field: "lastUpdated", headerName: "Last Updated", width: 180 },
-    { field: "rowType", headerName: "Type", width: 100 },
-    { field: "haveAmount", headerName: "Have Amt", type: "number", width: 100 },
-    { field: "wantAmount", headerName: "Want Amt", type: "number", width: 100 },
-    { field: "stock", headerName: "Stock", type: "number", width: 100 }
-  ];
+  const columns = getColumns(currencyIconMap);
 
   if (loading) {
     return <div>Loading data...</div>;

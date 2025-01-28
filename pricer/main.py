@@ -5,7 +5,7 @@ import os
 from time import sleep
 
 import pyautogui
-from utils.mouse_helper import click_mouse, exchange_search, move_mouse_to_position
+from utils.mouse_helper import click_mouse, exchange_search, move_mouse_to_position, move_mouse_to_random
 from utils.currencies import have_currencies, want_currencies
 from utils.resolution_helper import resolution_2560 as resolution
 
@@ -21,7 +21,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 def capture_and_process_trade_window(
     region=None, 
-    save_debug=True, 
+    save_debug=False, 
     debug_dir="screenshots", 
     invert_colors=True,
     threshold=True,
@@ -29,6 +29,7 @@ def capture_and_process_trade_window(
     contrast_factor=1.5,
     upscale_factor=3.0
 ):
+
     # Move Cursor to Top Middle where Market Ratio is displayed
     move_mouse_to_position(resolution[4])
 
@@ -330,17 +331,17 @@ def get_offers_for_pair(have_currency, want_currency):
     # Have exchange interface opened
     print(f"Getting offers for {have_currency} -> {want_currency}")
 
-    # Move Cursor to random Have location within these coordinates (1473, 298, 1748, 343)
-    # Click on Have Currency
-    move_mouse_to_position(resolution[2])
-    click_mouse()
+    # # Move Cursor to random Have location within these coordinates (1473, 298, 1748, 343)
+    # # Click on Have Currency
+    # move_mouse_to_position(resolution[2])
+    # click_mouse()
 
-    # Ctrl + F
-    # Paste Have Currency
-    # Move Cursor to Top Middle where Currency is displayed
-    # Click on Currency
-    exchange_search(have_currency, resolution[5])
-    click_mouse()
+    # # Ctrl + F
+    # # Paste Have Currency
+    # # Move Cursor to Top Middle where Currency is displayed
+    # # Click on Currency
+    # exchange_search(have_currency, resolution[5])
+    # click_mouse()
 
     # Move Cursor to Want Currency
     # Click on Want Currency
@@ -366,9 +367,10 @@ def get_offers_for_pair(have_currency, want_currency):
     #   5. Return the parsed results
 
 def is_no_trades():
+    move_mouse_to_random()
     move_mouse_to_position(resolution[4])
     pyautogui.keyDown('alt')
-    no_trades_img = capture_and_process_no_trades(resolution[6], save_debug=True, debug_dir="screenshots")
+    no_trades_img = capture_and_process_no_trades(resolution[6], save_debug=False, debug_dir="screenshots")
 
     custom_config = "--psm 6"
     no_trades_text = pytesseract.image_to_string(no_trades_img, config=custom_config)
@@ -388,7 +390,7 @@ def is_no_trades():
 
 def main():
     sleep(3)  # Give you time to switch to the right screen
-    json_path = "prices.json"
+    json_path = "../../web-ui/public/faustusPrices.json"
     data = load_data(json_path)
 
     # 3. Update the "Chaos Orb" -> "Divine Orb" exchange
@@ -424,6 +426,7 @@ def main():
             print(competing_trades)
 
             # update exchange prices
+            print(f"Updating exchange for {have} -> {want}")
             update_exchange(data, have, want, main_trades, competing_trades)
 
 
