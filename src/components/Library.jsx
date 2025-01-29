@@ -6,7 +6,7 @@ export default function Library() {
     useEffect(() => {
         const fetchData = async () => {
             console.log("Fetching data...");
-            const response = await fetch('http://localhost:5001/api/prices/');
+            const response = await fetch('/api/prices/');
     
             if (!response.ok) {
                 console.error(`Error fetching data: ${response.status}`);
