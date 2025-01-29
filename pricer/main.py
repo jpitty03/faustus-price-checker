@@ -327,21 +327,9 @@ def update_exchange(data, have_currency, want_currency, new_offers, new_competin
 # 4. EXCHANGE LOGIC
 ###############################################################################
 
-def get_offers_for_pair(have_currency, want_currency):
+def get_want(have_currency, want_currency):
     # Have exchange interface opened
     print(f"Getting offers for {have_currency} -> {want_currency}")
-
-    # # Move Cursor to random Have location within these coordinates (1473, 298, 1748, 343)
-    # # Click on Have Currency
-    # move_mouse_to_position(resolution[2])
-    # click_mouse()
-
-    # # Ctrl + F
-    # # Paste Have Currency
-    # # Move Cursor to Top Middle where Currency is displayed
-    # # Click on Currency
-    # exchange_search(have_currency, resolution[5])
-    # click_mouse()
 
     # Move Cursor to Want Currency
     # Click on Want Currency
@@ -355,16 +343,22 @@ def get_offers_for_pair(have_currency, want_currency):
     exchange_search(want_currency, resolution[5])
     click_mouse()
 
-    # Hold Alt
+def get_have(have_currency):
+    # Have exchange interface opened
+    print(f"Getting offers for {have_currency}")
 
-    # Perform check if there are no available or competing trades
-    # If there are no trades in either side, return empty lists
-    # If there are trades:
-    #   1. Capture and process the main trades window
-    #   2. Capture and process the competing trades window
-    #   3. OCR each processed image
-    #   4. Parse the OCR results
-    #   5. Return the parsed results
+    # Move Cursor to random Have location within these coordinates (1473, 298, 1748, 343)
+    # Click on Have Currency
+    move_mouse_to_position(resolution[2])
+    click_mouse()
+
+    # Ctrl + F
+    # Paste Have Currency
+    # Move Cursor to Top Middle where Currency is displayed
+    # Click on Currency
+    exchange_search(have_currency, resolution[5])
+    click_mouse()
+
 
 def is_no_trades():
     move_mouse_to_random()
@@ -395,10 +389,11 @@ def main():
 
     # 3. Update the "Chaos Orb" -> "Divine Orb" exchange
     for have in have_currencies:
+        get_have(have)
         for want in want_currencies:
             if want == have:
                 continue
-            get_offers_for_pair(have, want) # This sets up the exchange interface for Have/Want
+            get_want(have, want) # This sets up the exchange interface for Have/Want
             if is_no_trades():
                 print(f"No trades available for {have} -> {want}")
                 continue
@@ -411,61 +406,23 @@ def main():
             competing_text = pytesseract.image_to_string(competing_trades_img, config=custom_config)
             competing_text = competing_text.splitlines()
 
-            print("\n=== MAIN TRADES OCR ===")
-            print(main_text)
-            print("\n=== MAIN TRADES PARSED OCR ===")
-            print(parse_ocr_block(main_text))
+            # print("\n=== MAIN TRADES OCR ===")
+            # print(main_text)
+            # print("\n=== MAIN TRADES PARSED OCR ===")
+            # print(parse_ocr_block(main_text))
             main_trades = parse_ocr_block(main_text)
             print(main_trades)
 
-            print("\n=== COMPETING TRADES OCR ===")
-            print(competing_text)
-            print("\n=== COMPETING TRADES PARSED OCR ===")
-            print(parse_ocr_block(competing_text))
+            # print("\n=== COMPETING TRADES OCR ===")
+            # print(competing_text)
+            # print("\n=== COMPETING TRADES PARSED OCR ===")
+            # print(parse_ocr_block(competing_text))
             competing_trades = parse_ocr_block(competing_text)
             print(competing_trades)
 
             # update exchange prices
             print(f"Updating exchange for {have} -> {want}")
             update_exchange(data, have, want, main_trades, competing_trades)
-
-
-    # 1. Grab or define the region where Path of Exile shows the trade info.
-    #    For demonstration, let's just do the entire screen (not recommended).
-    #    Alternatively, you can do something like region=(100, 100, 600, 600).
-    # main_trades_region = resolution[0]
-    # competing_trades_region = resolution[1]
-
-    # 2. Optionally automate in-game actions (e.g., pyautogui to press Alt, etc.).
-    #    Here we'll assume you're already on the right screen with Alt pressed if needed.
-
-    # 3. Take a screenshot
-    # main_trades_img = capture_and_process_trade_window(region=main_trades_region, save_debug=True, debug_dir="screenshots")
-    # competing_trades_img = capture_and_process_trade_window(region=competing_trades_region, save_debug=True, debug_dir="screenshots")
-
-    # # 4. OCR each processed image
-    # custom_config = "--psm 6"
-    # main_text = pytesseract.image_to_string(main_trades_img, config=custom_config)
-    # main_text = main_text.splitlines()
-    # competing_text = pytesseract.image_to_string(competing_trades_img, config=custom_config)
-    # competing_text = competing_text.splitlines()
-
-    # print("\n=== MAIN TRADES OCR ===")
-    # print(main_text)
-    # print("\n=== MAIN TRADES PARSED OCR ===")
-    # print(parse_ocr_block(main_text))
-    # main_trades = parse_ocr_block(main_text)
-
-    # print("\n=== COMPETING TRADES OCR ===")
-    # print(competing_text)
-    # print("\n=== COMPETING TRADES PARSED OCR ===")
-    # print(parse_ocr_block(competing_text))
-    # competing_trades = parse_ocr_block(competing_text)
-
-    # 2. Load existing data from "prices.json" (or another file)
-
-
-    # update_exchange(data, "Chaos Orb", "Orb of Alteration", main_trades, competing_trades)
 
     # 4. Save the updated data
     save_data(json_path, data)

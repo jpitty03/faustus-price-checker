@@ -74,11 +74,11 @@ export const getColumns = (currencyIconMap) => [
         field: "ninjaPrice",
         headerName: "Ninja Price",
         type: "number",
-        width: 150, // Adjusted width to fit additional content
+        width: 150,
         renderCell: (params) => {
-            const currencyName = params.row.wantCurrency; // Access the 'haveCurrency' field
-            const chaosEquivalent = currencyIconMap[currencyName]?.chaosEquivalent || "N/A"; // Get chaosEquivalent or fallback
-            const iconUrl = currencyIconMap[currencyName]?.icon; // Get the icon URL
+            const currencyName = params.row.wantCurrency;
+            const chaosEquivalent = currencyIconMap[currencyName]?.chaosEquivalent || "N/A";
+            const iconUrl = currencyIconMap['Chaos Orb']?.icon;
 
             return (
                 <div style={{ display: "flex", alignItems: "center" }}>

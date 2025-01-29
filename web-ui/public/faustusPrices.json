@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-28T04:31:41.169557Z",
+  "updated": "2025-01-28T17:16:58.509238Z",
   "exchanges": [
     {
       "haveCurrency": "Chaos Orb",
@@ -67,75 +67,6 @@
           "haveAmount": 1.0,
           "wantAmount": 167.0,
           "stock": 907853
-        }
-      ]
-    },
-    {
-      "haveCurrency": "Divine Orb",
-      "wantCurrency": "Orb of Alteration",
-      "lastUpdated": "2025-01-24T22:40:41.168435Z",
-      "offers": [
-        {
-          "haveAmount": 6.0,
-          "wantAmount": 1.0,
-          "stock": 2676
-        },
-        {
-          "haveAmount": 5.0,
-          "wantAmount": 1.0,
-          "stock": 3730
-        },
-        {
-          "haveAmount": 4.25,
-          "wantAmount": 1.0,
-          "stock": 30
-        },
-        {
-          "haveAmount": 4.0,
-          "wantAmount": 1.0,
-          "stock": 392
-        },
-        {
-          "haveAmount": 3.54,
-          "wantAmount": 1.0,
-          "stock": 280
-        },
-        {
-          "haveAmount": 3.54,
-          "wantAmount": 1.0,
-          "stock": 29889
-        }
-      ],
-      "competingTrades": [
-        {
-          "haveAmount": 9.98,
-          "wantAmount": 1.0,
-          "stock": 200
-        },
-        {
-          "haveAmount": 9.99,
-          "wantAmount": 1.0,
-          "stock": 200
-        },
-        {
-          "haveAmount": 10.0,
-          "wantAmount": 1.0,
-          "stock": 4239
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 1.0,
-          "stock": 10
-        },
-        {
-          "haveAmount": 12.0,
-          "wantAmount": 1.0,
-          "stock": 41
-        },
-        {
-          "haveAmount": 12.0,
-          "wantAmount": 1.0,
-          "stock": 799
         }
       ]
     },
@@ -270,8 +201,23 @@
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Ancient Orb",
-      "lastUpdated": "2025-01-28T04:28:47.445622Z",
+      "lastUpdated": "2025-01-28T17:16:11.333153Z",
       "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 29
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.75,
+          "stock": 40
+        },
         {
           "haveAmount": 1.0,
           "wantAmount": 13.0,
@@ -284,30 +230,20 @@
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 15.0,
-          "stock": 6
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 17.0,
-          "stock": 2
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 18.0,
-          "stock": 9
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 18.0,
-          "stock": 194
+          "wantAmount": 13.33,
+          "stock": 200
         }
       ],
       "competingTrades": [
         {
           "haveAmount": 1.0,
+          "wantAmount": 4.5,
+          "stock": 279
+        },
+        {
+          "haveAmount": 1.0,
           "wantAmount": 4.0,
-          "stock": 1236
+          "stock": 1172
         },
         {
           "haveAmount": 1.0,
@@ -326,62 +262,62 @@
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 1.0,
-          "stock": 102
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 1.0,
-          "stock": 227
+          "wantAmount": 1.5,
+          "stock": 329
         }
       ]
     },
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Stacked Deck",
-      "lastUpdated": "2025-01-28T04:28:53.142736Z",
+      "lastUpdated": "2025-01-28T17:16:17.037525Z",
       "offers": [
         {
           "haveAmount": 1.0,
-          "wantAmount": 1.52,
-          "stock": 62
+          "wantAmount": 1.43,
+          "stock": 497
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 1.7,
-          "stock": 100
+          "wantAmount": 1.48,
+          "stock": 31
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 1.75,
-          "stock": 472
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 1.78,
+          "wantAmount": 1.5,
           "stock": 180
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 1.79,
-          "stock": 500
+          "wantAmount": 1.52,
+          "stock": 98
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 1.79,
-          "stock": 7878
+          "wantAmount": 1.58,
+          "stock": 57
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.58,
+          "stock": 9332
         }
       ],
       "competingTrades": [
         {
           "haveAmount": 1.0,
+          "wantAmount": 1.2,
+          "stock": 120
+        },
+        {
+          "haveAmount": 1.0,
           "wantAmount": 1.0,
-          "stock": 159
+          "stock": 1755
         },
         {
           "haveAmount": 2.0,
           "wantAmount": 1.0,
-          "stock": 182
+          "stock": 180
         },
         {
           "haveAmount": 3.0,
@@ -394,9 +330,9 @@
           "stock": 100
         },
         {
-          "haveAmount": 10.0,
+          "haveAmount": 3.5,
           "wantAmount": 1.0,
-          "stock": 152
+          "stock": 157
         }
       ]
     },
@@ -894,27 +830,22 @@
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Exalted Orb",
-      "lastUpdated": "2025-01-28T04:28:41.744194Z",
+      "lastUpdated": "2025-01-28T17:16:05.625216Z",
       "offers": [
         {
           "haveAmount": 1.0,
           "wantAmount": 33.0,
-          "stock": 43
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 33.93,
-          "stock": 28
+          "stock": 20
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 34.0,
-          "stock": 2
+          "stock": 156
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 35.0,
-          "stock": 273
+          "stock": 263
         },
         {
           "haveAmount": 1.0,
@@ -923,30 +854,30 @@
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 36.0,
-          "stock": 421
+          "wantAmount": 38.0,
+          "stock": 50
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 38.0,
+          "stock": 371
         }
       ],
       "competingTrades": [
         {
           "haveAmount": 1.0,
-          "wantAmount": 25.0,
-          "stock": 7050
+          "wantAmount": 24.0,
+          "stock": 4560
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 23.0,
-          "stock": 46
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 22.25,
-          "stock": 89
+          "stock": 11431
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 22.0,
-          "stock": 6336
+          "stock": 6292
         },
         {
           "haveAmount": 1.0,
@@ -955,30 +886,30 @@
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 21.0,
-          "stock": 13034
+          "wantAmount": 20.0,
+          "stock": 2580
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 10757
         }
       ]
     },
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Harbinger's Orb",
-      "lastUpdated": "2025-01-28T04:28:58.790792Z",
+      "lastUpdated": "2025-01-28T17:16:22.747397Z",
       "offers": [
         {
           "haveAmount": 1.0,
           "wantAmount": 4.0,
-          "stock": 40
+          "stock": 1
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 5.0,
           "stock": 562
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 5.11,
-          "stock": 47
         },
         {
           "haveAmount": 1.0,
@@ -992,11 +923,26 @@
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 50.0,
-          "stock": 3
+          "wantAmount": 126.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 126.0,
+          "stock": 1
         }
       ],
       "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
         {
           "haveAmount": 200.0,
           "wantAmount": 1.0,
@@ -1007,8 +953,18 @@
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Valdo's Puzzle Box",
-      "lastUpdated": "2025-01-28T04:29:04.517074Z",
+      "lastUpdated": "2025-01-28T17:16:28.472739Z",
       "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 218.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 219.0,
+          "stock": 6
+        },
         {
           "haveAmount": 1.0,
           "wantAmount": 220.0,
@@ -1017,24 +973,29 @@
         {
           "haveAmount": 1.0,
           "wantAmount": 230.0,
-          "stock": 2
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 240.0,
           "stock": 1
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 250.0,
-          "stock": 51
+          "wantAmount": 240.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 240.0,
+          "stock": 2
         }
       ],
       "competingTrades": [
         {
           "haveAmount": 1.0,
+          "wantAmount": 211.0,
+          "stock": 1266
+        },
+        {
+          "haveAmount": 1.0,
           "wantAmount": 210.0,
-          "stock": 14910
+          "stock": 6510
         },
         {
           "haveAmount": 1.0,
@@ -1053,13 +1014,8 @@
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 150.0,
-          "stock": 1650
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 150.0,
-          "stock": 409
+          "wantAmount": 151.0,
+          "stock": 2059
         }
       ]
     },
@@ -2027,6 +1983,242 @@
           "haveAmount": 1.0,
           "wantAmount": 1.0,
           "stock": 278
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Exalted Orb",
+      "lastUpdated": "2025-01-28T17:16:37.311203Z",
+      "offers": [
+        {
+          "haveAmount": 5.5,
+          "wantAmount": 1.0,
+          "stock": 704
+        },
+        {
+          "haveAmount": 5.47,
+          "wantAmount": 1.0,
+          "stock": 186
+        },
+        {
+          "haveAmount": 5.03,
+          "wantAmount": 1.0,
+          "stock": 503
+        },
+        {
+          "haveAmount": 5.02,
+          "wantAmount": 1.0,
+          "stock": 251
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 6285
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 48
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ancient Orb",
+      "lastUpdated": "2025-01-28T17:16:43.006635Z",
+      "offers": [
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 96
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 420
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 416
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 1740
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 330
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 435
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 29.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Stacked Deck",
+      "lastUpdated": "2025-01-28T17:16:48.728278Z",
+      "offers": [
+        {
+          "haveAmount": 106.0,
+          "wantAmount": 1.0,
+          "stock": 51834
+        },
+        {
+          "haveAmount": 105.0,
+          "wantAmount": 1.0,
+          "stock": 105
+        },
+        {
+          "haveAmount": 101.0,
+          "wantAmount": 1.0,
+          "stock": 4242
+        },
+        {
+          "haveAmount": 100.0,
+          "wantAmount": 1.0,
+          "stock": 103200
+        },
+        {
+          "haveAmount": 98.0,
+          "wantAmount": 1.0,
+          "stock": 98
+        },
+        {
+          "haveAmount": 98.0,
+          "wantAmount": 1.0,
+          "stock": 120901
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 130.0,
+          "wantAmount": 1.0,
+          "stock": 13
+        },
+        {
+          "haveAmount": 150.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 400.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 450.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 500.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 500.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Valdo's Puzzle Box",
+      "lastUpdated": "2025-01-28T17:16:58.509238Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.7,
+          "stock": 80
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.75,
+          "stock": 480
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.8,
+          "stock": 245
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.82,
+          "stock": 49
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 991
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 45
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 21
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.4,
+          "stock": 175
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.35,
+          "stock": 216
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.33,
+          "stock": 1592
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.3,
+          "stock": 13
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.3,
+          "stock": 1682
         }
       ]
     }

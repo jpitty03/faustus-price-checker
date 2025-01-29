@@ -1,6 +1,6 @@
 have_currencies = [
     'Chaos Orb',
-    # 'Divine Orb',
+    'Divine Orb',
 ]
 
 want_currencies = [
@@ -63,4 +63,19 @@ want_currencies = [
     'Maven\'s Chisel of Avarice',
     'Maven\'s Chisel of Divination',
     'Maven\'s Chisel of Scarabs',
+    'Crusader\'s Exalted Orb',
+    'Redeemer\'s Exalted Orb',
+    'Hunter\'s Exalted Orb',
+    'Warlord\'s Exalted Orb',
+    'Awakener\'s Orb',
+    'Orb of Dominance',
+    'Tainted Chromatic Orb',
+    'Tainted Jeweller\'s Orb',
+    'Tainted Armourer\'s Scrap',
+    'Tainted Blacksmith\'s Whetstone',
+    'Tainted Orb of Fusing',
+    'Tainted Mythic Orb',
+    'Tainted Chaos Orb',
+    'Tainted Exalted Orb',
+    'Tainted Divine Teardrop'
 ]
