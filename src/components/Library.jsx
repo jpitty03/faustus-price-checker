@@ -1,26 +1,34 @@
 import { useState, useEffect } from 'react'
 
 export default function Library() {
-    const [books, setBooks] = useState([])
+    const [prices, setPrices] = useState([])
 
     useEffect(() => {
         const fetchData = async () => {
-            const response = await fetch('/api/books/')
-            const json = await response.json()
-            setBooks(json)
-        }
-        fetchData()
-    }, [])
+            console.log("Fetching data...");
+            const response = await fetch('http://localhost:5001/api/prices/');
+    
+            if (!response.ok) {
+                console.error(`Error fetching data: ${response.status}`);
+                return;
+            }
+    
+            const json = await response.json();
+            setPrices(json);
+        };
+    
+        fetchData();
+    }, []);
 
     return (
         <div>
-            <h1>Library</h1>
+            <h1>Prices</h1>
             <ul>
-                { books.map((book, index) => (
+                { prices.map((price, index) => (
                     <li key={index} style={{paddingBottom: '25px'}}>
-                        <div>{book.name}</div>
-                        <div>{book.author}</div>
-                        <div>{book.year_published}</div>
+                        <div>{price.have_currency}</div>
+                        <div>{price.want_currency}</div>
+                        <div>{price.have_amount}</div>
                     </li>
                 ))}
             </ul>
