@@ -24,7 +24,7 @@ export const PricesProvider = ({ children }) => {
   };
 
   const connectWebSocket = () => {
-    ws = new WebSocket("ws://localhost:5001");
+    ws = new WebSocket("wss://faustus-price-checker.onrender.com");
 
     ws.onopen = () => {
       console.log("✅ WebSocket connected!");
