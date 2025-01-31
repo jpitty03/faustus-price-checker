@@ -3,6 +3,7 @@ import React, { createContext, useState, useEffect } from "react";
 export const PricesContext = createContext();
 
 export const PricesProvider = ({ children }) => {
+
   const [prices, setPrices] = useState([]);
   const [loading, setLoading] = useState(true);
   const [isConnected, setIsConnected] = useState(false);
@@ -24,7 +25,11 @@ export const PricesProvider = ({ children }) => {
   };
 
   const connectWebSocket = () => {
-    ws = new WebSocket("wss://faustus-price-checker.onrender.com");
+    if (process.env.NODE_ENV === "development") {
+      ws = new WebSocket("ws://localhost:5001");
+    } else {
+      ws = new WebSocket("wss://faustus-price-checker.herokuapp.com");
+    }
 
     ws.onopen = () => {
       console.log("✅ WebSocket connected!");
