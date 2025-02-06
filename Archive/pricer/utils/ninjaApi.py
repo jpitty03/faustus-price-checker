@@ -32,7 +32,8 @@ def merge_json_files():
 
             # Process lines
             for line in data.get('lines', []):
-                for key in ['paySparkLine', 'receiveSparkLine', 'lowConfidencePaySparkLine', 'lowConfidenceReceiveSparkLine']:
+                for key in ['pay', 'receive', 'paySparkLine', 'receiveSparkLine', 'lowConfidencePaySparkLine', 'lowConfidenceReceiveSparkLine', 'sparkline', 'itemClass', 'stackSize', 'lowConfidenceSparkline', 'implicitModifiers',
+                            'explicitModifiers', 'flavourText', 'count', 'tradeInfo', 'listingCount', 'id', 'baseType']:
                     line.pop(key, None)
                 merged_lines.append(line)
 
@@ -61,16 +62,12 @@ def merge_json_files():
         print(f"Error writing to file {output_file}: {e}")
         sys.exit(1)
 
-
-
-merge_json_files()
-
-
-def getNinjaInfo():
+def get_ninja_info():
     x = 0
     api_urls = [
     "https://poe.ninja/api/data/currencyoverview?league=Settlers&type=Fragment",
     "https://poe.ninja/api/data/currencyoverview?league=Settlers&type=Currency",
+    "https://poe.ninja/api/data/itemoverview?league=Settlers&type=Scarab"
     ]
 
     for url in api_urls:
@@ -96,4 +93,44 @@ def getNinjaInfo():
             sys.exit(1)
         x += 1
 
-# getNinjaInfo()
+
+def update_json_file():
+    # Define the input and output file paths
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    json_file_path = os.path.join(script_dir, "../../web-ui/public/currencyOverview.json")  # Change this path if needed
+
+    # Read the existing JSON file
+    try:
+        with open(json_file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error reading JSON file: {e}")
+        return
+
+    # Create a mapping of currency names to icons from currencyDetails
+    currency_icon_map = {c["name"]: c.get("icon", "") for c in data.get("currencyDetails", [])}
+
+    # Update `lines` with the corresponding `icon`
+    for line in data.get("lines", []):
+        currency_name = line.get("currencyTypeName")
+        if currency_name and currency_name in currency_icon_map:
+            line["icon"] = currency_icon_map[currency_name]
+
+    # Remove `currencyDetails` from the final JSON
+    updated_data = {
+        "created": data.get("created", ""),
+        "lines": data.get("lines", [])
+    }
+
+    # Overwrite the JSON file with the updated data
+    try:
+        with open(json_file_path, 'w', encoding='utf-8') as f:
+            json.dump(updated_data, f, indent=4)
+        print(f"✅ Successfully updated {json_file_path}")
+    except IOError as e:
+        print(f"❌ Error writing to JSON file: {e}")
+
+
+get_ninja_info()
+merge_json_files()
+update_json_file()

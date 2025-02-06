@@ -19,18 +19,16 @@ with open("C:\\Users\\jpitt\\VSCode\\faustus-price-checker\\Archive\\web-ui\\pub
 with open("C:\\Users\\jpitt\\VSCode\\faustus-price-checker\\Archive\\web-ui\\public\\currencyOverview.json", "r") as f:
     currency_data = json.load(f)
 
-# ✅ Fix: Safely build currency icon map
-currency_icon_map = {}
-for c in currency_data["currencyDetails"]:
-    if "name" in c and "icon" in c:  # Ensure both keys exist
-        currency_icon_map[c["name"]] = c["icon"]
-    else:
-        print(f"⚠️ Warning: Missing 'icon' or 'name' in entry: {c}")  # Debugging info
+# ✅ Fix: Build currency icon map from `lines` instead of `currencyDetails`
+currency_icon_map = {
+    line["currencyTypeName"]: line.get("icon", "")  # Safely get icon or default to empty string
+    for line in currency_data.get("lines", []) if "currencyTypeName" in line
+}
 
-# ✅ Fix: Safely build ninja price map
+# ✅ Fix: Build ninja price map from `lines`
 ninja_price_map = {
-    line["currencyTypeName"]: line["chaosEquivalent"]
-    for line in currency_data.get("lines", []) if "currencyTypeName" in line and "chaosEquivalent" in line
+    line["currencyTypeName"]: line.get("chaosEquivalent", 0)  # Default to 0 if missing
+    for line in currency_data.get("lines", []) if "currencyTypeName" in line
 }
 
 # Get current timestamp for created_at & last_updated
