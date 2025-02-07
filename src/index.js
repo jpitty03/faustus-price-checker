@@ -33,7 +33,7 @@ root.render(
       <CssBaseline />
       <PricesProvider>
         <App />
-      </PricesProvider>,
+      </PricesProvider>
     </ThemeProvider>
   </React.StrictMode>
 );

@@ -13,7 +13,7 @@ export const getPriceGridColumns = () => [
                     alt={params.value}
                     style={{ width: 24, height: 24, marginRight: 8 }}
                 />
-                {params.row.want_amount} {params.value}
+                {params.row.have_amount} {params.value}
             </Box>
         ),
     },
@@ -28,7 +28,7 @@ export const getPriceGridColumns = () => [
                     alt={params.value}
                     style={{ width: 24, height: 24, marginRight: 8 }}
                 />
-                {params.row.have_amount} {params.value}
+                {params.row.want_amount} {params.value}
             </Box>
         ),
     },

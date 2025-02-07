@@ -5,7 +5,6 @@ import { getPriceGridColumns } from "./PriceGridColumns";
 
 export default function PriceDataGrid() {
   const { prices, loading } = useContext(PricesContext); // Get prices from context
-  console.log("Prices:", prices);
 
   if (loading) {
     return <div>Loading prices...</div>;

@@ -1,66 +1,71 @@
 {
-  "updated": "2025-02-07T19:01:44.965886Z",
+  "updated": "2025-02-07T21:57:06.581672Z",
   "exchanges": [
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Divination Scarab of Pilfering",
-      "lastUpdated": "2025-02-07T19:01:17.448588Z",
+      "lastUpdated": "2025-02-07T21:56:48.639636Z",
       "offers": [
         {
-          "haveAmount": 1.0,
-          "wantAmount": 30.0,
-          "stock": 12
+          "haveAmount": 303030.0,
+          "wantAmount": 1.0,
+          "stock": 1
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 34.0,
+          "haveAmount": 34.0,
+          "wantAmount": 1.0,
           "stock": 135
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 35.0,
-          "stock": 46
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 45
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 50.0,
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
           "stock": 2
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 90.0,
+          "haveAmount": 90.0,
+          "wantAmount": 1.0,
           "stock": 54
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 90.0,
+          "haveAmount": 90.0,
+          "wantAmount": 1.0,
           "stock": 25
         }
       ],
       "competingTrades": [
         {
-          "haveAmount": 1.0,
-          "wantAmount": 6.0,
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
           "stock": 1272
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 5.5,
+          "haveAmount": 5.5,
+          "wantAmount": 1.0,
           "stock": 55
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 5.0,
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
           "stock": 1005
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 3.0,
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
           "stock": 246
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 3.0,
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
           "stock": 58
         }
       ]
@@ -68,146 +73,118 @@
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Ambush Scarab of Discernment",
-      "lastUpdated": "2025-02-07T19:01:22.987978Z",
+      "lastUpdated": "2025-02-07T21:56:54.074892Z",
       "offers": [
         {
-          "haveAmount": 1.0,
-          "wantAmount": 38.0,
-          "stock": 2
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 39.0,
-          "stock": 17
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 40.0,
-          "stock": 85
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 44.0,
+          "haveAmount": 39.0,
+          "wantAmount": 1.0,
           "stock": 1
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 45.0,
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 79
+        },
+        {
+          "haveAmount": 44.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 45.0,
+          "wantAmount": 1.0,
           "stock": 45
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 45.0,
-          "stock": 29
+          "haveAmount": 48.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 48.0,
+          "wantAmount": 1.0,
+          "stock": 16
         }
       ],
       "competingTrades": [
         {
-          "haveAmount": 1.0,
-          "wantAmount": 30.0,
-          "stock": 330
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 50
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 26.0,
-          "stock": 3120
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 25.0,
-          "stock": 1300
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 20.0,
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
           "stock": 3280
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 20.0,
-          "stock": 4988
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 2261
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 180
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 28
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 2519
         }
       ]
     },
     {
       "haveCurrency": "Divine Orb",
-      "wantCurrency": "Divination Scarab of Pilfering",
-      "lastUpdated": "2025-02-07T19:01:39.488348Z",
-      "offers": [
-        {
-          "haveAmount": 6.0,
-          "wantAmount": 1.0,
-          "stock": 792
-        },
-        {
-          "haveAmount": 5.0,
-          "wantAmount": 1.0,
-          "stock": 50
-        },
-        {
-          "haveAmount": 3.0,
-          "wantAmount": 1.0,
-          "stock": 78
-        },
-        {
-          "haveAmount": 2.6,
-          "wantAmount": 1.0,
-          "stock": 26
-        },
-        {
-          "haveAmount": 2.5,
-          "wantAmount": 1.0,
-          "stock": 35
-        },
-        {
-          "haveAmount": 2.5,
-          "wantAmount": 1.0,
-          "stock": 55
-        }
-      ],
-      "competingTrades": []
-    },
-    {
-      "haveCurrency": "Divine Orb",
       "wantCurrency": "Ambush Scarab of Discernment",
-      "lastUpdated": "2025-02-07T19:01:44.965886Z",
+      "lastUpdated": "2025-02-07T21:57:06.581672Z",
       "offers": [
         {
-          "haveAmount": 6.0,
-          "wantAmount": 1.0,
-          "stock": 210
+          "haveAmount": 1.0,
+          "wantAmount": 6.25,
+          "stock": 25
         },
         {
-          "haveAmount": 5.0,
-          "wantAmount": 1.0,
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 48
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
           "stock": 300
         },
         {
-          "haveAmount": 4.0,
-          "wantAmount": 1.0,
-          "stock": 68
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 72
         },
         {
-          "haveAmount": 3.6,
-          "wantAmount": 1.0,
+          "haveAmount": 1.0,
+          "wantAmount": 3.6,
           "stock": 288
         },
         {
-          "haveAmount": 3.5,
-          "wantAmount": 1.0,
-          "stock": 763
-        },
-        {
-          "haveAmount": 3.5,
-          "wantAmount": 1.0,
-          "stock": 49
+          "haveAmount": 1.0,
+          "wantAmount": 3.6,
+          "stock": 812
         }
       ],
       "competingTrades": [
         {
-          "haveAmount": 10.0,
-          "wantAmount": 1.0,
-          "stock": 3
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 8
         }
       ]
     }
