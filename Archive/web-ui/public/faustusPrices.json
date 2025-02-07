@@ -338,50 +338,6 @@
     },
     {
       "haveCurrency": "Chaos Orb",
-      "wantCurrency": "Rogue's Marker",
-      "lastUpdated": "2025-01-28T04:27:02.704667Z",
-      "offers": [
-        {
-          "haveAmount": 1066.18,
-          "wantAmount": 1.0,
-          "stock": 317722
-        },
-        {
-          "haveAmount": 1062.5,
-          "wantAmount": 1.0,
-          "stock": 384625
-        },
-        {
-          "haveAmount": 1052.5,
-          "wantAmount": 1.0,
-          "stock": 2105
-        },
-        {
-          "haveAmount": 1000.0,
-          "wantAmount": 1.0,
-          "stock": 70000
-        },
-        {
-          "haveAmount": 625.0,
-          "wantAmount": 1.0,
-          "stock": 50000
-        },
-        {
-          "haveAmount": 625.0,
-          "wantAmount": 1.0,
-          "stock": 2622902
-        }
-      ],
-      "competingTrades": [
-        {
-          "haveAmount": 4400.0,
-          "wantAmount": 1.0,
-          "stock": 138
-        }
-      ]
-    },
-    {
-      "haveCurrency": "Chaos Orb",
       "wantCurrency": "Orb of Augmentation",
       "lastUpdated": "2025-01-28T04:27:12.410677Z",
       "offers": [

@@ -2,13 +2,16 @@ import json
 import psycopg2
 from datetime import datetime
 from psycopg2.extras import execute_values
+import os
+from dotenv import load_dotenv
 
-# Database connection details
+load_dotenv()
+
 DB_CONFIG = {
-    "dbname": "CHANGEME",
-    "user": "CHANGEME",
-    "password": "CHANGEME",
-    "host": "CHANGEME",
+    "dbname": os.getenv("DB_NAME"),
+    "user": os.getenv("DB_USERNAME"),
+    "password": os.getenv("DB_PASSWORD"),
+    "host": os.getenv("DB_HOST"),
     "port": "5432",
 }
 
