@@ -28,7 +28,7 @@ export const PricesProvider = ({ children }) => {
     if (process.env.NODE_ENV === "development") {
       ws = new WebSocket("ws://localhost:5001");
     } else {
-      ws = new WebSocket("wss://faustus-price-checker.herokuapp.com");
+      ws = new WebSocket("wss://faustus-price-checker.onrender.com");
     }
 
     ws.onopen = () => {

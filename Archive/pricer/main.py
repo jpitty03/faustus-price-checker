@@ -76,16 +76,16 @@ def capture_and_process_trade_window(
 
     return processed
 
-def ocr_extract_text(image):
-    """
-    Runs Tesseract OCR on the provided PIL Image and returns recognized text.
-    """
-    # Adjust config as needed (e.g., for whitelisting characters or page segmentation)
-    custom_config = r"--psm 6"
-    text = pytesseract.image_to_string(image, config=custom_config)
-    return text
+# def ocr_extract_text(image):
+#     """
+#     Runs Tesseract OCR on the provided PIL Image and returns recognized text.
+#     """
+#     # Adjust config as needed (e.g., for whitelisting characters or page segmentation)
+#     custom_config = r"--psm 6"
+#     text = pytesseract.image_to_string(image, config=custom_config)
+#     return text
 
-def capture_and_process_no_trades(region=None, save_debug=True, debug_dir="screenshots", upscale_factor=3.0):
+def capture_and_process_no_trades(region=None, save_debug=False, debug_dir="screenshots", upscale_factor=3.0):
     # 1. Capture screenshot
     screenshot = ImageGrab.grab(bbox=region) if region else ImageGrab.grab()
 
@@ -215,52 +215,52 @@ def invert_ratio(have_amt, want_amt):
     """
     return (want_amt, have_amt)
 
-def parse_ocr_lines(lines, is_competing=False):
-    """
-    lines: list of strings from OCR
-    is_competing: if True, we invert the ratio perspective (e.g. '1 : 175' => (175, 1)).
+# def parse_ocr_lines(lines, is_competing=False):
+#     """
+#     lines: list of strings from OCR
+#     is_competing: if True, we invert the ratio perspective (e.g. '1 : 175' => (175, 1)).
     
-    Returns a list of dict objects like:
-      [
-        { "haveAmount": X, "wantAmount": Y, "stock": Z },
-        ...
-      ]
-    """
-    offers = []
-    i = 0
+#     Returns a list of dict objects like:
+#       [
+#         { "haveAmount": X, "wantAmount": Y, "stock": Z },
+#         ...
+#       ]
+#     """
+#     offers = []
+#     i = 0
 
-    while i < len(lines):
-        line = lines[i].strip()
+#     while i < len(lines):
+#         line = lines[i].strip()
 
-        # Look for 'Ratio:' or something similar
-        if 'Ratio' in line:
-            # parse ratio
-            h_amt, w_amt = parse_ratio_line(line)
-            stock_value = None
+#         # Look for 'Ratio:' or something similar
+#         if 'Ratio' in line:
+#             # parse ratio
+#             h_amt, w_amt = parse_ratio_line(line)
+#             stock_value = None
 
-            # Next line might be 'Stock: X'
-            if (i+1) < len(lines) and 'Stock' in lines[i+1]:
-                stock_value = parse_stock_line(lines[i+1])
-                i += 2
-            else:
-                i += 1
+#             # Next line might be 'Stock: X'
+#             if (i+1) < len(lines) and 'Stock' in lines[i+1]:
+#                 stock_value = parse_stock_line(lines[i+1])
+#                 i += 2
+#             else:
+#                 i += 1
 
-            # If ratio parsed successfully
-            if h_amt is not None and w_amt is not None:
-                if is_competing:
-                    # invert
-                    h_amt, w_amt = invert_ratio(h_amt, w_amt)
+#             # If ratio parsed successfully
+#             if h_amt is not None and w_amt is not None:
+#                 if is_competing:
+#                     # invert
+#                     h_amt, w_amt = invert_ratio(h_amt, w_amt)
 
-                offer = {
-                    "haveAmount": h_amt,
-                    "wantAmount": w_amt,
-                    "stock": stock_value
-                }
-                offers.append(offer)
-        else:
-            i += 1
+#                 offer = {
+#                     "haveAmount": h_amt,
+#                     "wantAmount": w_amt,
+#                     "stock": stock_value
+#                 }
+#                 offers.append(offer)
+#         else:
+#             i += 1
 
-    return offers
+#     return offers
 
 ###############################################################################
 # 3. UPDATING OUR JSON DATA
@@ -398,8 +398,8 @@ def main():
                 print(f"No trades available for {have} -> {want}")
                 continue
             # perform screenshot and ocr
-            main_trades_img = capture_and_process_trade_window(region=resolution[0], save_debug=True, debug_dir="screenshots")
-            competing_trades_img = capture_and_process_trade_window(region=resolution[1], save_debug=True, debug_dir="screenshots")
+            main_trades_img = capture_and_process_trade_window(region=resolution[0], save_debug=False, debug_dir="screenshots")
+            competing_trades_img = capture_and_process_trade_window(region=resolution[1], save_debug=False, debug_dir="screenshots")
             custom_config = "--psm 6"
             main_text = pytesseract.image_to_string(main_trades_img, config=custom_config)
             main_text = main_text.splitlines()
