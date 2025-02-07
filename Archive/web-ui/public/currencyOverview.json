@@ -1,0 +1,1891 @@
+{
+    "created": "2025-02-06 18:35:45",
+    "lines": [
+        {
+            "currencyTypeName": "Voidborn Reliquary Key",
+            "chaosEquivalent": 544.0,
+            "detailsId": "voidborn-reliquary-key",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Db3NtaWNDb3JlU3VwcG9ydGVyVmF1bHRLZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/16d2e6b54d/CosmicCoreSupporterVaultKey.png"
+        },
+        {
+            "currencyTypeName": "Esh's Flawless Breachstone",
+            "chaosEquivalent": 255.0,
+            "detailsId": "eshs-flawless-breachstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNGbGF3bGVzc0JyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b2fe284562/EshsFlawlessBreachstone.png"
+        },
+        {
+            "currencyTypeName": "Valdo's Puzzle Box",
+            "chaosEquivalent": 216.8,
+            "detailsId": "valdos-puzzle-box",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmFsZG9zUHV6emxlQm94IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/aa5be00d00/ValdosPuzzleBox.png"
+        },
+        {
+            "currencyTypeName": "Sacred Blossom",
+            "chaosEquivalent": 200.6,
+            "detailsId": "sacred-blossom",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Pc2hhYmlNYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/87c4ab4747/OshabiMap.png"
+        },
+        {
+            "currencyTypeName": "Gift to the Goddess",
+            "chaosEquivalent": 187.0,
+            "detailsId": "gift-to-the-goddess",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0SW5mdXNlZDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/95aadb1d9f/LabyrinthHarvestInfused1.png"
+        },
+        {
+            "currencyTypeName": "An Audience With The King",
+            "chaosEquivalent": 170.0,
+            "detailsId": "an-audience-with-the-king",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb0tpbmdFZmZpZ3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5006769e86/VoodooKingEffigy.png"
+        },
+        {
+            "currencyTypeName": "Devouring Fragment",
+            "chaosEquivalent": 145.0,
+            "detailsId": "devouring-fragment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyQm9zc0tleUVhdGVyT2ZXb3JsZHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/935c580d4c/UberBossKeyEaterOfWorlds.png"
+        },
+        {
+            "currencyTypeName": "The Maven's Writ",
+            "chaosEquivalent": 130.0,
+            "detailsId": "the-mavens-writ",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvTWF2ZW5LZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ad4c12144c/MavenKey.png"
+        },
+        {
+            "currencyTypeName": "Reality Fragment",
+            "chaosEquivalent": 107.5,
+            "detailsId": "reality-fragment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyQm9zc0tleU1hdmVuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1876f58c4b/UberBossKeyMaven.png"
+        },
+        {
+            "currencyTypeName": "Chayula's Breachstone",
+            "chaosEquivalent": 105.0,
+            "detailsId": "chayulas-breachstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0NoYW9zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/04b5c032f4/BreachFragmentsChaos.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Emptiness",
+            "chaosEquivalent": 76.0,
+            "detailsId": "fragment-of-emptiness",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ced2590995/UberElder02.png"
+        },
+        {
+            "currencyTypeName": "Dedication to the Goddess",
+            "chaosEquivalent": 75.0,
+            "detailsId": "dedication-to-the-goddess",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0SW5mdXNlZDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e8b597bd1/LabyrinthHarvestInfused2.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Terror",
+            "chaosEquivalent": 57.5,
+            "detailsId": "fragment-of-terror",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/061cd63c5e/UberElder01.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Knowledge",
+            "chaosEquivalent": 50.5,
+            "detailsId": "fragment-of-knowledge",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a2bab8955/UberElder04.png"
+        },
+        {
+            "currencyTypeName": "Decaying Fragment",
+            "chaosEquivalent": 50.0,
+            "detailsId": "decaying-fragment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyQm9zc0tleUVsZGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/dffa4053b9/UberBossKeyElder.png"
+        },
+        {
+            "currencyTypeName": "Tribute to the Goddess",
+            "chaosEquivalent": 47.2,
+            "detailsId": "tribute-to-the-goddess",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1cfaffbce/LabyrinthHarvest.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Shape",
+            "chaosEquivalent": 46.5,
+            "detailsId": "fragment-of-shape",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dd71531c9f/UberElder03.png"
+        },
+        {
+            "currencyTypeName": "Einhar's Memory",
+            "chaosEquivalent": 40.0,
+            "detailsId": "einhars-memory",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9FaW5oYXJNZW1vcnlJdGVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e4c7a8f89/EinharMemoryItem.png"
+        },
+        {
+            "currencyTypeName": "Blazing Fragment",
+            "chaosEquivalent": 40.0,
+            "detailsId": "blazing-fragment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyQm9zc0tleVNlYXJpbmdFeGFyY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a005e1a684/UberBossKeySearingExarch.png"
+        },
+        {
+            "currencyTypeName": "Uul-Netol's Breachstone",
+            "chaosEquivalent": 28.67,
+            "detailsId": "uul-netols-breachstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c1BoeXNpY2FsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2ab646ae46/BreachFragmentsPhysical.png"
+        },
+        {
+            "currencyTypeName": "Simulacrum",
+            "chaosEquivalent": 25.0,
+            "detailsId": "simulacrum",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bUZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/92fba984ee/DeliriumFragment.png"
+        },
+        {
+            "currencyTypeName": "Baran's Crest",
+            "chaosEquivalent": 20.9,
+            "detailsId": "barans-crest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVzYWRlckZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83e0f167f2/CrusaderFragment.png"
+        },
+        {
+            "currencyTypeName": "Al-Hezmin's Crest",
+            "chaosEquivalent": 20.0,
+            "detailsId": "al-hezmins-crest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9IdW50ZXJGcmFnbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a1c79a0f7/HunterFragment.png"
+        },
+        {
+            "currencyTypeName": "Drox's Crest",
+            "chaosEquivalent": 20.0,
+            "detailsId": "droxs-crest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9XYXJsb3JkRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/863882aba2/WarlordFragment.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Purification",
+            "chaosEquivalent": 19.0,
+            "detailsId": "fragment-of-purification",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/767832e457/AtlasMapGuardianChaos.png"
+        },
+        {
+            "currencyTypeName": "Veritania's Crest",
+            "chaosEquivalent": 19.0,
+            "detailsId": "veritanias-crest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9SZWRlZW1lckZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5416c38a70/RedeemerFragment.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Enslavement",
+            "chaosEquivalent": 18.0,
+            "detailsId": "fragment-of-enslavement",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6327dee00e/AtlasMapGuardianFire.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Constriction",
+            "chaosEquivalent": 17.0,
+            "detailsId": "fragment-of-constriction",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuSG9seSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ade615a113/AtlasMapGuardianHoly.png"
+        },
+        {
+            "currencyTypeName": "Crescent Splinter",
+            "chaosEquivalent": 16.8,
+            "detailsId": "crescent-splinter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvTWF2ZW5LZXlGcmFnbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1782453393/MavenKeyFragment.png"
+        },
+        {
+            "currencyTypeName": "Cosmic Fragment",
+            "chaosEquivalent": 15.61,
+            "detailsId": "cosmic-fragment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyQm9zc0tleVNoYXBlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d5ef574938/UberBossKeyShaper.png"
+        },
+        {
+            "currencyTypeName": "Esh's Breachstone",
+            "chaosEquivalent": 15.0,
+            "detailsId": "eshs-breachstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0xpZ2h0bmluZyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e66ff540ed/BreachFragmentsLightning.png"
+        },
+        {
+            "currencyTypeName": "Fragment of Eradication",
+            "chaosEquivalent": 14.6,
+            "detailsId": "fragment-of-eradication",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/22a9d1257c/AtlasMapGuardianLightning.png"
+        },
+        {
+            "currencyTypeName": "Awakening Fragment",
+            "chaosEquivalent": 14.17,
+            "detailsId": "awakening-fragment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyQm9zc0tleVNpcnVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2d2c405857/UberBossKeySirus.png"
+        },
+        {
+            "currencyTypeName": "Mortal Ignorance",
+            "chaosEquivalent": 13.6,
+            "detailsId": "mortal-ignorance",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e5a689eea8/UberVaal03.png"
+        },
+        {
+            "currencyTypeName": "Tul's Breachstone",
+            "chaosEquivalent": 13.4,
+            "detailsId": "tuls-breachstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0NvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/210fc3b508/BreachFragmentsCold.png"
+        },
+        {
+            "currencyTypeName": "Timeless Maraketh Emblem",
+            "chaosEquivalent": 11.92,
+            "detailsId": "timeless-maraketh-emblem",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXJha2V0aEZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7c42d58a5e/MarakethFragment.png"
+        },
+        {
+            "currencyTypeName": "Synthesising Fragment",
+            "chaosEquivalent": 11.33,
+            "detailsId": "synthesising-fragment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyQm9zc0tleUNvcnRleCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/210227ccfc/UberBossKeyCortex.png"
+        },
+        {
+            "currencyTypeName": "Xoph's Breachstone",
+            "chaosEquivalent": 11.0,
+            "detailsId": "xophs-breachstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0ZpcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/071c4ccc28/BreachFragmentsFire.png"
+        },
+        {
+            "currencyTypeName": "Timeless Templar Emblem",
+            "chaosEquivalent": 9.4,
+            "detailsId": "timeless-templar-emblem",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGFyRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e31c7a2a1e/TemplarFragment.png"
+        },
+        {
+            "currencyTypeName": "Mortal Hope",
+            "chaosEquivalent": 7.0,
+            "detailsId": "mortal-hope",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c2c9f83dcd/UberVaal02.png"
+        },
+        {
+            "currencyTypeName": "Mortal Rage",
+            "chaosEquivalent": 6.7,
+            "detailsId": "mortal-rage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0e9822853c/UberVaal01.png"
+        },
+        {
+            "currencyTypeName": "Mortal Grief",
+            "chaosEquivalent": 5.0,
+            "detailsId": "mortal-grief",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDA0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/aa109d2841/UberVaal04.png"
+        },
+        {
+            "currencyTypeName": "Fragment of the Hydra",
+            "chaosEquivalent": 5.0,
+            "detailsId": "fragment-of-the-hydra",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRIeWRyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/16cec8bced/FragmentHydra.png"
+        },
+        {
+            "currencyTypeName": "Fragment of the Phoenix",
+            "chaosEquivalent": 5.0,
+            "detailsId": "fragment-of-the-phoenix",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRQaG9lbml4IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bf64bb03f8/FragmentPhoenix.png"
+        },
+        {
+            "currencyTypeName": "Fragment of the Minotaur",
+            "chaosEquivalent": 5.0,
+            "detailsId": "fragment-of-the-minotaur",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRNaW5vdGF1ciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a6307f6cc9/FragmentMinotaur.png"
+        },
+        {
+            "currencyTypeName": "Alva's Memory",
+            "chaosEquivalent": 5.0,
+            "detailsId": "alvas-memory",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9BbHZhTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5adc01981d/AlvaMemoryItem.png"
+        },
+        {
+            "currencyTypeName": "Fragment of the Chimera",
+            "chaosEquivalent": 4.76,
+            "detailsId": "fragment-of-the-chimera",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRDaGltZXJhIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/df51d0bd7a/FragmentChimera.png"
+        },
+        {
+            "currencyTypeName": "Niko's Memory",
+            "chaosEquivalent": 3.0,
+            "detailsId": "nikos-memory",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9OaWtvTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5c560ea8fd/NikoMemoryItem.png"
+        },
+        {
+            "currencyTypeName": "Kirac's Memory",
+            "chaosEquivalent": 3.0,
+            "detailsId": "kiracs-memory",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9LaXJhY01lbW9yeUl0ZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/def36e7b78/KiracMemoryItem.png"
+        },
+        {
+            "currencyTypeName": "Timeless Vaal Emblem",
+            "chaosEquivalent": 2.5,
+            "detailsId": "timeless-vaal-emblem",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7b02499e4e/VaalFragment.png"
+        },
+        {
+            "currencyTypeName": "Timeless Karui Emblem",
+            "chaosEquivalent": 2.0,
+            "detailsId": "timeless-karui-emblem",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9LYXJ1aUZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f05377f6c7/KaruiFragment.png"
+        },
+        {
+            "currencyTypeName": "Timeless Eternal Emblem",
+            "chaosEquivalent": 1.98,
+            "detailsId": "timeless-eternal-emblem",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1776eeb6b/EternalEmpireFragment.png"
+        },
+        {
+            "currencyTypeName": "Sacrifice at Midnight",
+            "chaosEquivalent": 1.47,
+            "detailsId": "sacrifice-at-midnight",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/005d9c56bb/Vaal01.png"
+        },
+        {
+            "currencyTypeName": "Sacrifice at Noon",
+            "chaosEquivalent": 1.0,
+            "detailsId": "sacrifice-at-noon",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/85d03a6bbf/Vaal03.png"
+        },
+        {
+            "currencyTypeName": "Offering to the Goddess",
+            "chaosEquivalent": 1.0,
+            "detailsId": "offering-to-the-goddess",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb891dc265/Labyrinth.png"
+        },
+        {
+            "currencyTypeName": "Splinter of Tul",
+            "chaosEquivalent": 1.0,
+            "detailsId": "splinter-of-tul",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkQ29sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ef894cc215/BreachShardCold.png"
+        },
+        {
+            "currencyTypeName": "Splinter of Uul-Netol",
+            "chaosEquivalent": 1.0,
+            "detailsId": "splinter-of-uul-netol",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/310aff1de6/BreachShardPhysical.png"
+        },
+        {
+            "currencyTypeName": "Splinter of Chayula",
+            "chaosEquivalent": 1.0,
+            "detailsId": "splinter-of-chayula",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/873da59e9c/BreachShardChaos.png"
+        },
+        {
+            "currencyTypeName": "Divine Vessel",
+            "chaosEquivalent": 1.0,
+            "detailsId": "divine-vessel",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TaW5GbGFza0VtcHR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65ed329fe5/SinFlaskEmpty.png"
+        },
+        {
+            "currencyTypeName": "Timeless Eternal Empire Splinter",
+            "chaosEquivalent": 1.0,
+            "detailsId": "timeless-eternal-empire-splinter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ee92812083/EternalEmpireShard.png"
+        },
+        {
+            "currencyTypeName": "Splinter of Xoph",
+            "chaosEquivalent": 0.83,
+            "detailsId": "splinter-of-xoph",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c0deb5799d/BreachShardFire.png"
+        },
+        {
+            "currencyTypeName": "Sacrifice at Dawn",
+            "chaosEquivalent": 0.67,
+            "detailsId": "sacrifice-at-dawn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e0739455f/Vaal02.png"
+        },
+        {
+            "currencyTypeName": "Simulacrum Splinter",
+            "chaosEquivalent": 0.63,
+            "detailsId": "simulacrum-splinter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bVNwbGludGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ae73b9445e/DeliriumSplinter.png"
+        },
+        {
+            "currencyTypeName": "Sacrifice at Dusk",
+            "chaosEquivalent": 0.5,
+            "detailsId": "sacrifice-at-dusk",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6c797c0f93/Vaal04.png"
+        },
+        {
+            "currencyTypeName": "Timeless Karui Splinter",
+            "chaosEquivalent": 0.48,
+            "detailsId": "timeless-karui-splinter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9LYXJ1aVNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e9c55ce439/KaruiShard.png"
+        },
+        {
+            "currencyTypeName": "Splinter of Esh",
+            "chaosEquivalent": 0.45,
+            "detailsId": "splinter-of-esh",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/de619878b0/BreachShardLightning.png"
+        },
+        {
+            "currencyTypeName": "Timeless Vaal Splinter",
+            "chaosEquivalent": 0.43,
+            "detailsId": "timeless-vaal-splinter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/02b4b4473c/VaalShard.png"
+        },
+        {
+            "currencyTypeName": "Timeless Maraketh Splinter",
+            "chaosEquivalent": 0.33,
+            "detailsId": "timeless-maraketh-splinter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXJha2V0aFNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/06ccc00c64/MarakethShard.png"
+        },
+        {
+            "currencyTypeName": "Timeless Templar Splinter",
+            "chaosEquivalent": 0.33,
+            "detailsId": "timeless-templar-splinter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGFyU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1c070c1aa4/TemplarShard.png"
+        },
+        {
+            "currencyTypeName": "Mirror of Kalandra",
+            "chaosEquivalent": 132954.09,
+            "detailsId": "mirror-of-kalandra",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7111e35254/CurrencyDuplicate.png"
+        },
+        {
+            "currencyTypeName": "Hinekora's Lock",
+            "chaosEquivalent": 35088.0,
+            "detailsId": "hinekoras-lock",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9fe8aa2704/HinekorasLock.png"
+        },
+        {
+            "currencyTypeName": "Mirror Shard",
+            "chaosEquivalent": 6800.0,
+            "detailsId": "mirror-shard",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWlycm9yU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6604b7aa32/MirrorShard.png"
+        },
+        {
+            "currencyTypeName": "Reflecting Mist",
+            "chaosEquivalent": 2550.0,
+            "detailsId": "reflecting-mist",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVmbGVjdGl2ZU1pc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c04e507406/ReflectiveMist.png"
+        },
+        {
+            "currencyTypeName": "Veiled Orb",
+            "chaosEquivalent": 1530.0,
+            "detailsId": "veiled-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkQ2hhb3NPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fe00a81cbc/VeiledChaosOrb.png"
+        },
+        {
+            "currencyTypeName": "Fracturing Orb",
+            "chaosEquivalent": 1530.0,
+            "detailsId": "fracturing-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYkNvbWJpbmVkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bb12c8fdcc/FracturingOrbCombined.png"
+        },
+        {
+            "currencyTypeName": "Tainted Divine Teardrop",
+            "chaosEquivalent": 1232.5,
+            "detailsId": "tainted-divine-teardrop",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZVRlYXJkcm9wT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e3cd0195e1/HellscapeTeardropOrb.png"
+        },
+        {
+            "currencyTypeName": "Awakener's Orb",
+            "chaosEquivalent": 1020.0,
+            "detailsId": "awakeners-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVHJhbnNmZXJPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6db384ea6e/TransferOrb.png"
+        },
+        {
+            "currencyTypeName": "Blessing of Chayula",
+            "chaosEquivalent": 640.9,
+            "detailsId": "blessing-of-chayula",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5542f2ce9a/BreachUpgraderChaos.png"
+        },
+        {
+            "currencyTypeName": "Orb of Dominance",
+            "chaosEquivalent": 595.0,
+            "detailsId": "orb-of-dominance",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5PcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8396ed7d8d/MavenOrb.png"
+        },
+        {
+            "currencyTypeName": "Crusader's Exalted Orb",
+            "chaosEquivalent": 510.0,
+            "detailsId": "crusaders-exalted-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9DcnVzYWRlck9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0449a66634/CrusaderOrb.png"
+        },
+        {
+            "currencyTypeName": "Warlord's Exalted Orb",
+            "chaosEquivalent": 438.6,
+            "detailsId": "warlords-exalted-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9Db25xdWVyb3JPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/14d882831a/ConquerorOrb.png"
+        },
+        {
+            "currencyTypeName": "Hunter's Exalted Orb",
+            "chaosEquivalent": 399.5,
+            "detailsId": "hunters-exalted-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9CYXNpbGlza09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c17ac5e60c/BasiliskOrb.png"
+        },
+        {
+            "currencyTypeName": "Tailoring Orb",
+            "chaosEquivalent": 340.0,
+            "detailsId": "tailoring-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudFdlYXBvbkN1cnJlbmN5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c5f4a79b45/DivineEnchantWeaponCurrency.png"
+        },
+        {
+            "currencyTypeName": "Redeemer's Exalted Orb",
+            "chaosEquivalent": 300.9,
+            "detailsId": "redeemers-exalted-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9FeXJpZU9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6157e9ce59/EyrieOrb.png"
+        },
+        {
+            "currencyTypeName": "Sacred Crystallised Lifeforce",
+            "chaosEquivalent": 183.6,
+            "detailsId": "sacred-crystallised-lifeforce",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9TYWNyZWRMaWZlZm9yY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd4e43e4d0/SacredLifeforce.png"
+        },
+        {
+            "currencyTypeName": "Blessing of Uul-Netol",
+            "chaosEquivalent": 170.0,
+            "detailsId": "blessing-of-uul-netol",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7eab2a8de8/BreachUpgraderPhysical.png"
+        },
+        {
+            "currencyTypeName": "Exceptional Eldritch Ember",
+            "chaosEquivalent": 170.0,
+            "detailsId": "exceptional-eldritch-ember",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbms0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/920113641f/CleansingFireOrbRank4.png"
+        },
+        {
+            "currencyTypeName": "Orb of Conflict",
+            "chaosEquivalent": 170.0,
+            "detailsId": "orb-of-conflict",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ29uZmxpY3RPcmJSYW5rMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e1919976c3/ConflictOrbRank1.png"
+        },
+        {
+            "currencyTypeName": "Divine Orb",
+            "chaosEquivalent": 167.02,
+            "detailsId": "divine-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e1a54ff97d/CurrencyModValues.png"
+        },
+        {
+            "currencyTypeName": "Exceptional Eldritch Ichor",
+            "chaosEquivalent": 140.17,
+            "detailsId": "exceptional-eldritch-ichor",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1205e2c0a/TangleOrbRank4.png"
+        },
+        {
+            "currencyTypeName": "Blessing of Tul",
+            "chaosEquivalent": 100.0,
+            "detailsId": "blessing-of-tul",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyQ29sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3f8a9bbe57/BreachUpgraderCold.png"
+        },
+        {
+            "currencyTypeName": "Blessing of Esh",
+            "chaosEquivalent": 95.6,
+            "detailsId": "blessing-of-esh",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d12318c95b/BreachUpgraderLightning.png"
+        },
+        {
+            "currencyTypeName": "Blessing of Xoph",
+            "chaosEquivalent": 92.0,
+            "detailsId": "blessing-of-xoph",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f9d0f29f08/BreachUpgraderFire.png"
+        },
+        {
+            "currencyTypeName": "Tempering Orb",
+            "chaosEquivalent": 89.0,
+            "detailsId": "tempering-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudEJvZHlBcm1vdXJDdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/41418e201d/DivineEnchantBodyArmourCurrency.png"
+        },
+        {
+            "currencyTypeName": "Tainted Exalted Orb",
+            "chaosEquivalent": 71.2,
+            "detailsId": "tainted-exalted-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUV4YWx0ZWRPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7cb146de94/HellscapeExaltedOrb.png"
+        },
+        {
+            "currencyTypeName": "Eldritch Chaos Orb",
+            "chaosEquivalent": 65.3,
+            "detailsId": "eldritch-chaos-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hDaGFvc09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/afdc1d40be/EldritchChaosOrb.png"
+        },
+        {
+            "currencyTypeName": "Eldritch Orb of Annulment",
+            "chaosEquivalent": 50.0,
+            "detailsId": "eldritch-orb-of-annulment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hBbm51bG1lbnRPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/cd03411d81/EldritchAnnulmentOrb.png"
+        },
+        {
+            "currencyTypeName": "Fracturing Shard",
+            "chaosEquivalent": 46.2,
+            "detailsId": "fracturing-shard",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYlNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d900d0042c/FracturingOrbShard.png"
+        },
+        {
+            "currencyTypeName": "Sacred Orb",
+            "chaosEquivalent": 39.9,
+            "detailsId": "sacred-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FjcmVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f5a07465c5/SacredOrb.png"
+        },
+        {
+            "currencyTypeName": "Maven's Chisel of Proliferation",
+            "chaosEquivalent": 30.0,
+            "detailsId": "mavens-chisel-of-proliferation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c2d88e71df/MavenChisel2.png"
+        },
+        {
+            "currencyTypeName": "Maven's Chisel of Scarabs",
+            "chaosEquivalent": 24.23,
+            "detailsId": "mavens-chisel-of-scarabs",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7eb7224754/MavenChisel3.png"
+        },
+        {
+            "currencyTypeName": "Prismatic Catalyst",
+            "chaosEquivalent": 18.89,
+            "detailsId": "prismatic-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1ByaXNtYXRpY0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e51d41a0e/PrismaticCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Exalted Orb",
+            "chaosEquivalent": 17.18,
+            "detailsId": "exalted-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b102771c23/CurrencyAddModToRare.png"
+        },
+        {
+            "currencyTypeName": "Maven's Chisel of Avarice",
+            "chaosEquivalent": 15.45,
+            "detailsId": "mavens-chisel-of-avarice",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWw0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e388a0af7/MavenChisel4.png"
+        },
+        {
+            "currencyTypeName": "Tainted Orb of Fusing",
+            "chaosEquivalent": 13.08,
+            "detailsId": "tainted-orb-of-fusing",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU9yYk9mRnVzaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a97eb273c3/HellscapeOrbOfFusing.png"
+        },
+        {
+            "currencyTypeName": "Fertile Catalyst",
+            "chaosEquivalent": 10.0,
+            "detailsId": "fertile-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ZlcnRpbGVDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4b4ca5d929/FertileCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Eldritch Exalted Orb",
+            "chaosEquivalent": 10.0,
+            "detailsId": "eldritch-exalted-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hFeGFsdGVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56026bffa3/EldritchExaltedOrb.png"
+        },
+        {
+            "currencyTypeName": "Tainted Mythic Orb",
+            "chaosEquivalent": 9.9,
+            "detailsId": "tainted-mythic-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU15dGhpY09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3cc4ad8930/HellscapeMythicOrb.png"
+        },
+        {
+            "currencyTypeName": "Grand Eldritch Ember",
+            "chaosEquivalent": 8.02,
+            "detailsId": "grand-eldritch-ember",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmszIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65093ad252/CleansingFireOrbRank3.png"
+        },
+        {
+            "currencyTypeName": "Comprehensive Scouting Report",
+            "chaosEquivalent": 6.4,
+            "detailsId": "comprehensive-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Ancient Orb",
+            "chaosEquivalent": 6.35,
+            "detailsId": "ancient-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jaWVudE9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08feb97abf/AncientOrb.png"
+        },
+        {
+            "currencyTypeName": "Tainted Catalyst",
+            "chaosEquivalent": 5.5,
+            "detailsId": "tainted-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RhaW50ZWRDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c096cd4f25/TaintedCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Ritual Vessel",
+            "chaosEquivalent": 5.0,
+            "detailsId": "ritual-vessel",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUml0dWFsL0VmZmlneSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/445939b722/Effigy.png"
+        },
+        {
+            "currencyTypeName": "Influenced Scouting Report",
+            "chaosEquivalent": 5.0,
+            "detailsId": "influenced-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Orb of Annulment",
+            "chaosEquivalent": 4.6,
+            "detailsId": "orb-of-annulment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/88cfdbe1e5/AnnullOrb.png"
+        },
+        {
+            "currencyTypeName": "Tainted Chaos Orb",
+            "chaosEquivalent": 4.0,
+            "detailsId": "tainted-chaos-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNoYW9zT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bd934ad92b/HellscapeChaosOrb.png"
+        },
+        {
+            "currencyTypeName": "Maven's Chisel of Divination",
+            "chaosEquivalent": 4.0,
+            "detailsId": "mavens-chisel-of-divination",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWw1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/38a6fb8abe/MavenChisel5.png"
+        },
+        {
+            "currencyTypeName": "Grand Eldritch Ichor",
+            "chaosEquivalent": 3.4,
+            "detailsId": "grand-eldritch-ichor",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/80772bd510/TangleOrbRank3.png"
+        },
+        {
+            "currencyTypeName": "Tempering Catalyst",
+            "chaosEquivalent": 3.0,
+            "detailsId": "tempering-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RlbXBlcmluZ0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7b6277022e/TemperingCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Tainted Chromatic Orb",
+            "chaosEquivalent": 3.0,
+            "detailsId": "tainted-chromatic-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNocm9tYXRpY09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c0a50953c2/HellscapeChromaticOrb.png"
+        },
+        {
+            "currencyTypeName": "Singular Scouting Report",
+            "chaosEquivalent": 3.0,
+            "detailsId": "singular-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Maven's Chisel of Procurement",
+            "chaosEquivalent": 2.83,
+            "detailsId": "mavens-chisel-of-procurement",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/adaf0d8258/MavenChisel1.png"
+        },
+        {
+            "currencyTypeName": "Unstable Catalyst",
+            "chaosEquivalent": 2.0,
+            "detailsId": "unstable-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NyaXRpY2FsTW9kaWZpZXJDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/18e5522c0e/CriticalModifierCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Stacked Deck",
+            "chaosEquivalent": 1.98,
+            "detailsId": "stacked-deck",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/962aa0e620/Deck.png"
+        },
+        {
+            "currencyTypeName": "Tainted Armourer's Scrap",
+            "chaosEquivalent": 1.7,
+            "detailsId": "tainted-armourers-scrap",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUFybW91cmVyc1NjcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/05e0065a80/HellscapeArmourersScrap.png"
+        },
+        {
+            "currencyTypeName": "Blighted Scouting Report",
+            "chaosEquivalent": 1.4,
+            "detailsId": "blighted-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Harbinger's Orb",
+            "chaosEquivalent": 1.25,
+            "detailsId": "harbingers-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFyYmluZ2VyT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3e31090ea7/HarbingerOrb.png"
+        },
+        {
+            "currencyTypeName": "Gemcutter's Prism",
+            "chaosEquivalent": 1.21,
+            "detailsId": "gemcutters-prism",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lHZW1RdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1be1273b91/CurrencyGemQuality.png"
+        },
+        {
+            "currencyTypeName": "Intrinsic Catalyst",
+            "chaosEquivalent": 1.0,
+            "detailsId": "intrinsic-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ludHJpbnNpY0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/107ffb799e/IntrinsicCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Accelerating Catalyst",
+            "chaosEquivalent": 1.0,
+            "detailsId": "accelerating-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1NwZWVkTW9kaWZpZXJDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/592075333a/SpeedModifierCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Greater Eldritch Ember",
+            "chaosEquivalent": 1.0,
+            "detailsId": "greater-eldritch-ember",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/33fd210c40/CleansingFireOrbRank2.png"
+        },
+        {
+            "currencyTypeName": "Vaal Scouting Report",
+            "chaosEquivalent": 1.0,
+            "detailsId": "vaal-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Delirious Scouting Report",
+            "chaosEquivalent": 1.0,
+            "detailsId": "delirious-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Operative's Scouting Report",
+            "chaosEquivalent": 1.0,
+            "detailsId": "operatives-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Explorer's Scouting Report",
+            "chaosEquivalent": 1.0,
+            "detailsId": "explorers-scouting-report",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+        },
+        {
+            "currencyTypeName": "Cartographer's Chisel",
+            "chaosEquivalent": 0.97,
+            "detailsId": "cartographers-chisel",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNYXBRdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c83c35bed5/CurrencyMapQuality.png"
+        },
+        {
+            "currencyTypeName": "Turbulent Catalyst",
+            "chaosEquivalent": 0.95,
+            "detailsId": "turbulent-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fc41fe8950/TurbulentCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Tainted Jeweller's Orb",
+            "chaosEquivalent": 0.77,
+            "detailsId": "tainted-jewellers-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUpld2VsbGVyc09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7ade99596b/HellscapeJewellersOrb.png"
+        },
+        {
+            "currencyTypeName": "Vaal Orb",
+            "chaosEquivalent": 0.75,
+            "detailsId": "vaal-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lWYWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/304f775089/CurrencyVaal.png"
+        },
+        {
+            "currencyTypeName": "Noxious Catalyst",
+            "chaosEquivalent": 0.67,
+            "detailsId": "noxious-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NoYW9zUGh5c2ljYWxDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bbdf8917e4/ChaosPhysicalCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Tainted Blacksmith's Whetstone",
+            "chaosEquivalent": 0.66,
+            "detailsId": "tainted-blacksmiths-whetstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUJsYWNrc21pdGhXaGV0c3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1551a2a62/HellscapeBlacksmithWhetstone.png"
+        },
+        {
+            "currencyTypeName": "Imbued Catalyst",
+            "chaosEquivalent": 0.65,
+            "detailsId": "imbued-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ltYnVlZENhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9053293cf6/ImbuedCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Abrasive Catalyst",
+            "chaosEquivalent": 0.64,
+            "detailsId": "abrasive-catalyst",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0FicmFzaXZlQ2F0YWx5c3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c4e7f7f379/AbrasiveCatalyst.png"
+        },
+        {
+            "currencyTypeName": "Regal Orb",
+            "chaosEquivalent": 0.5,
+            "detailsId": "regal-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/898378b439/CurrencyUpgradeMagicToRare.png"
+        },
+        {
+            "currencyTypeName": "Glassblower's Bauble",
+            "chaosEquivalent": 0.5,
+            "detailsId": "glassblowers-bauble",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8a36dffe11/CurrencyFlaskQuality.png"
+        },
+        {
+            "currencyTypeName": "Engineer's Orb",
+            "chaosEquivalent": 0.5,
+            "detailsId": "engineers-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRW5naW5lZXJzT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56b41a5ee5/EngineersOrb.png"
+        },
+        {
+            "currencyTypeName": "Enkindling Orb",
+            "chaosEquivalent": 0.46,
+            "detailsId": "enkindling-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza1BsYXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c03aace282/FlaskPlate.png"
+        },
+        {
+            "currencyTypeName": "Greater Eldritch Ichor",
+            "chaosEquivalent": 0.35,
+            "detailsId": "greater-eldritch-ichor",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37b581d6b1/TangleOrbRank2.png"
+        },
+        {
+            "currencyTypeName": "Orb of Scouring",
+            "chaosEquivalent": 0.24,
+            "detailsId": "orb-of-scouring",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lDb252ZXJ0VG9Ob3JtYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6953e90545/CurrencyConvertToNormal.png"
+        },
+        {
+            "currencyTypeName": "Orb of Unmaking",
+            "chaosEquivalent": 0.22,
+            "detailsId": "orb-of-unmaking",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2ebb4b5a3/RegretOrb.png"
+        },
+        {
+            "currencyTypeName": "Orb of Regret",
+            "chaosEquivalent": 0.2,
+            "detailsId": "orb-of-regret",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQYXNzaXZlU2tpbGxSZWZ1bmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6b8ab3ff07/CurrencyPassiveSkillRefund.png"
+        },
+        {
+            "currencyTypeName": "Orb of Alteration",
+            "chaosEquivalent": 0.19,
+            "detailsId": "orb-of-alteration",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/28212545fd/CurrencyRerollMagic.png"
+        },
+        {
+            "currencyTypeName": "Blessed Orb",
+            "chaosEquivalent": 0.14,
+            "detailsId": "blessed-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJbXBsaWNpdE1vZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c3cbf3e5ab/CurrencyImplicitMod.png"
+        },
+        {
+            "currencyTypeName": "Orb of Horizons",
+            "chaosEquivalent": 0.14,
+            "detailsId": "orb-of-horizons",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSG9yaXpvbk9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a48e326c68/HorizonOrb.png"
+        },
+        {
+            "currencyTypeName": "Lesser Eldritch Ember",
+            "chaosEquivalent": 0.13,
+            "detailsId": "lesser-eldritch-ember",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/62c98f8357/CleansingFireOrbRank1.png"
+        },
+        {
+            "currencyTypeName": "Lesser Eldritch Ichor",
+            "chaosEquivalent": 0.11,
+            "detailsId": "lesser-eldritch-ichor",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3135dab202/TangleOrbRank1.png"
+        },
+        {
+            "currencyTypeName": "Armourer's Scrap",
+            "chaosEquivalent": 0.09,
+            "detailsId": "armourers-scrap",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBcm1vdXJRdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0b964e9b9e/CurrencyArmourQuality.png"
+        },
+        {
+            "currencyTypeName": "Orb of Fusing",
+            "chaosEquivalent": 0.08,
+            "detailsId": "orb-of-fusing",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRMaW5rcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f38529edfc/CurrencyRerollSocketLinks.png"
+        },
+        {
+            "currencyTypeName": "Chromatic Orb",
+            "chaosEquivalent": 0.08,
+            "detailsId": "chromatic-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRDb2xvdXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/136314c10a/CurrencyRerollSocketColours.png"
+        },
+        {
+            "currencyTypeName": "Instilling Orb",
+            "chaosEquivalent": 0.08,
+            "detailsId": "instilling-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza0luamVjdG9yIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/08e3793591/FlaskInjector.png"
+        },
+        {
+            "currencyTypeName": "Blacksmith's Whetstone",
+            "chaosEquivalent": 0.07,
+            "detailsId": "blacksmiths-whetstone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lXZWFwb25RdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c874e03eb7/CurrencyWeaponQuality.png"
+        },
+        {
+            "currencyTypeName": "Orb of Alchemy",
+            "chaosEquivalent": 0.05,
+            "detailsId": "orb-of-alchemy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9SYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f0dc27cd7c/CurrencyUpgradeToRare.png"
+        },
+        {
+            "currencyTypeName": "Jeweller's Orb",
+            "chaosEquivalent": 0.05,
+            "detailsId": "jewellers-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/685633cb14/CurrencyRerollSocketNumbers.png"
+        },
+        {
+            "currencyTypeName": "Orb of Chance",
+            "chaosEquivalent": 0.04,
+            "detailsId": "orb-of-chance",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlUmFuZG9tbHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eaeece27be/CurrencyUpgradeRandomly.png"
+        },
+        {
+            "currencyTypeName": "Vivid Crystallised Lifeforce",
+            "chaosEquivalent": 0.04,
+            "detailsId": "vivid-crystallised-lifeforce",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9WaXZpZExpZmVmb3JjZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9e3d712362/VividLifeforce.png"
+        },
+        {
+            "currencyTypeName": "Orb of Augmentation",
+            "chaosEquivalent": 0.03,
+            "detailsId": "orb-of-augmentation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb01hZ2ljIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1a6cb2ad17/CurrencyAddModToMagic.png"
+        },
+        {
+            "currencyTypeName": "Orb of Binding",
+            "chaosEquivalent": 0.03,
+            "detailsId": "orb-of-binding",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmluZGluZ09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/66ef64410c/BindingOrb.png"
+        },
+        {
+            "currencyTypeName": "Portal Scroll",
+            "chaosEquivalent": 0.02,
+            "detailsId": "portal-scroll",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQb3J0YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a55c72f398/CurrencyPortal.png"
+        },
+        {
+            "currencyTypeName": "Wild Crystallised Lifeforce",
+            "chaosEquivalent": 0.02,
+            "detailsId": "wild-crystallised-lifeforce",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9XaWxkTGlmZWZvcmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/facb3683d5/WildLifeforce.png"
+        },
+        {
+            "currencyTypeName": "Primal Crystallised Lifeforce",
+            "chaosEquivalent": 0.02,
+            "detailsId": "primal-crystallised-lifeforce",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9QcmltYWxMaWZlZm9yY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d5d53c61c3/PrimalLifeforce.png"
+        },
+        {
+            "currencyTypeName": "Orb of Transmutation",
+            "chaosEquivalent": 0.01,
+            "detailsId": "orb-of-transmutation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9NYWdpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/130762c82d/CurrencyUpgradeToMagic.png"
+        },
+        {
+            "currencyTypeName": "Scroll of Wisdom",
+            "chaosEquivalent": 0.01,
+            "detailsId": "scroll-of-wisdom",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJZGVudGlmaWNhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3a1e615322/CurrencyIdentification.png"
+        },
+        {
+            "name": "Horned Scarab of Preservation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ce4ee43474/SuperScarab3.png",
+            "chaosValue": 327.02,
+            "exaltedValue": 19.03,
+            "divineValue": 1.96,
+            "detailsId": "horned-scarab-of-preservation"
+        },
+        {
+            "name": "Ambush Scarab of Containment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/dd7b8bd53f/Tier4ScarabStrongboxes.png",
+            "chaosValue": 250.53,
+            "exaltedValue": 14.58,
+            "divineValue": 1.5,
+            "detailsId": "ambush-scarab-of-containment"
+        },
+        {
+            "name": "Horned Scarab of Glittering",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f282b3a1e/SuperScarab6.png",
+            "chaosValue": 250.53,
+            "exaltedValue": 14.58,
+            "divineValue": 1.5,
+            "detailsId": "horned-scarab-of-glittering"
+        },
+        {
+            "name": "Horned Scarab of Awakening",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/10856e6528/SuperScarab4.png",
+            "chaosValue": 200.42,
+            "exaltedValue": 11.67,
+            "divineValue": 1.2,
+            "detailsId": "horned-scarab-of-awakening"
+        },
+        {
+            "name": "Horned Scarab of Bloodlines",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8f232821fa/SuperScarab1.png",
+            "chaosValue": 75.0,
+            "exaltedValue": 4.37,
+            "divineValue": 0.45,
+            "detailsId": "horned-scarab-of-bloodlines"
+        },
+        {
+            "name": "Ultimatum Scarab of Catalysing",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlVsdGltYXR1bSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67b8b8b39c/Tier4ScarabUltimatum.png",
+            "chaosValue": 70.0,
+            "exaltedValue": 4.07,
+            "divineValue": 0.42,
+            "detailsId": "ultimatum-scarab-of-catalysing"
+        },
+        {
+            "name": "Harvest Scarab of Cornucopia",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcnZlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a32654b789/Tier4ScarabHarvest.png",
+            "chaosValue": 55.67,
+            "exaltedValue": 3.24,
+            "divineValue": 0.33,
+            "detailsId": "harvest-scarab-of-cornucopia"
+        },
+        {
+            "name": "Horned Scarab of Pandemonium",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd523e523b/SuperScarab7.png",
+            "chaosValue": 55.07,
+            "exaltedValue": 3.21,
+            "divineValue": 0.33,
+            "detailsId": "horned-scarab-of-pandemonium"
+        },
+        {
+            "name": "Essence Scarab of Calcification",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkVzc2VuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c12e415ec2/Tier4ScarabEssence.png",
+            "chaosValue": 40.0,
+            "exaltedValue": 2.33,
+            "divineValue": 0.24,
+            "detailsId": "essence-scarab-of-calcification"
+        },
+        {
+            "name": "Domination Scarab of Terrors",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRvbWluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e56a6e5dc/Tier4ScarabDomination.png",
+            "chaosValue": 34.4,
+            "exaltedValue": 2.0,
+            "divineValue": 0.21,
+            "detailsId": "domination-scarab-of-terrors"
+        },
+        {
+            "name": "Incursion Scarab of Timelines",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c651660186/Tier4ScarabIncursion.png",
+            "chaosValue": 33.4,
+            "exaltedValue": 1.94,
+            "divineValue": 0.2,
+            "detailsId": "incursion-scarab-of-timelines"
+        },
+        {
+            "name": "Harvest Scarab of Doubling",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFydmVzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67ebfc1b1f/GreaterScarabHarvest.png",
+            "chaosValue": 29.0,
+            "exaltedValue": 1.69,
+            "divineValue": 0.17,
+            "detailsId": "harvest-scarab-of-doubling"
+        },
+        {
+            "name": "Ambush Scarab of Discernment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/74111052f4/AltTier4ScarabStrongboxes.png",
+            "chaosValue": 18.56,
+            "exaltedValue": 1.08,
+            "divineValue": 0.11,
+            "detailsId": "ambush-scarab-of-discernment"
+        },
+        {
+            "name": "Harbinger Scarab of Regency",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFyYmluZ2VycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce393cfd58/GreaterScarabHarbingers.png",
+            "chaosValue": 11.93,
+            "exaltedValue": 0.69,
+            "divineValue": 0.07,
+            "detailsId": "harbinger-scarab-of-regency"
+        },
+        {
+            "name": "Blight Scarab of Blooming",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
+            "chaosValue": 11.14,
+            "exaltedValue": 0.65,
+            "divineValue": 0.07,
+            "detailsId": "blight-scarab-of-blooming"
+        },
+        {
+            "name": "Ultimatum Scarab of Dueling",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVWx0aW1hdHVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/42d067c281/GreaterScarabUltimatum.png",
+            "chaosValue": 11.14,
+            "exaltedValue": 0.65,
+            "divineValue": 0.07,
+            "detailsId": "ultimatum-scarab-of-dueling"
+        },
+        {
+            "name": "Cartography Scarab of Corruption",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
+            "chaosValue": 11.04,
+            "exaltedValue": 0.64,
+            "divineValue": 0.07,
+            "detailsId": "cartography-scarab-of-corruption"
+        },
+        {
+            "name": "Scarab of Wisps",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b96cb43b23/GreaterScarabMisc1.png",
+            "chaosValue": 10.0,
+            "exaltedValue": 0.58,
+            "divineValue": 0.06,
+            "detailsId": "scarab-of-wisps"
+        },
+        {
+            "name": "Harbinger Scarab of Warhoards",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
+            "chaosValue": 9.82,
+            "exaltedValue": 0.57,
+            "divineValue": 0.06,
+            "detailsId": "harbinger-scarab-of-warhoards"
+        },
+        {
+            "name": "Legion Scarab of Eternal Conflict",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkxlZ2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/05b623a2a7/Tier4ScarabLegion.png",
+            "chaosValue": 8.8,
+            "exaltedValue": 0.51,
+            "divineValue": 0.05,
+            "detailsId": "legion-scarab-of-eternal-conflict"
+        },
+        {
+            "name": "Essence Scarab of Adaptation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkVzc2VuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8dbe247549/AltTier4ScarabEssence.png",
+            "chaosValue": 8.0,
+            "exaltedValue": 0.47,
+            "divineValue": 0.05,
+            "detailsId": "essence-scarab-of-adaptation"
+        },
+        {
+            "name": "Breach Scarab of Resonant Cascade",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/aa58715219/AltTier4ScarabBreach.png",
+            "chaosValue": 8.0,
+            "exaltedValue": 0.47,
+            "divineValue": 0.05,
+            "detailsId": "breach-scarab-of-resonant-cascade"
+        },
+        {
+            "name": "Divination Scarab of Pilfering",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGl2aW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8101d1a6e1/GreaterScarabDivination.png",
+            "chaosValue": 8.0,
+            "exaltedValue": 0.47,
+            "divineValue": 0.05,
+            "detailsId": "divination-scarab-of-pilfering"
+        },
+        {
+            "name": "Cartography Scarab of the Multitude",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1hcHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eec98e626c/Tier4ScarabMaps.png",
+            "chaosValue": 7.59,
+            "exaltedValue": 0.44,
+            "divineValue": 0.05,
+            "detailsId": "cartography-scarab-of-the-multitude"
+        },
+        {
+            "name": "Ambush Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
+            "chaosValue": 7.26,
+            "exaltedValue": 0.42,
+            "divineValue": 0.04,
+            "detailsId": "ambush-scarab"
+        },
+        {
+            "name": "Breach Scarab of Snares",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0b375322d7/Tier4ScarabBreach.png",
+            "chaosValue": 7.26,
+            "exaltedValue": 0.42,
+            "divineValue": 0.04,
+            "detailsId": "breach-scarab-of-snares"
+        },
+        {
+            "name": "Horned Scarab of Nemeses",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f4c8c526ba/SuperScarab2.png",
+            "chaosValue": 6.68,
+            "exaltedValue": 0.39,
+            "divineValue": 0.04,
+            "detailsId": "horned-scarab-of-nemeses"
+        },
+        {
+            "name": "Ritual Scarab of Abundance",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiUml0dWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2e76a61fb9/GreaterScarabRitual.png",
+            "chaosValue": 6.0,
+            "exaltedValue": 0.35,
+            "divineValue": 0.04,
+            "detailsId": "ritual-scarab-of-abundance"
+        },
+        {
+            "name": "Titanic Scarab of Legend",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ec6815d00/GreaterScarabUnique.png",
+            "chaosValue": 5.5,
+            "exaltedValue": 0.32,
+            "divineValue": 0.03,
+            "detailsId": "titanic-scarab-of-legend"
+        },
+        {
+            "name": "Delirium Scarab of Paranoia",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGVsaXJpdW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c723c51ba6/GreaterScarabDelirium.png",
+            "chaosValue": 5.0,
+            "exaltedValue": 0.29,
+            "divineValue": 0.03,
+            "detailsId": "delirium-scarab-of-paranoia"
+        },
+        {
+            "name": "Divination Scarab of The Cloister",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
+            "chaosValue": 4.36,
+            "exaltedValue": 0.25,
+            "divineValue": 0.03,
+            "detailsId": "divination-scarab-of-the-cloister"
+        },
+        {
+            "name": "Cartography Scarab of Risk",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0baaf413d0/NormalScarabMaps.png",
+            "chaosValue": 4.0,
+            "exaltedValue": 0.23,
+            "divineValue": 0.02,
+            "detailsId": "cartography-scarab-of-risk"
+        },
+        {
+            "name": "Harbinger Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJiaW5nZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1940157b44/LesserScarabHarbingers.png",
+            "chaosValue": 3.63,
+            "exaltedValue": 0.21,
+            "divineValue": 0.02,
+            "detailsId": "harbinger-scarab"
+        },
+        {
+            "name": "Blight Scarab of Invigoration",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
+            "chaosValue": 3.6,
+            "exaltedValue": 0.21,
+            "divineValue": 0.02,
+            "detailsId": "blight-scarab-of-invigoration"
+        },
+        {
+            "name": "Bestiary Scarab of the Herd",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f4dc83dc5/NormalScarabBeasts.png",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.17,
+            "divineValue": 0.02,
+            "detailsId": "bestiary-scarab-of-the-herd"
+        },
+        {
+            "name": "Bestiary Scarab of Duplicating",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmVhc3RzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7225b9e62b/GreaterScarabBeasts.png",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.17,
+            "divineValue": 0.02,
+            "detailsId": "bestiary-scarab-of-duplicating"
+        },
+        {
+            "name": "Horned Scarab of Tradition",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c96bd21955/SuperScarab5.png",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.17,
+            "divineValue": 0.02,
+            "detailsId": "horned-scarab-of-tradition"
+        },
+        {
+            "name": "Scarab of Radiant Storms",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1pc2MyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a1a6f9261c/Tier4ScarabMisc2.png",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.17,
+            "divineValue": 0.02,
+            "detailsId": "scarab-of-radiant-storms"
+        },
+        {
+            "name": "Abyss Scarab of Profound Depth",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkFieXNzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7a1f5c2928/AltTier4ScarabAbyss.png",
+            "chaosValue": 2.94,
+            "exaltedValue": 0.17,
+            "divineValue": 0.02,
+            "detailsId": "abyss-scarab-of-profound-depth"
+        },
+        {
+            "name": "Anarchy Scarab of Gigantification",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBbmFyY2h5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4165090d5d/NormalScarabAnarchy.png",
+            "chaosValue": 2.87,
+            "exaltedValue": 0.17,
+            "divineValue": 0.02,
+            "detailsId": "anarchy-scarab-of-gigantification"
+        },
+        {
+            "name": "Scarab of Monstrous Lineage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
+            "chaosValue": 2.15,
+            "exaltedValue": 0.13,
+            "divineValue": 0.01,
+            "detailsId": "scarab-of-monstrous-lineage"
+        },
+        {
+            "name": "Titanic Scarab of Treasures",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/774d92ac8e/NormalScarabUnique.png",
+            "chaosValue": 2.09,
+            "exaltedValue": 0.12,
+            "divineValue": 0.01,
+            "detailsId": "titanic-scarab-of-treasures"
+        },
+        {
+            "name": "Influencing Scarab of Conversion",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlNoYXBlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1c759412df/Tier4ScarabShaper.png",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.12,
+            "divineValue": 0.01,
+            "detailsId": "influencing-scarab-of-conversion"
+        },
+        {
+            "name": "Ultimatum Scarab of Bribing",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f7845be27d/NormalScarabUltimatum.png",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.12,
+            "divineValue": 0.01,
+            "detailsId": "ultimatum-scarab-of-bribing"
+        },
+        {
+            "name": "Influencing Scarab of Hordes",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bd3ed1eca/GreaterScarabElder.png",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.12,
+            "divineValue": 0.01,
+            "detailsId": "influencing-scarab-of-hordes"
+        },
+        {
+            "name": "Essence Scarab of Ascent",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3f918a4115/NormalScarabEssence.png",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.12,
+            "divineValue": 0.01,
+            "detailsId": "essence-scarab-of-ascent"
+        },
+        {
+            "name": "Domination Scarab of Evolution",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRG9taW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/88bb71ff95/GreaterScarabDomination.png",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.12,
+            "divineValue": 0.01,
+            "detailsId": "domination-scarab-of-evolution"
+        },
+        {
+            "name": "Scarab of Adversaries",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRMZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b51199868c/AltLesserScarabMisc.png",
+            "chaosValue": 1.96,
+            "exaltedValue": 0.11,
+            "divineValue": 0.01,
+            "detailsId": "scarab-of-adversaries"
+        },
+        {
+            "name": "Divination Scarab of Plenty",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7fb7abf05a/NormalScarabDivination.png",
+            "chaosValue": 1.94,
+            "exaltedValue": 0.11,
+            "divineValue": 0.01,
+            "detailsId": "divination-scarab-of-plenty"
+        },
+        {
+            "name": "Breach Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37bd40da6c/LesserScarabBreach.png",
+            "chaosValue": 1.91,
+            "exaltedValue": 0.11,
+            "divineValue": 0.01,
+            "detailsId": "breach-scarab"
+        },
+        {
+            "name": "Legion Scarab of Officers",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
+            "chaosValue": 1.69,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "detailsId": "legion-scarab-of-officers"
+        },
+        {
+            "name": "Ultimatum Scarab of Inscription",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlVsdGltYXR1bSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6c6731cf8d/AltTier4ScarabUltimatum.png",
+            "chaosValue": 1.59,
+            "exaltedValue": 0.09,
+            "divineValue": 0.01,
+            "detailsId": "ultimatum-scarab-of-inscription"
+        },
+        {
+            "name": "Cartography Scarab of Escalation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c982c28d52/LesserScarabMaps.png",
+            "chaosValue": 1.52,
+            "exaltedValue": 0.09,
+            "divineValue": 0.01,
+            "detailsId": "cartography-scarab-of-escalation"
+        },
+        {
+            "name": "Ritual Scarab of Selectiveness",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJSaXR1YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/744a25b9f9/LesserScarabRitual.png",
+            "chaosValue": 1.37,
+            "exaltedValue": 0.08,
+            "divineValue": 0.01,
+            "detailsId": "ritual-scarab-of-selectiveness"
+        },
+        {
+            "name": "Essence Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c9f153a8cf/LesserScarabEssence.png",
+            "chaosValue": 1.19,
+            "exaltedValue": 0.07,
+            "divineValue": 0.01,
+            "detailsId": "essence-scarab"
+        },
+        {
+            "name": "Anarchy Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJBbmFyY2h5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/89174f2e33/LesserScarabAnarchy.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "anarchy-scarab"
+        },
+        {
+            "name": "Betrayal Scarab of Intelligence",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "betrayal-scarab-of-intelligence"
+        },
+        {
+            "name": "Sulphite Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1e18c30014/LesserScarabSulphite.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "sulphite-scarab"
+        },
+        {
+            "name": "Essence Scarab of Stability",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRXNzZW5jZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f476efd29d/GreaterScarabEssence.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "essence-scarab-of-stability"
+        },
+        {
+            "name": "Delirium Scarab of Neuroses",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiRGVsaXJpdW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e311aea0b6/AltGreaterScarabDelirium.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "delirium-scarab-of-neuroses"
+        },
+        {
+            "name": "Harvest Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0951fed47e/LesserScarabHarvest.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "harvest-scarab"
+        },
+        {
+            "name": "Legion Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0006525c3c/LesserScarabLegion.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "legion-scarab"
+        },
+        {
+            "name": "Expedition Scarab of Verisium Powder",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRXhwZWRpdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/19a2dff87d/GreaterScarabExpedition.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "expedition-scarab-of-verisium-powder"
+        },
+        {
+            "name": "Legion Scarab of Command",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8c2976d5a7/AltNormalScarabLegion.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "legion-scarab-of-command"
+        },
+        {
+            "name": "Blight Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c35814598b/LesserScarabBlight.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "blight-scarab"
+        },
+        {
+            "name": "Incursion Scarab of Invasion",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJJbmN1cnNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/992c5f7548/NormalScarabIncursion.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "incursion-scarab-of-invasion"
+        },
+        {
+            "name": "Ultimatum Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e0bf2875db/LesserScarabUltimatum.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "ultimatum-scarab"
+        },
+        {
+            "name": "Breach Scarab of Splintering",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiQnJlYWNoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e324a54cdc/AltGreaterScarabBreach.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "breach-scarab-of-splintering"
+        },
+        {
+            "name": "Ambush Scarab of Potency",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3Ryb25nYm94ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8b46f6270a/GreaterScarabStrongboxes.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "ambush-scarab-of-potency"
+        },
+        {
+            "name": "Sulphite Scarab of Fumes",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3VscGhpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2a3855535e/GreaterScarabSulphite.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "sulphite-scarab-of-fumes"
+        },
+        {
+            "name": "Abyss Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJBYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5afc346c84/LesserScarabAbyss.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "abyss-scarab"
+        },
+        {
+            "name": "Delirium Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEZWxpcml1bSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ccb0e23ff2/LesserScarabDelirium.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "delirium-scarab"
+        },
+        {
+            "name": "Delirium Scarab of Mania",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEZWxpcml1bSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9f8ae4cdb7/NormalScarabDelirium.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "delirium-scarab-of-mania"
+        },
+        {
+            "name": "Torment Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJUb3JtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b4e843a49b/LesserScarabTorment.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "torment-scarab"
+        },
+        {
+            "name": "Abyss Scarab of Multitudes",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c78d645398/NormalScarabAbyss.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "abyss-scarab-of-multitudes"
+        },
+        {
+            "name": "Breach Scarab of Lordship",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQnJlYWNoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6c012fae5c/GreaterScarabBreach.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "breach-scarab-of-lordship"
+        },
+        {
+            "name": "Expedition Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFeHBlZGl0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e9bb9fa480/LesserScarabExpedition.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "expedition-scarab"
+        },
+        {
+            "name": "Beyond Scarab of the Invasion",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJleW9uZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f3d0278af1/Tier4ScarabBeyond.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "beyond-scarab-of-the-invasion"
+        },
+        {
+            "name": "Ambush Scarab of Hidden Compartments",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/46451362bc/NormalScarabStrongboxes.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "ambush-scarab-of-hidden-compartments"
+        },
+        {
+            "name": "Domination Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEb21pbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56e13db37d/LesserScarabDomination.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "domination-scarab"
+        },
+        {
+            "name": "Influencing Scarab of the Elder",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFbGRlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/11cabe4d12/LesserScarabElder.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "influencing-scarab-of-the-elder"
+        },
+        {
+            "name": "Scarab of Hunted Traitors",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dfed2f59a3/GreaterScarabMisc.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "scarab-of-hunted-traitors"
+        },
+        {
+            "name": "Abyss Scarab of Edifice",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6bcf6b93d/GreaterScarabAbyss.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "abyss-scarab-of-edifice"
+        },
+        {
+            "name": "Expedition Scarab of Runefinding",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFeHBlZGl0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a1f5997c7d/NormalScarabExpedition.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "expedition-scarab-of-runefinding"
+        },
+        {
+            "name": "Beyond Scarab of Haemophilia",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXlvbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/66114ee2e9/NormalScarabBeyond.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "beyond-scarab-of-haemophilia"
+        },
+        {
+            "name": "Anarchy Scarab of Partnership",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQW5hcmNoeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08125ce822/GreaterScarabAnarchy.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "anarchy-scarab-of-partnership"
+        },
+        {
+            "name": "Delirium Scarab of Delusions",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRlbGlyaXVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6416ee8493/Tier4ScarabDelirium.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "delirium-scarab-of-delusions"
+        },
+        {
+            "name": "Betrayal Scarab of Reinforcements",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmV0cmF5YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/85f51a19b8/GreaterScarabBetrayal.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "betrayal-scarab-of-reinforcements"
+        },
+        {
+            "name": "Incursion Scarab of Champions",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSW5jdXJzaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f6b60e9be1/GreaterScarabIncursion.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "incursion-scarab-of-champions"
+        },
+        {
+            "name": "Expedition Scarab of Archaeology",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "expedition-scarab-of-archaeology"
+        },
+        {
+            "name": "Beyond Scarab of Resurgence",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiQmV5b25kIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d007f87e7b/AltGreaterScarabBeyond.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "beyond-scarab-of-resurgence"
+        },
+        {
+            "name": "Scarab of Stability",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1pc2MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/42e3a0fccd/Tier4ScarabMisc.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "scarab-of-stability"
+        },
+        {
+            "name": "Torment Scarab of Possession",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlRvcm1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b809b07f2b/Tier4ScarabTorment.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "torment-scarab-of-possession"
+        },
+        {
+            "name": "Scarab of Divinity",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4e827f718/NormalScarabMisc.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "scarab-of-divinity"
+        },
+        {
+            "name": "Ritual Scarab of Wisps",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJSaXR1YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/45dba85b5a/NormalScarabRitual.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "ritual-scarab-of-wisps"
+        },
+        {
+            "name": "Blight Scarab of the Blightheart",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmxpZ2h0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cf36f28d45/GreaterScarabBlight.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "blight-scarab-of-the-blightheart"
+        },
+        {
+            "name": "Harbinger Scarab of Obelisks",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJIYXJiaW5nZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/640ad00ede/NormalScarabHarbingers.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "harbinger-scarab-of-obelisks"
+        },
+        {
+            "name": "Domination Scarab of Apparitions",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEb21pbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9ef9fd8595/NormalScarabDomination.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "domination-scarab-of-apparitions"
+        },
+        {
+            "name": "Titanic Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/72516960f1/LesserScarabUnique.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "titanic-scarab"
+        },
+        {
+            "name": "Scarab of Bisection",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b0c70fb6c8/GreaterScarabMisc2.png",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "scarab-of-bisection"
+        },
+        {
+            "name": "Beyond Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZXlvbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ff67da07b4/LesserScarabBeyond.png",
+            "chaosValue": 0.99,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "beyond-scarab"
+        },
+        {
+            "name": "Bestiary Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
+            "chaosValue": 0.98,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "bestiary-scarab"
+        },
+        {
+            "name": "Betrayal Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/26d3ff70f1/LesserScarabBetrayal.png",
+            "chaosValue": 0.98,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "detailsId": "betrayal-scarab"
+        },
+        {
+            "name": "Influencing Scarab of the Shaper",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTaGFwZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9e83e315c9/LesserScarabShaper.png",
+            "chaosValue": 0.93,
+            "exaltedValue": 0.05,
+            "divineValue": 0.01,
+            "detailsId": "influencing-scarab-of-the-shaper"
+        },
+        {
+            "name": "Torment Scarab of Peculiarity",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJUb3JtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b93daed118/NormalScarabTorment.png",
+            "chaosValue": 0.91,
+            "exaltedValue": 0.05,
+            "divineValue": 0.01,
+            "detailsId": "torment-scarab-of-peculiarity"
+        },
+        {
+            "name": "Incursion Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJJbmN1cnNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/44cc3c3c34/LesserScarabIncursion.png",
+            "chaosValue": 0.9,
+            "exaltedValue": 0.05,
+            "divineValue": 0.01,
+            "detailsId": "incursion-scarab"
+        },
+        {
+            "currencyTypeName": "Chaos Orb",
+            "chaosEquivalent": 1,
+            "detailsId": "chaos-orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d119a0d734/CurrencyRerollRare.png"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-28T17:16:58.509238Z",
+  "updated": "2025-02-07T02:34:58.007198Z",
   "exchanges": [
     {
       "haveCurrency": "Chaos Orb",
@@ -2219,6 +2219,247 @@
           "haveAmount": 1.0,
           "wantAmount": 1.3,
           "stock": 1682
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Divination Scarab of Pilfering",
+      "lastUpdated": "2025-02-07T02:34:38.160385Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 16
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 21.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 22.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 26.67,
+          "stock": 9
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 34.0,
+          "stock": 136
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 34.0,
+          "stock": 127
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 180
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 1368
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.5,
+          "stock": 39
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 1105
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 246
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 58
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Ambush Scarab of Discernment",
+      "lastUpdated": "2025-02-07T02:34:43.752163Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 14
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 44.0,
+          "stock": 30
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 48.0,
+          "stock": 5
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 60.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 60.0,
+          "stock": 4
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 34.0,
+          "stock": 306
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 33.5,
+          "stock": 1005
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 33.0,
+          "stock": 4587
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 32.0,
+          "stock": 14112
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 31.0,
+          "stock": 310
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 31.0,
+          "stock": 10928
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Divination Scarab of Pilfering",
+      "lastUpdated": "2025-02-07T02:34:52.401704Z",
+      "offers": [
+        {
+          "haveAmount": 8.5,
+          "wantAmount": 1.0,
+          "stock": 587
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 792
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 50
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 78
+        },
+        {
+          "haveAmount": 2.6,
+          "wantAmount": 1.0,
+          "stock": 26
+        },
+        {
+          "haveAmount": 2.6,
+          "wantAmount": 1.0,
+          "stock": 90
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ambush Scarab of Discernment",
+      "lastUpdated": "2025-02-07T02:34:58.007198Z",
+      "offers": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 520
+        },
+        {
+          "haveAmount": 3.75,
+          "wantAmount": 1.0,
+          "stock": 165
+        },
+        {
+          "haveAmount": 3.69,
+          "wantAmount": 1.0,
+          "stock": 166
+        },
+        {
+          "haveAmount": 3.64,
+          "wantAmount": 1.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 861
+        },
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 43
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 8
         }
       ]
     }

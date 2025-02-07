@@ -384,7 +384,7 @@ def is_no_trades():
 
 def main():
     sleep(3)  # Give you time to switch to the right screen
-    json_path = "./web-ui/public/faustusPrices.json"
+    json_path = "./Archive/web-ui/public/faustusPrices.json"
     data = load_data(json_path)
 
     # 3. Update the "Chaos Orb" -> "Divine Orb" exchange

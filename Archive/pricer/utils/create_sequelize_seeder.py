@@ -19,16 +19,16 @@ with open("C:\\Users\\jpitt\\VSCode\\faustus-price-checker\\Archive\\web-ui\\pub
 with open("C:\\Users\\jpitt\\VSCode\\faustus-price-checker\\Archive\\web-ui\\public\\currencyOverview.json", "r") as f:
     currency_data = json.load(f)
 
-# ✅ Fix: Build currency icon map from `lines`
+# ✅ Fix: Build currency icon map from `lines`, supporting both `currencyTypeName` and `name`
 currency_icon_map = {
-    line["currencyTypeName"]: line.get("icon", "")  # Get icon or default to empty string
-    for line in currency_data.get("lines", []) if "currencyTypeName" in line
+    line.get("currencyTypeName", line.get("name", "")): line.get("icon", "")  # Handle both `currencyTypeName` and `name`
+    for line in currency_data.get("lines", []) if "icon" in line  # Ensure icon exists
 }
 
-# ✅ Fix: Build ninja price map from `lines`
+# ✅ Fix: Build ninja price map, supporting both `chaosEquivalent` and `chaosValue`
 ninja_price_map = {
-    line["currencyTypeName"]: line.get("chaosEquivalent", 0)  # Default to 0 if missing
-    for line in currency_data.get("lines", []) if "currencyTypeName" in line
+    line.get("currencyTypeName", line.get("name", "")): line.get("chaosEquivalent", line.get("chaosValue", 0))  
+    for line in currency_data.get("lines", []) if "currencyTypeName" in line or "name" in line
 }
 
 # ✅ Debugging
