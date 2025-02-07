@@ -7,7 +7,7 @@ from time import sleep
 import pyautogui
 from utils.mouse_helper import click_mouse, exchange_search, move_mouse_to_position, move_mouse_to_random
 from utils.currencies import have_currencies, want_currencies
-from utils.resolution_helper import resolution_2560 as resolution
+from utils.resolution_helper import resolution_1080 as resolution
 
 from PIL import ImageGrab, ImageOps, ImageEnhance, Image
 import pytesseract
@@ -21,14 +21,14 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 def capture_and_process_trade_window(
     region=None, 
-    save_debug=False, 
-    debug_dir="screenshots", 
     invert_colors=True,
     threshold=True,
     enhance_contrast=True,
     contrast_factor=1.5,
     upscale_factor=3.0
 ):
+    save_debug=True
+    debug_dir="screenshots"
 
     # Move Cursor to Top Middle where Market Ratio is displayed
     move_mouse_to_position(resolution[4])
@@ -85,7 +85,10 @@ def capture_and_process_trade_window(
 #     text = pytesseract.image_to_string(image, config=custom_config)
 #     return text
 
-def capture_and_process_no_trades(region=None, save_debug=False, debug_dir="screenshots", upscale_factor=3.0):
+def capture_and_process_no_trades(region=None, upscale_factor=3.0):
+    save_debug=True
+    debug_dir="screenshots"
+
     # 1. Capture screenshot
     screenshot = ImageGrab.grab(bbox=region) if region else ImageGrab.grab()
 
@@ -364,7 +367,7 @@ def is_no_trades():
     move_mouse_to_random()
     move_mouse_to_position(resolution[4])
     pyautogui.keyDown('alt')
-    no_trades_img = capture_and_process_no_trades(resolution[6], save_debug=False, debug_dir="screenshots")
+    no_trades_img = capture_and_process_no_trades(resolution[6])
 
     custom_config = "--psm 6"
     no_trades_text = pytesseract.image_to_string(no_trades_img, config=custom_config)
@@ -398,8 +401,8 @@ def main():
                 print(f"No trades available for {have} -> {want}")
                 continue
             # perform screenshot and ocr
-            main_trades_img = capture_and_process_trade_window(region=resolution[0], save_debug=False, debug_dir="screenshots")
-            competing_trades_img = capture_and_process_trade_window(region=resolution[1], save_debug=False, debug_dir="screenshots")
+            main_trades_img = capture_and_process_trade_window(region=resolution[0])
+            competing_trades_img = capture_and_process_trade_window(region=resolution[1])
             custom_config = "--psm 6"
             main_text = pytesseract.image_to_string(main_trades_img, config=custom_config)
             main_text = main_text.splitlines()

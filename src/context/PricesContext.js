@@ -9,11 +9,18 @@ export const PricesProvider = ({ children }) => {
   const [isConnected, setIsConnected] = useState(false);
   let ws = null;
   let reconnectAttempts = 0;
+  let response;
 
   const fetchInitialData = async () => {
     try {
       console.log("📡 Fetching initial prices...");
-      const response = await fetch("http://localhost:5001/api/prices");
+      
+      if (process.env.NODE_ENV === "development") {
+        response = await fetch("http://localhost:5001/api/prices");
+      } else {
+        response = await fetch("https://faustus-price-checker.onrender.com/api/prices");
+      }
+      
       if (!response.ok) throw new Error("Failed to fetch prices");
       const data = await response.json();
       setPrices(data);

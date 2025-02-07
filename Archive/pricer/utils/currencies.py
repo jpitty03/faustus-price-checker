@@ -1,11 +1,15 @@
 have_currencies = [
     'Chaos Orb',
     'Divine Orb',
+    'The Spoiled Prince',
 ]
 
 want_currencies = [
     'Divination Scarab of Pilfering',
     'Ambush Scarab of Discernment',
+    'Divine Vessel',
+    'The Spoiled Prince',
+
 ]
 
 # want_currencies = [
