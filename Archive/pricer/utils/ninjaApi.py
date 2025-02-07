@@ -97,24 +97,39 @@ def get_ninja_info():
 def update_json_file():
     # Define the input and output file paths
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    json_file_path = os.path.join(script_dir, "../../web-ui/public/currencyOverview.json")  # Change this path if needed
+    json_file_path = os.path.join(script_dir, "../../web-ui/public/currencyOverview.json")  # Adjust path if needed
 
     # Read the existing JSON file
     try:
         with open(json_file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"Error reading JSON file: {e}")
+        print(f"❌ Error reading JSON file: {e}")
         return
 
     # Create a mapping of currency names to icons from currencyDetails
-    currency_icon_map = {c["name"]: c.get("icon", "") for c in data.get("currencyDetails", [])}
+    currency_icon_map = {c.get("name", ""): c.get("icon", "") for c in data.get("currencyDetails", [])}
 
     # Update `lines` with the corresponding `icon`
     for line in data.get("lines", []):
-        currency_name = line.get("currencyTypeName")
-        if currency_name and currency_name in currency_icon_map:
-            line["icon"] = currency_icon_map[currency_name]
+        currency_name = line.get("currencyTypeName")  # Ensure key exists
+        if currency_name:
+            line["icon"] = currency_icon_map.get(currency_name, "")
+
+    # ✅ Fix: Handle missing "currencyTypeName" safely
+    existing_currency_names = {line.get("currencyTypeName", "") for line in data.get("lines", []) if "currencyTypeName" in line}
+
+    # ✅ Ensure "Chaos Orb" is present in `lines`
+    chaos_orb_entry = {
+        "currencyTypeName": "Chaos Orb",
+        "chaosEquivalent": 1,
+        "detailsId": "chaos-orb",
+        "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d119a0d734/CurrencyRerollRare.png"
+    }
+
+    if "Chaos Orb" not in existing_currency_names:
+        data["lines"].append(chaos_orb_entry)
+        print("✅ Added Chaos Orb to lines.")
 
     # Remove `currencyDetails` from the final JSON
     updated_data = {

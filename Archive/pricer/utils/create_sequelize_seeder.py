@@ -19,9 +19,9 @@ with open("C:\\Users\\jpitt\\VSCode\\faustus-price-checker\\Archive\\web-ui\\pub
 with open("C:\\Users\\jpitt\\VSCode\\faustus-price-checker\\Archive\\web-ui\\public\\currencyOverview.json", "r") as f:
     currency_data = json.load(f)
 
-# ✅ Fix: Build currency icon map from `lines` instead of `currencyDetails`
+# ✅ Fix: Build currency icon map from `lines`
 currency_icon_map = {
-    line["currencyTypeName"]: line.get("icon", "")  # Safely get icon or default to empty string
+    line["currencyTypeName"]: line.get("icon", "")  # Get icon or default to empty string
     for line in currency_data.get("lines", []) if "currencyTypeName" in line
 }
 
@@ -30,6 +30,9 @@ ninja_price_map = {
     line["currencyTypeName"]: line.get("chaosEquivalent", 0)  # Default to 0 if missing
     for line in currency_data.get("lines", []) if "currencyTypeName" in line
 }
+
+# ✅ Debugging
+# print("🔍 currency_icon_map:", json.dumps(currency_icon_map, indent=2))
 
 # Get current timestamp for created_at & last_updated
 timestamp = datetime.utcnow().isoformat() + "Z"
@@ -41,14 +44,18 @@ for exchange in prices_data.get("exchanges", []):  # Use .get() to avoid KeyErro
     have_currency = exchange.get("haveCurrency")
     want_currency = exchange.get("wantCurrency")
 
+    # 🔥 Debug: Check if we get the expected icons
+    have_icon = currency_icon_map.get(have_currency, "MISSING")
+    want_icon = currency_icon_map.get(want_currency, "MISSING")
+    # print(f"🛠 Mapping: {have_currency} → {have_icon}, {want_currency} → {want_icon}")
+
     # Find the first offer
     if exchange.get("offers"):
         first_offer = exchange["offers"][0]
         bulk_data.append((
             timestamp, have_currency, first_offer["haveAmount"], want_currency, first_offer["wantAmount"],
             "offer", first_offer["stock"], ninja_price_map.get(want_currency, 0),
-            exchange.get("lastUpdated", timestamp), currency_icon_map.get(have_currency, ""),
-            currency_icon_map.get(want_currency, "")
+            exchange.get("lastUpdated", timestamp), have_icon, want_icon
         ))
 
     # Find the first competing trade
@@ -57,8 +64,7 @@ for exchange in prices_data.get("exchanges", []):  # Use .get() to avoid KeyErro
         bulk_data.append((
             timestamp, have_currency, first_competing["haveAmount"], want_currency, first_competing["wantAmount"],
             "competing", first_competing["stock"], ninja_price_map.get(want_currency, 0),
-            exchange.get("lastUpdated", timestamp), currency_icon_map.get(have_currency, ""),
-            currency_icon_map.get(want_currency, "")
+            exchange.get("lastUpdated", timestamp), have_icon, want_icon
         ))
 
 # ✅ PostgreSQL: Upsert query with ON CONFLICT

@@ -47,7 +47,7 @@ The frontend and backend components are deployed using cloud services to ensure 
 - 🔹 Improve OCR accuracy and performance.  
 - 🔹 Enhance database query efficiency.  
 - 🔹 Implement a UI for real-time price tracking.  
-- 🔹 Consider integrating AI-powered price trend predictions.  
+- 🔹 Consider integrating AI-powered price trend predictions.
 
 ---
 
