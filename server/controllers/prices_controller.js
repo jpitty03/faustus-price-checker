@@ -20,6 +20,7 @@ const broadcastUpdate = async () => {
         "last_updated",
         "have_currency_icon",
         "want_currency_icon",
+        "want_item_type"
       ],
       raw: true,
     });
@@ -55,6 +56,7 @@ prices.get("/", async (req, res) => {
         "last_updated",
         "have_currency_icon",
         "want_currency_icon",
+        "want_item_type"
       ],
       raw: true,
     });

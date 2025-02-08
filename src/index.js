@@ -1,28 +1,28 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+import React from "react";
+import ReactDOM from "react-dom/client";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
-import CssBaseline from '@mui/material/CssBaseline';
-import './index.css';
-import App from './App';
+import CssBaseline from "@mui/material/CssBaseline";
+import "./index.css";
+import App from "./App";
 import { PricesProvider } from "./context/PricesContext";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
 const theme = createTheme({
   palette: {
     mode: "dark",
     primary: {
-      main: "#90caf9",  // a lighter blue for dark backgrounds
+      main: "#90caf9",
     },
     secondary: {
-      main: "#f48fb1",  // pink accent
+      main: "#f48fb1",
     },
     background: {
-      default: "#121212", // typical dark background
+      default: "#121212",
       paper: "#1d1d1d"
     },
     text: {
-      primary: "#ffffff"  // ensures text is readable against dark background
+      primary: "#ffffff"
     }
   }
 });

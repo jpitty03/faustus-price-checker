@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 // 🔹 Serve React frontend (for Render deployment)
-app.use(express.static(path.join(__dirname, '../build')));
+app.use(express.static(path.join(__dirname, "../build")));
 
 // 🔹 WebSocket Setup
 const wss = new WebSocket.Server({ noServer: true });
@@ -38,8 +38,8 @@ const pricesController = require("./controllers/prices_controller");
 app.use("/api/prices", pricesController);
 
 // 🔹 Serve React frontend for all other routes
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '../build', 'index.html'));
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../build", "index.html"));
 });
 
 /**
@@ -77,6 +77,7 @@ const connectToDatabase = async () => {
           "last_updated",
           "have_currency_icon",
           "want_currency_icon",
+          "want_item_type"
         ],
         raw: true,
       });

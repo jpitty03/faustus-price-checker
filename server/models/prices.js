@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 const {
   Model
-} = require('sequelize');
+} = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
   class Prices extends Model {
     /**
@@ -27,8 +27,8 @@ module.exports = (sequelize, DataTypes) => {
     want_currency_icon: DataTypes.TEXT
   }, {
     sequelize,
-    modelName: 'Prices',
-    tableName: 'prices',
+    modelName: "Prices",
+    tableName: "prices",
     timestamps: false,
     underscored: true 
   });

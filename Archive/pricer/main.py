@@ -7,7 +7,7 @@ from time import sleep
 import pyautogui
 from utils.mouse_helper import click_mouse, exchange_search, move_mouse_to_position, move_mouse_to_random
 from utils.currencies import have_currencies, want_currencies
-from utils.resolution_helper import resolution_1080 as resolution
+from utils.resolution_helper import resolution_2560 as resolution
 
 from PIL import ImageGrab, ImageOps, ImageEnhance, Image
 import pytesseract

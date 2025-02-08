@@ -1,0 +1,37 @@
+faustus-price-checker/
+┣ Archive/
+┃ ┗ web-ui/
+┃   ┗ public/
+┃ ┃   ┣ currencyOverview.json
+┃ ┃   ┗ faustusPrices.json
+┣ server/
+┃ ┣ config/
+┃ ┃ ┗ config.js
+┃ ┣ controllers/
+┃ ┃ ┗ prices_controller.js
+┃ ┣ migrations/
+┃ ┃ ┗ 20250129222302-create-prices.js
+┃ ┣ models/
+┃ ┃ ┣ index.js
+┃ ┃ ┣ prices.js
+┃ ┃ ┗ prices_old.js
+┃ ┣ seeders/
+┃ ┃ ┗ 20250129221335-prices.js
+┃ ┗ server.js
+┣ src/
+┃ ┣ components/
+┃ ┃ ┣ PriceDataGrid.jsx
+┃ ┃ ┗ PriceGridColumns.js
+┃ ┣ context/
+┃ ┃ ┗ PricesContext.js
+┃ ┣ App.css
+┃ ┣ App.jsx
+┃ ┣ index.css
+┃ ┗ index.js
+┣ .env
+┣ .gitignore
+┣ .sequelizerc
+┣ filetree.txt
+┣ package-lock.json
+┣ package.json
+┗ README.md

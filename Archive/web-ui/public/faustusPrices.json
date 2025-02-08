@@ -1,20 +1,20 @@
 {
-  "updated": "2025-02-07T21:57:06.581672Z",
+  "updated": "2025-02-08T16:48:44.188385Z",
   "exchanges": [
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Divination Scarab of Pilfering",
-      "lastUpdated": "2025-02-07T21:56:48.639636Z",
+      "lastUpdated": "2025-02-08T06:57:18.642193Z",
       "offers": [
         {
-          "haveAmount": 303030.0,
+          "haveAmount": 15.0,
           "wantAmount": 1.0,
-          "stock": 1
+          "stock": 11
         },
         {
           "haveAmount": 34.0,
           "wantAmount": 1.0,
-          "stock": 135
+          "stock": 103
         },
         {
           "haveAmount": 35.0,
@@ -29,7 +29,7 @@
         {
           "haveAmount": 90.0,
           "wantAmount": 1.0,
-          "stock": 54
+          "stock": 46
         },
         {
           "haveAmount": 90.0,
@@ -39,24 +39,19 @@
       ],
       "competingTrades": [
         {
-          "haveAmount": 9.0,
-          "wantAmount": 1.0,
-          "stock": 9
-        },
-        {
           "haveAmount": 6.0,
           "wantAmount": 1.0,
-          "stock": 1272
+          "stock": 1110
         },
         {
           "haveAmount": 5.5,
           "wantAmount": 1.0,
-          "stock": 55
+          "stock": 39
         },
         {
           "haveAmount": 5.0,
           "wantAmount": 1.0,
-          "stock": 1005
+          "stock": 1000
         },
         {
           "haveAmount": 3.0,
@@ -64,63 +59,63 @@
           "stock": 246
         },
         {
-          "haveAmount": 3.0,
+          "haveAmount": 1.0,
           "wantAmount": 1.0,
-          "stock": 58
+          "stock": 38
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 20
         }
       ]
     },
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Ambush Scarab of Discernment",
-      "lastUpdated": "2025-02-07T21:56:54.074892Z",
+      "lastUpdated": "2025-02-08T06:56:23.225054Z",
       "offers": [
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 38.0,
+          "wantAmount": 1.0,
+          "stock": 5
+        },
         {
           "haveAmount": 39.0,
           "wantAmount": 1.0,
-          "stock": 1
+          "stock": 37
         },
         {
           "haveAmount": 40.0,
           "wantAmount": 1.0,
-          "stock": 79
-        },
-        {
-          "haveAmount": 44.0,
-          "wantAmount": 1.0,
-          "stock": 1
+          "stock": 21
         },
         {
           "haveAmount": 45.0,
           "wantAmount": 1.0,
-          "stock": 45
+          "stock": 50
         },
         {
-          "haveAmount": 48.0,
+          "haveAmount": 45.0,
           "wantAmount": 1.0,
-          "stock": 4
-        },
-        {
-          "haveAmount": 48.0,
-          "wantAmount": 1.0,
-          "stock": 16
+          "stock": 20
         }
       ],
       "competingTrades": [
         {
-          "haveAmount": 25.0,
-          "wantAmount": 1.0,
-          "stock": 50
-        },
-        {
           "haveAmount": 20.0,
           "wantAmount": 1.0,
-          "stock": 3280
+          "stock": 5840
         },
         {
           "haveAmount": 19.0,
           "wantAmount": 1.0,
-          "stock": 2261
+          "stock": 361
         },
         {
           "haveAmount": 18.0,
@@ -133,58 +128,8385 @@
           "stock": 28
         },
         {
-          "haveAmount": 14.0,
+          "haveAmount": 10.0,
           "wantAmount": 1.0,
-          "stock": 2519
+          "stock": 1230
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 1289
         }
       ]
     },
     {
       "haveCurrency": "Divine Orb",
       "wantCurrency": "Ambush Scarab of Discernment",
-      "lastUpdated": "2025-02-07T21:57:06.581672Z",
+      "lastUpdated": "2025-02-08T07:05:36.297634Z",
       "offers": [
         {
           "haveAmount": 1.0,
-          "wantAmount": 6.25,
-          "stock": 25
+          "wantAmount": 5.62,
+          "stock": 45
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 6.0,
-          "stock": 48
+          "wantAmount": 5.5,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.1,
+          "stock": 51
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 5.0,
-          "stock": 300
+          "stock": 180
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.14,
+          "stock": 58
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.14,
+          "stock": 1437
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.5,
+          "stock": 18
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.67,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Orb of Alteration",
+      "lastUpdated": "2025-02-08T06:50:43.709305Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 410.0,
+          "stock": 160
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 4.0,
+          "stock": 33560
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.73,
+          "stock": 56
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.5,
+          "stock": 84
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.33,
+          "stock": 200
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.33,
+          "stock": 20615
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.5,
+          "stock": 192
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 407
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.49,
+          "stock": 400
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.5,
+          "stock": 1000
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.9,
+          "stock": 600
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.9,
+          "stock": 4124
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Orb of Scouring",
+      "lastUpdated": "2025-02-08T06:50:49.283314Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 12018
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.01,
+          "stock": 402
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 2454
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 600
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.22,
+          "stock": 45
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.22,
+          "stock": 4321
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.0,
+          "stock": 15
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 32
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.67,
+          "stock": 27
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 17.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 183
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Orb of Regret",
+      "lastUpdated": "2025-02-08T06:50:54.850939Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 15126
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 282
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 2000
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.4,
+          "stock": 77
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.33,
+          "stock": 868
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.33,
+          "stock": 17921
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 64
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 15
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 81
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 233
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Vaal Orb",
+      "lastUpdated": "2025-02-08T06:51:00.385819Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 6808
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 1846
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 5101
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 114
+        },
+        {
+          "haveAmount": 2.8,
+          "wantAmount": 1.0,
+          "stock": 275
+        },
+        {
+          "haveAmount": 2.8,
+          "wantAmount": 1.0,
+          "stock": 28
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 356
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 15
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Exalted Orb",
+      "lastUpdated": "2025-02-08T06:51:05.926736Z",
+      "offers": [
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 33.0,
+          "wantAmount": 1.0,
+          "stock": 87
+        },
+        {
+          "haveAmount": 34.0,
+          "wantAmount": 1.0,
+          "stock": 695
+        },
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 81
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 426
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 26.0,
+          "wantAmount": 1.0,
+          "stock": 52
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 2200
+        },
+        {
+          "haveAmount": 24.8,
+          "wantAmount": 1.0,
+          "stock": 124
+        },
+        {
+          "haveAmount": 24.33,
+          "wantAmount": 1.0,
+          "stock": 365
+        },
+        {
+          "haveAmount": 23.0,
+          "wantAmount": 1.0,
+          "stock": 92
+        },
+        {
+          "haveAmount": 23.0,
+          "wantAmount": 1.0,
+          "stock": 12432
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Ancient Orb",
+      "lastUpdated": "2025-02-08T06:51:11.482111Z",
+      "offers": [
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 102
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 63
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 572
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 300
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 221
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 166
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 305
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 99
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.15,
+          "stock": 100
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.8,
+          "stock": 5
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.8,
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Stacked Deck",
+      "lastUpdated": "2025-02-08T06:51:17.023032Z",
+      "offers": [
+        {
+          "haveAmount": 1.8,
+          "wantAmount": 1.0,
+          "stock": 2174
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 4007
+        },
+        {
+          "haveAmount": 2.09,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 2.14,
+          "wantAmount": 1.0,
+          "stock": 35
+        },
+        {
+          "haveAmount": 2.3,
+          "wantAmount": 1.0,
+          "stock": 500
+        },
+        {
+          "haveAmount": 2.3,
+          "wantAmount": 1.0,
+          "stock": 1126
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 2431
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.85,
+          "stock": 965
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.85,
+          "stock": 521
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.9,
+          "stock": 110
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.9,
+          "stock": 1004
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Harbinger's Orb",
+      "lastUpdated": "2025-02-08T06:51:22.548348Z",
+      "offers": [
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 126.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 150.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 200.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 200.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Valdo's Puzzle Box",
+      "lastUpdated": "2025-02-08T06:51:28.090938Z",
+      "offers": [
+        {
+          "haveAmount": 229.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 230.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 249.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 250.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 258.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 258.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 220.0,
+          "wantAmount": 1.0,
+          "stock": 11440
+        },
+        {
+          "haveAmount": 218.0,
+          "wantAmount": 1.0,
+          "stock": 1308
+        },
+        {
+          "haveAmount": 21410.0,
+          "wantAmount": 1.0,
+          "stock": 2141
+        },
+        {
+          "haveAmount": 211.0,
+          "wantAmount": 1.0,
+          "stock": 1899
+        },
+        {
+          "haveAmount": 205.0,
+          "wantAmount": 1.0,
+          "stock": 205
+        },
+        {
+          "haveAmount": 205.0,
+          "wantAmount": 1.0,
+          "stock": 2012
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Divine Orb",
+      "lastUpdated": "2025-02-08T16:48:35.540239Z",
+      "offers": [
+        {
+          "haveAmount": 180.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 190.0,
+          "wantAmount": 1.0,
+          "stock": 234
+        },
+        {
+          "haveAmount": 191.0,
+          "wantAmount": 1.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 192.0,
+          "wantAmount": 1.0,
+          "stock": 45
+        },
+        {
+          "haveAmount": 193.0,
+          "wantAmount": 1.0,
+          "stock": 105
+        },
+        {
+          "haveAmount": 193.0,
+          "wantAmount": 1.0,
+          "stock": 165
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 174.0,
+          "wantAmount": 1.0,
+          "stock": 174
+        },
+        {
+          "haveAmount": 173.0,
+          "wantAmount": 1.0,
+          "stock": 1557
+        },
+        {
+          "haveAmount": 172.0,
+          "wantAmount": 1.0,
+          "stock": 46784
+        },
+        {
+          "haveAmount": 171.0,
+          "wantAmount": 1.0,
+          "stock": 7524
+        },
+        {
+          "haveAmount": 170.0,
+          "wantAmount": 1.0,
+          "stock": 56100
+        },
+        {
+          "haveAmount": 170.0,
+          "wantAmount": 1.0,
+          "stock": 862598
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Orb of Annulment",
+      "lastUpdated": "2025-02-08T06:51:39.205928Z",
+      "offers": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 102
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 345
+        },
+        {
+          "haveAmount": 14.5,
+          "wantAmount": 1.0,
+          "stock": 390
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 576
+        },
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 90
+        },
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 92
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 1662
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 80
+        },
+        {
+          "haveAmount": 3.1,
+          "wantAmount": 1.0,
+          "stock": 31
+        },
+        {
+          "haveAmount": 2.1,
+          "wantAmount": 1.0,
+          "stock": 126
+        },
+        {
+          "haveAmount": 2.1,
+          "wantAmount": 1.0,
+          "stock": 575
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Sacred Orb",
+      "lastUpdated": "2025-02-08T06:52:08.617653Z",
+      "offers": [
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 65
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 29.0,
+          "wantAmount": 1.0,
+          "stock": 232
+        },
+        {
+          "haveAmount": 28.0,
+          "wantAmount": 1.0,
+          "stock": 28
+        },
+        {
+          "haveAmount": 27.0,
+          "wantAmount": 1.0,
+          "stock": 270
+        },
+        {
+          "haveAmount": 26.0,
+          "wantAmount": 1.0,
+          "stock": 208
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 200
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 1540
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Eldritch Chaos Orb",
+      "lastUpdated": "2025-02-08T06:52:22.167026Z",
+      "offers": [
+        {
+          "haveAmount": 85.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 90.0,
+          "wantAmount": 1.0,
+          "stock": 76
+        },
+        {
+          "haveAmount": 100.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 109.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 110.0,
+          "wantAmount": 1.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 110.0,
+          "wantAmount": 1.0,
+          "stock": 5
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 65.0,
+          "wantAmount": 1.0,
+          "stock": 520
+        },
+        {
+          "haveAmount": 62.0,
+          "wantAmount": 1.0,
+          "stock": 4278
+        },
+        {
+          "haveAmount": 61.0,
+          "wantAmount": 1.0,
+          "stock": 305
+        },
+        {
+          "haveAmount": 60.0,
+          "wantAmount": 1.0,
+          "stock": 1680
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 300
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 1434
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Eldritch Exalted Orb",
+      "lastUpdated": "2025-02-08T06:52:27.718207Z",
+      "offers": [
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 22.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 27.78,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 27.78,
+          "wantAmount": 1.0,
+          "stock": 4
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Eldritch Orb of Annulment",
+      "lastUpdated": "2025-02-08T06:52:33.254170Z",
+      "offers": [
+        {
+          "haveAmount": 80.0,
+          "wantAmount": 1.0,
+          "stock": 84
+        },
+        {
+          "haveAmount": 200.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 2500
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 880
+        },
+        {
+          "haveAmount": 32.0,
+          "wantAmount": 1.0,
+          "stock": 320
+        },
+        {
+          "haveAmount": 31.0,
+          "wantAmount": 1.0,
+          "stock": 217
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Greater Eldritch Ember",
+      "lastUpdated": "2025-02-08T06:52:46.750533Z",
+      "offers": [
+        {
+          "haveAmount": 1.92,
+          "wantAmount": 1.0,
+          "stock": 915
+        },
+        {
+          "haveAmount": 1.98,
+          "wantAmount": 1.0,
+          "stock": 816
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 3859
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 2.57,
+          "wantAmount": 1.0,
+          "stock": 2444
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 232
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Greater Eldritch Ichor",
+      "lastUpdated": "2025-02-08T06:52:52.269802Z",
+      "offers": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 325
+        },
+        {
+          "haveAmount": 2.71,
+          "wantAmount": 1.0,
+          "stock": 14
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 66
+        },
+        {
+          "haveAmount": 3.02,
+          "wantAmount": 1.0,
+          "stock": 44
+        },
+        {
+          "haveAmount": 3.09,
+          "wantAmount": 1.0,
+          "stock": 34
+        },
+        {
+          "haveAmount": 3.09,
+          "wantAmount": 1.0,
+          "stock": 2027
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Grand Eldritch Ember",
+      "lastUpdated": "2025-02-08T06:52:57.810410Z",
+      "offers": [
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 363
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 2627
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 146.67,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 595
+        },
+        {
+          "haveAmount": 3.6,
+          "wantAmount": 1.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 63
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 297
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 14952
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 3639
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Grand Eldritch Ichor",
+      "lastUpdated": "2025-02-08T06:53:03.340250Z",
+      "offers": [
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 482
+        },
+        {
+          "haveAmount": 7.5,
+          "wantAmount": 1.0,
           "stock": 72
         },
         {
-          "haveAmount": 1.0,
-          "wantAmount": 3.6,
-          "stock": 288
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 684
+        },
+        {
+          "haveAmount": 8.5,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 21
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 814
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 78
+        },
+        {
+          "haveAmount": 1.4,
+          "wantAmount": 1.0,
+          "stock": 28
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 3.6,
-          "stock": 812
+          "wantAmount": 4.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.9,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 377
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Exceptional Eldritch Ember",
+      "lastUpdated": "2025-02-08T06:53:08.877128Z",
+      "offers": [
+        {
+          "haveAmount": 400.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 499.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 500.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1350.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 120.0,
+          "wantAmount": 1.0,
+          "stock": 480
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 250
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 36
+        },
+        {
+          "haveAmount": 31.0,
+          "wantAmount": 1.0,
+          "stock": 62
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 100
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 239
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Exceptional Eldritch Ichor",
+      "lastUpdated": "2025-02-08T06:53:14.422808Z",
+      "offers": [
+        {
+          "haveAmount": 240.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 250.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 298.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 299.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 130.0,
+          "wantAmount": 1.0,
+          "stock": 520
+        },
+        {
+          "haveAmount": 120.0,
+          "wantAmount": 1.0,
+          "stock": 840
+        },
+        {
+          "haveAmount": 80.0,
+          "wantAmount": 1.0,
+          "stock": 80
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 15
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 24
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 169
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Orb of Conflict",
+      "lastUpdated": "2025-02-08T06:53:19.963942Z",
+      "offers": [
+        {
+          "haveAmount": 210.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 215.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 220.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 230.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 280.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 280.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 140.0,
+          "wantAmount": 1.0,
+          "stock": 560
+        },
+        {
+          "haveAmount": 136.0,
+          "wantAmount": 1.0,
+          "stock": 1768
+        },
+        {
+          "haveAmount": 135.0,
+          "wantAmount": 1.0,
+          "stock": 135
+        },
+        {
+          "haveAmount": 134.0,
+          "wantAmount": 1.0,
+          "stock": 1206
+        },
+        {
+          "haveAmount": 133.0,
+          "wantAmount": 1.0,
+          "stock": 266
+        },
+        {
+          "haveAmount": 133.0,
+          "wantAmount": 1.0,
+          "stock": 3532
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Fracturing Shard",
+      "lastUpdated": "2025-02-08T06:53:25.517858Z",
+      "offers": [
+        {
+          "haveAmount": 69.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 79.67,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 80.0,
+          "wantAmount": 1.0,
+          "stock": 19
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 55.0,
+          "wantAmount": 1.0,
+          "stock": 1265
+        },
+        {
+          "haveAmount": 51.0,
+          "wantAmount": 1.0,
+          "stock": 510
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 700
+        },
+        {
+          "haveAmount": 37.0,
+          "wantAmount": 1.0,
+          "stock": 3478
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 120
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 151
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Cartographer's Chisel",
+      "lastUpdated": "2025-02-08T06:53:35.052614Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.25,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.2,
+          "wantAmount": 1.0,
+          "stock": 80
+        },
+        {
+          "haveAmount": 1.38,
+          "wantAmount": 1.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.4,
+          "wantAmount": 1.0,
+          "stock": 7185
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.67,
+          "stock": 12
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.8,
+          "stock": 70
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.9,
+          "stock": 42
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 493
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 132
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 304
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Gemcutter's Prism",
+      "lastUpdated": "2025-02-08T06:53:40.615149Z",
+      "offers": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 1422
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 8078
+        },
+        {
+          "haveAmount": 5.94,
+          "wantAmount": 1.0,
+          "stock": 101
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 2353
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 792
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 164
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 90
+        },
+        {
+          "haveAmount": 1.05,
+          "wantAmount": 1.0,
+          "stock": 462
+        },
+        {
+          "haveAmount": 1.04,
+          "wantAmount": 1.0,
+          "stock": 468
+        },
+        {
+          "haveAmount": 1.02,
+          "wantAmount": 1.0,
+          "stock": 1020
+        },
+        {
+          "haveAmount": 1.02,
+          "wantAmount": 1.0,
+          "stock": 315
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Maven's Chisel of Procurement",
+      "lastUpdated": "2025-02-08T06:53:46.134968Z",
+      "offers": [
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 297
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 220
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Maven's Chisel of Avarice",
+      "lastUpdated": "2025-02-08T06:53:55.656681Z",
+      "offers": [
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 10230
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 195
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 1090
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.67,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.67,
+          "stock": 87
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Maven's Chisel of Divination",
+      "lastUpdated": "2025-02-08T06:54:01.208861Z",
+      "offers": [
+        {
+          "haveAmount": 1.76,
+          "wantAmount": 1.0,
+          "stock": 17
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 17
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 14
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 59
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 51
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Maven's Chisel of Scarabs",
+      "lastUpdated": "2025-02-08T06:54:06.757386Z",
+      "offers": [
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 14415
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 260
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 500
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 188
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 51
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 116
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Tainted Chromatic Orb",
+      "lastUpdated": "2025-02-08T06:54:36.158197Z",
+      "offers": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 173
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 296
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 39
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Tainted Armourer's Scrap",
+      "lastUpdated": "2025-02-08T06:54:45.648230Z",
+      "offers": [
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 82
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 120
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 81
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 192
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 1
         }
       ],
       "competingTrades": [
         {
           "haveAmount": 1.0,
           "wantAmount": 10.0,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Tainted Orb of Fusing",
+      "lastUpdated": "2025-02-08T06:54:55.164999Z",
+      "offers": [
+        {
+          "haveAmount": 65.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 75.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 21.0,
+          "wantAmount": 1.0,
+          "stock": 231
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 150
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 235
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 126
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 164
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 161
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Tainted Mythic Orb",
+      "lastUpdated": "2025-02-08T06:55:00.702699Z",
+      "offers": [
+        {
+          "haveAmount": 45.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 62.5,
+          "wantAmount": 1.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 199.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 250.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 30
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 183
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 50
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 151
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Tainted Chaos Orb",
+      "lastUpdated": "2025-02-08T06:55:06.224562Z",
+      "offers": [
+        {
+          "haveAmount": 60.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 75.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 455
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 396
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 42
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Tainted Exalted Orb",
+      "lastUpdated": "2025-02-08T06:55:11.767666Z",
+      "offers": [
+        {
+          "haveAmount": 90.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 100.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 200.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 280
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 200
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 90
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 48
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Horned Scarab of Preservation",
+      "lastUpdated": "2025-02-08T06:55:21.300554Z",
+      "offers": [
+        {
+          "haveAmount": 340.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 350.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 124.0,
+          "wantAmount": 1.0,
+          "stock": 1240
+        },
+        {
+          "haveAmount": 123.0,
+          "wantAmount": 1.0,
+          "stock": 2952
+        },
+        {
+          "haveAmount": 122.0,
+          "wantAmount": 1.0,
+          "stock": 610
+        },
+        {
+          "haveAmount": 101.0,
+          "wantAmount": 1.0,
+          "stock": 101
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Horned Scarab of Glittering",
+      "lastUpdated": "2025-02-08T06:55:30.827185Z",
+      "offers": [
+        {
+          "haveAmount": 350.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 375.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 380.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 395.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 302.0,
+          "wantAmount": 1.0,
+          "stock": 2718
+        },
+        {
+          "haveAmount": 301.0,
+          "wantAmount": 1.0,
+          "stock": 1204
+        },
+        {
+          "haveAmount": 300.0,
+          "wantAmount": 1.0,
+          "stock": 1200
+        },
+        {
+          "haveAmount": 245.0,
+          "wantAmount": 1.0,
+          "stock": 490
+        },
+        {
+          "haveAmount": 101.0,
+          "wantAmount": 1.0,
+          "stock": 202
+        },
+        {
+          "haveAmount": 101.0,
+          "wantAmount": 1.0,
+          "stock": 217
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Horned Scarab of Bloodlines",
+      "lastUpdated": "2025-02-08T06:55:40.352909Z",
+      "offers": [
+        {
+          "haveAmount": 135.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 140.0,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 190.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 200.0,
+          "wantAmount": 1.0,
+          "stock": 25
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 210
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 72
+        },
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 385
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 270
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 225
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 638
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Ultimatum Scarab of Catalysing",
+      "lastUpdated": "2025-02-08T06:55:45.915552Z",
+      "offers": [
+        {
+          "haveAmount": 85.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 90.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 140.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 145.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 150.0,
+          "wantAmount": 1.0,
+          "stock": 26
+        },
+        {
+          "haveAmount": 150.0,
+          "wantAmount": 1.0,
+          "stock": 43
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 6020
+        },
+        {
+          "haveAmount": 61.0,
+          "wantAmount": 1.0,
+          "stock": 610
+        },
+        {
+          "haveAmount": 60.0,
+          "wantAmount": 1.0,
+          "stock": 300
+        },
+        {
+          "haveAmount": 56.0,
+          "wantAmount": 1.0,
+          "stock": 56
+        },
+        {
+          "haveAmount": 55.0,
+          "wantAmount": 1.0,
+          "stock": 6930
+        },
+        {
+          "haveAmount": 55.0,
+          "wantAmount": 1.0,
+          "stock": 1526
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Horned Scarab of Pandemonium",
+      "lastUpdated": "2025-02-08T06:55:51.455064Z",
+      "offers": [
+        {
+          "haveAmount": 450.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 485.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 202.0,
+          "wantAmount": 1.0,
+          "stock": 1010
+        },
+        {
+          "haveAmount": 201.0,
+          "wantAmount": 1.0,
+          "stock": 402
+        },
+        {
+          "haveAmount": 150.0,
+          "wantAmount": 1.0,
+          "stock": 750
+        },
+        {
+          "haveAmount": 137.0,
+          "wantAmount": 1.0,
+          "stock": 822
+        },
+        {
+          "haveAmount": 137.0,
+          "wantAmount": 1.0,
+          "stock": 248
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Harvest Scarab of Cornucopia",
+      "lastUpdated": "2025-02-08T06:55:57.003019Z",
+      "offers": [
+        {
+          "haveAmount": 80.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 90.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 97.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 98.0,
+          "wantAmount": 1.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 99.0,
+          "wantAmount": 1.0,
+          "stock": 16
+        },
+        {
+          "haveAmount": 99.0,
+          "wantAmount": 1.0,
+          "stock": 25
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 41.0,
+          "wantAmount": 1.0,
+          "stock": 369
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 600
+        },
+        {
+          "haveAmount": 38.0,
+          "wantAmount": 1.0,
+          "stock": 38
+        },
+        {
+          "haveAmount": 37.0,
+          "wantAmount": 1.0,
+          "stock": 37
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 288
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 414
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Essence Scarab of Calcification",
+      "lastUpdated": "2025-02-08T06:56:02.555918Z",
+      "offers": [
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 44.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 45.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 52.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 52.0,
+          "wantAmount": 1.0,
+          "stock": 11
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 200
+        },
+        {
+          "haveAmount": 22.0,
+          "wantAmount": 1.0,
+          "stock": 352
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 560
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 75
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 252
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 143
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Incursion Scarab of Timelines",
+      "lastUpdated": "2025-02-08T06:56:12.114830Z",
+      "offers": [
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 59.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 60.0,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 70.0,
+          "wantAmount": 1.0,
+          "stock": 39
+        },
+        {
+          "haveAmount": 79.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 47.0,
+          "wantAmount": 1.0,
+          "stock": 282
+        },
+        {
+          "haveAmount": 46.5,
+          "wantAmount": 1.0,
+          "stock": 837
+        },
+        {
+          "haveAmount": 46.0,
+          "wantAmount": 1.0,
+          "stock": 276
+        },
+        {
+          "haveAmount": 45.0,
+          "wantAmount": 1.0,
+          "stock": 1260
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 3680
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 16170
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Harvest Scarab of Doubling",
+      "lastUpdated": "2025-02-08T06:56:17.670187Z",
+      "offers": [
+        {
+          "haveAmount": 29.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 31.0,
+          "wantAmount": 1.0,
+          "stock": 995
+        },
+        {
+          "haveAmount": 32.0,
+          "wantAmount": 1.0,
+          "stock": 311
+        },
+        {
+          "haveAmount": 33.0,
+          "wantAmount": 1.0,
+          "stock": 72
+        },
+        {
+          "haveAmount": 33.0,
+          "wantAmount": 1.0,
+          "stock": 148
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 24.0,
+          "wantAmount": 1.0,
+          "stock": 312
+        },
+        {
+          "haveAmount": 23.0,
+          "wantAmount": 1.0,
+          "stock": 368
+        },
+        {
+          "haveAmount": 22.0,
+          "wantAmount": 1.0,
+          "stock": 2156
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 300
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 4264
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Harbinger Scarab of Regency",
+      "lastUpdated": "2025-02-08T06:56:28.775733Z",
+      "offers": [
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 21.0,
+          "wantAmount": 1.0,
+          "stock": 434
+        },
+        {
+          "haveAmount": 22.0,
+          "wantAmount": 1.0,
+          "stock": 398
+        },
+        {
+          "haveAmount": 23.0,
+          "wantAmount": 1.0,
+          "stock": 15
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 69
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 96
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 260
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 888
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 711
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 160
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 609
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Cartography Scarab of Corruption",
+      "lastUpdated": "2025-02-08T06:56:34.322501Z",
+      "offers": [
+        {
+          "haveAmount": 17.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 147
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 445
+        },
+        {
+          "haveAmount": 28.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 1008
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 352
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 460
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 1152
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 1844
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Blight Scarab of Blooming",
+      "lastUpdated": "2025-02-08T06:56:39.853022Z",
+      "offers": [
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 29
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 5
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 109
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Ultimatum Scarab of Dueling",
+      "lastUpdated": "2025-02-08T06:56:45.388943Z",
+      "offers": [
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 1330
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 122
+        },
+        {
+          "haveAmount": 1.7,
+          "wantAmount": 1.0,
+          "stock": 17
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Scarab of Wisps",
+      "lastUpdated": "2025-02-08T06:56:50.955210Z",
+      "offers": [
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 24.0,
+          "wantAmount": 1.0,
+          "stock": 43
+        },
+        {
+          "haveAmount": 24.0,
+          "wantAmount": 1.0,
+          "stock": 606
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 702
+        },
+        {
+          "haveAmount": 71.0,
+          "wantAmount": 1.0,
+          "stock": 550
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 3016
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 198
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 110
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 1070
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Harbinger Scarab of Warhoards",
+      "lastUpdated": "2025-02-08T06:56:56.513295Z",
+      "offers": [
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 34
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 406
+        },
+        {
+          "haveAmount": 39.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 46
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 210
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 175
+        },
+        {
+          "haveAmount": 5.5,
+          "wantAmount": 1.0,
+          "stock": 770
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 245
+        },
+        {
+          "haveAmount": 3.1,
+          "wantAmount": 1.0,
+          "stock": 310
+        },
+        {
+          "haveAmount": 3.1,
+          "wantAmount": 1.0,
+          "stock": 387
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Legion Scarab of Eternal Conflict",
+      "lastUpdated": "2025-02-08T06:57:02.053492Z",
+      "offers": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 60.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 99.0,
+          "wantAmount": 1.0,
+          "stock": 14
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 100
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Essence Scarab of Adaptation",
+      "lastUpdated": "2025-02-08T06:57:07.561329Z",
+      "offers": [],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.8,
+          "stock": 68
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Breach Scarab of Resonant Cascade",
+      "lastUpdated": "2025-02-08T06:57:13.092432Z",
+      "offers": [
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 33.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 34.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 117
+        },
+        {
+          "haveAmount": 39.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 39.0,
+          "wantAmount": 1.0,
+          "stock": 40
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 97
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Cartography Scarab of the Multitude",
+      "lastUpdated": "2025-02-08T06:57:24.205218Z",
+      "offers": [
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 970
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 27
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 33
+        },
+        {
+          "haveAmount": 22.0,
+          "wantAmount": 1.0,
+          "stock": 169
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 5
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 18
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 210
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 2600
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 2916
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 140
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 35
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 116
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Breach Scarab of Snares",
+      "lastUpdated": "2025-02-08T06:57:29.744060Z",
+      "offers": [
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 31
+        },
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 50.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 120.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 130.0,
+          "wantAmount": 1.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 130.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 30
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 400
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 35
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 200
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 21
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 83
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Ambush Scarab",
+      "lastUpdated": "2025-02-08T06:57:35.301572Z",
+      "offers": [
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 2088
+        },
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 32
+        },
+        {
+          "haveAmount": 17.0,
+          "wantAmount": 1.0,
+          "stock": 95
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 48
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 136
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 1071
+        },
+        {
+          "haveAmount": 8.5,
+          "wantAmount": 1.0,
+          "stock": 85
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 1608
+        },
+        {
+          "haveAmount": 7.2,
+          "wantAmount": 1.0,
+          "stock": 432
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 1204
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 13420
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Horned Scarab of Nemeses",
+      "lastUpdated": "2025-02-08T06:57:40.848469Z",
+      "offers": [
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 48
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 442
+        },
+        {
+          "haveAmount": 13.33,
+          "wantAmount": 1.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 50
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 19
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 92
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.8,
+          "stock": 5
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Ritual Scarab of Abundance",
+      "lastUpdated": "2025-02-08T06:57:46.379809Z",
+      "offers": [
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 176
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 1890
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 280
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 1320
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 765
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 8087
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Titanic Scarab of Legend",
+      "lastUpdated": "2025-02-08T06:57:51.949936Z",
+      "offers": [
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 99
+        },
+        {
+          "haveAmount": 38.57,
+          "wantAmount": 1.0,
+          "stock": 34
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 1200
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 1080
+        },
+        {
+          "haveAmount": 17.33,
+          "wantAmount": 1.0,
+          "stock": 260
+        },
+        {
+          "haveAmount": 17.0,
+          "wantAmount": 1.0,
+          "stock": 2023
+        },
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 480
+        },
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 4289
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Divination Scarab of The Cloister",
+      "lastUpdated": "2025-02-08T06:58:01.485067Z",
+      "offers": [
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 215
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 172
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 337
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 397
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 35
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 46
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 1334
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.2,
+          "stock": 25
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.33,
+          "stock": 15
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.33,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Cartography Scarab of Risk",
+      "lastUpdated": "2025-02-08T06:58:07.027684Z",
+      "offers": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 1905
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 224
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 180
+        },
+        {
+          "haveAmount": 3.1,
+          "wantAmount": 1.0,
+          "stock": 62
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 120
+        },
+        {
+          "haveAmount": 2.04,
+          "wantAmount": 1.0,
+          "stock": 622
+        },
+        {
+          "haveAmount": 2.02,
+          "wantAmount": 1.0,
+          "stock": 1010
+        },
+        {
+          "haveAmount": 2.02,
+          "wantAmount": 1.0,
+          "stock": 283
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Harbinger Scarab",
+      "lastUpdated": "2025-02-08T06:58:12.555871Z",
+      "offers": [
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 45
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 153
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 644
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 119
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.5,
+          "stock": 111
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.5,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Bestiary Scarab of the Herd",
+      "lastUpdated": "2025-02-08T06:58:18.094660Z",
+      "offers": [
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 198
+        },
+        {
+          "haveAmount": 9.09,
+          "wantAmount": 1.0,
+          "stock": 44
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 79
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 115
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 2795
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 298
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 212
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 80.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Bestiary Scarab of Duplicating",
+      "lastUpdated": "2025-02-08T06:58:23.633448Z",
+      "offers": [
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 72
+        },
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 100
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 200.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 2125
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 172
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
           "stock": 2
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 11.0,
+          "wantAmount": 40.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Anarchy Scarab of Gigantification",
+      "lastUpdated": "2025-02-08T06:58:29.173473Z",
+      "offers": [
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 24.0,
+          "wantAmount": 1.0,
+          "stock": 234
+        },
+        {
+          "haveAmount": 25.0,
+          "wantAmount": 1.0,
+          "stock": 150
+        },
+        {
+          "haveAmount": 27.0,
+          "wantAmount": 1.0,
+          "stock": 49
+        },
+        {
+          "haveAmount": 27.0,
+          "wantAmount": 1.0,
+          "stock": 361
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 304
+        },
+        {
+          "haveAmount": 15.5,
+          "wantAmount": 1.0,
+          "stock": 1457
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 120
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 9758
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 13338
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 14795
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Blight Scarab of Invigoration",
+      "lastUpdated": "2025-02-08T06:58:42.663468Z",
+      "offers": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 399
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 24.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 75
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 50
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Titanic Scarab of Treasures",
+      "lastUpdated": "2025-02-08T06:58:52.200942Z",
+      "offers": [
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 339
+        },
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 36
+        },
+        {
+          "haveAmount": 9.09,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 200
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 25
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 36
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 183
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Scarab of Monstrous Lineage",
+      "lastUpdated": "2025-02-08T06:58:57.757625Z",
+      "offers": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 682
+        },
+        {
+          "haveAmount": 13.5,
+          "wantAmount": 1.0,
+          "stock": 286
+        },
+        {
+          "haveAmount": 14.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 17.0,
+          "wantAmount": 1.0,
+          "stock": 184
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 1254
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 165
+        },
+        {
+          "haveAmount": 4.1,
+          "wantAmount": 1.0,
+          "stock": 41
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 3976
+        },
+        {
+          "haveAmount": 3.6,
+          "wantAmount": 1.0,
+          "stock": 1260
+        },
+        {
+          "haveAmount": 3.6,
+          "wantAmount": 1.0,
+          "stock": 13449
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Influencing Scarab of Conversion",
+      "lastUpdated": "2025-02-08T06:59:03.269831Z",
+      "offers": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 99
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 114
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Breach Scarab",
+      "lastUpdated": "2025-02-08T06:59:08.801119Z",
+      "offers": [
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 58
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 154
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 96
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Ultimatum Scarab of Bribing",
+      "lastUpdated": "2025-02-08T06:59:14.352026Z",
+      "offers": [
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 13.16,
+          "wantAmount": 1.0,
+          "stock": 61
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 30.0,
+          "wantAmount": 1.0,
+          "stock": 21
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 760
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 7952
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 6987
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 2525
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 1024
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 667
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Influencing Scarab of Hordes",
+      "lastUpdated": "2025-02-08T06:59:19.892163Z",
+      "offers": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 366
+        },
+        {
+          "haveAmount": 4.5,
+          "wantAmount": 1.0,
+          "stock": 68
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 114
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 26
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 376
+        },
+        {
+          "haveAmount": 1.1,
+          "wantAmount": 1.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 29
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 38
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 308
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Essence Scarab of Ascent",
+      "lastUpdated": "2025-02-08T06:59:25.444778Z",
+      "offers": [
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 950
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 295
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 99
+        },
+        {
+          "haveAmount": 100.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 1156
+        },
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 1050
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 600
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 50
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 288
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 287
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Chaos Orb",
+      "wantCurrency": "Domination Scarab of Evolution",
+      "lastUpdated": "2025-02-08T06:59:30.991435Z",
+      "offers": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 64
+        },
+        {
+          "haveAmount": 4.5,
+          "wantAmount": 1.0,
+          "stock": 302
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 157
+        },
+        {
+          "haveAmount": 17.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 78
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 59
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Orb of Alteration",
+      "lastUpdated": "2025-02-08T06:59:39.685939Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 602.0,
+          "stock": 602
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 601.0,
+          "stock": 601
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 600.0,
+          "stock": 36000
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 550.0,
+          "stock": 2750
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 510.0,
+          "stock": 1020
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 510.0,
+          "stock": 68562
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 998.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1000.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1100.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1180.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1200.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1200.0,
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Chaos Orb",
+      "lastUpdated": "2025-02-08T16:48:44.188385Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 174.0,
+          "stock": 174
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 173.0,
+          "stock": 1557
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 172.0,
+          "stock": 46784
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 71.0,
+          "stock": 7524
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 170.0,
+          "stock": 56100
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 170.0,
+          "stock": 862598
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 180.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 190.0,
+          "stock": 234
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 191.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 192.0,
+          "stock": 45
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 193.0,
+          "stock": 105
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 193.0,
+          "stock": 165
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Vaal Orb",
+      "lastUpdated": "2025-02-08T06:59:58.721982Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 125.0,
+          "stock": 125
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 120.0,
+          "stock": 3000
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 115
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 8300
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 90.0,
+          "stock": 1080
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 90.0,
+          "stock": 127
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 300.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 600.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Exalted Orb",
+      "lastUpdated": "2025-02-08T07:00:04.303483Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.96,
+          "stock": 143
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.29,
+          "stock": 37
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.1,
+          "stock": 203
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 6765
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.25,
+          "stock": 17
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.25,
+          "stock": 432
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.5,
+          "stock": 384
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 478
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.5,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
           "stock": 8
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ancient Orb",
+      "lastUpdated": "2025-02-08T07:00:09.834798Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 60
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 924
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 272
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 54
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 26.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Stacked Deck",
+      "lastUpdated": "2025-02-08T07:00:15.377029Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 110.0,
+          "stock": 990
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 101.0,
+          "stock": 505
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 49200
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 97.0,
+          "stock": 97
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 96.0,
+          "stock": 480
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 96.0,
+          "stock": 92993
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 120.0,
+          "stock": 95
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 130.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 500.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1100.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Valdo's Puzzle Box",
+      "lastUpdated": "2025-02-08T07:00:24.933214Z",
+      "offers": [
+        {
+          "haveAmount": 1.62,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 1.8,
+          "wantAmount": 1.0,
+          "stock": 235
+        },
+        {
+          "haveAmount": 1.88,
+          "wantAmount": 1.0,
+          "stock": 43
+        },
+        {
+          "haveAmount": 1.9,
+          "wantAmount": 1.0,
+          "stock": 300
+        },
+        {
+          "haveAmount": 1.91,
+          "wantAmount": 1.0,
+          "stock": 23
+        },
+        {
+          "haveAmount": 1.91,
+          "wantAmount": 1.0,
+          "stock": 841
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.6,
+          "wantAmount": 1.0,
+          "stock": 96
+        },
+        {
+          "haveAmount": 1.58,
+          "wantAmount": 1.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 1.55,
+          "wantAmount": 1.0,
+          "stock": 155
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 306
+        },
+        {
+          "haveAmount": 1.43,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.43,
+          "wantAmount": 1.0,
+          "stock": 2013
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Orb of Annulment",
+      "lastUpdated": "2025-02-08T07:00:30.499540Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.77,
+          "stock": 205
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.45,
+          "stock": 510
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 13995
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 221
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 1644
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 399
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 37.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 38.0,
+          "stock": 5
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 60.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 60.0,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Voidborn Reliquary Key",
+      "lastUpdated": "2025-02-08T07:00:36.049675Z",
+      "offers": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 94
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 31
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 213
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 287
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 1026
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 125
+        },
+        {
+          "haveAmount": 2.38,
+          "wantAmount": 1.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Reflecting Mist",
+      "lastUpdated": "2025-02-08T07:00:41.595219Z",
+      "offers": [
+        {
+          "haveAmount": 16.0,
+          "wantAmount": 1.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 18.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 19.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 20.0,
+          "wantAmount": 1.0,
+          "stock": 130
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 13.0,
+          "wantAmount": 1.0,
+          "stock": 130
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 168
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 99
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 130
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 2425
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Tempering Orb",
+      "lastUpdated": "2025-02-08T07:00:47.134306Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 299
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 76
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 32
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 432
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 158
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 62
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Tailoring Orb",
+      "lastUpdated": "2025-02-08T07:00:52.665609Z",
+      "offers": [
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 65
+        },
+        {
+          "haveAmount": 3.25,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 3.33,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 290
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 235
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 45
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 296
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 438
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Fracturing Orb",
+      "lastUpdated": "2025-02-08T07:00:58.210011Z",
+      "offers": [
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 54
+        },
+        {
+          "haveAmount": 9.5,
+          "wantAmount": 1.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 9.9,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 117
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 7.2,
+          "wantAmount": 1.0,
+          "stock": 72
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 518
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 84
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 95
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 136
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 113
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Veiled Orb",
+      "lastUpdated": "2025-02-08T07:01:03.754558Z",
+      "offers": [
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 12.5,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 13.5,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 13.5,
+          "wantAmount": 1.0,
+          "stock": 100
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 8.5,
+          "wantAmount": 1.0,
+          "stock": 51
+        },
+        {
+          "haveAmount": 8.33,
+          "wantAmount": 1.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 8.1,
+          "wantAmount": 1.0,
+          "stock": 81
+        },
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 1528
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 176
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Sacred Orb",
+      "lastUpdated": "2025-02-08T07:01:09.283219Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 81
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 500
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 100.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.5,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.5,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Hinekora's Lock",
+      "lastUpdated": "2025-02-08T07:01:14.843901Z",
+      "offers": [
+        {
+          "haveAmount": 190.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 195.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 199.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 200.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 203.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 203.0,
+          "wantAmount": 1.0,
+          "stock": 43
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 177.0,
+          "wantAmount": 1.0,
+          "stock": 177
+        },
+        {
+          "haveAmount": 176.0,
+          "wantAmount": 1.0,
+          "stock": 880
+        },
+        {
+          "haveAmount": 152.0,
+          "wantAmount": 1.0,
+          "stock": 304
+        },
+        {
+          "haveAmount": 150.0,
+          "wantAmount": 1.0,
+          "stock": 750
+        },
+        {
+          "haveAmount": 140.0,
+          "wantAmount": 1.0,
+          "stock": 280
+        },
+        {
+          "haveAmount": 140.0,
+          "wantAmount": 1.0,
+          "stock": 1034
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Mirror of Kalandra",
+      "lastUpdated": "2025-02-08T07:01:20.378276Z",
+      "offers": [
+        {
+          "haveAmount": 165.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 138.0,
+          "wantAmount": 1.0,
+          "stock": 1656
+        },
+        {
+          "haveAmount": 135.0,
+          "wantAmount": 1.0,
+          "stock": 135
+        },
+        {
+          "haveAmount": 132.0,
+          "wantAmount": 1.0,
+          "stock": 396
+        },
+        {
+          "haveAmount": 128.0,
+          "wantAmount": 1.0,
+          "stock": 384
+        },
+        {
+          "haveAmount": 123.0,
+          "wantAmount": 1.0,
+          "stock": 615
+        },
+        {
+          "haveAmount": 123.0,
+          "wantAmount": 1.0,
+          "stock": 3962
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Eldritch Chaos Orb",
+      "lastUpdated": "2025-02-08T07:01:25.916542Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 14
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.33,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.25,
+          "stock": 175
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 1200
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 218
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.83,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 384
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Eldritch Exalted Orb",
+      "lastUpdated": "2025-02-08T07:01:31.432545Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.33,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Eldritch Orb of Annulment",
+      "lastUpdated": "2025-02-08T07:01:36.981128Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 486
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.25,
+          "stock": 39
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 377
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Grand Eldritch Ember",
+      "lastUpdated": "2025-02-08T07:01:58.471032Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 19.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 17.0,
+          "stock": 136
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 1110
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 26
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 644
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 23.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 28.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 272
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Grand Eldritch Ichor",
+      "lastUpdated": "2025-02-08T07:02:04.018829Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 30
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 27.0,
+          "stock": 351
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 5175
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 60
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 35
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 80.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 300.0,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Exceptional Eldritch Ember",
+      "lastUpdated": "2025-02-08T07:02:09.553554Z",
+      "offers": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 128
+        },
+        {
+          "haveAmount": 2.38,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 2.4,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 106
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 99
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 17
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 72
+        },
+        {
+          "haveAmount": 1.2,
+          "wantAmount": 1.0,
+          "stock": 30
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 68
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Exceptional Eldritch Ichor",
+      "lastUpdated": "2025-02-08T07:02:15.089642Z",
+      "offers": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 130
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 50
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 31
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Orb of Conflict",
+      "lastUpdated": "2025-02-08T07:02:20.622435Z",
+      "offers": [
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 272
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 363
+        },
+        {
+          "haveAmount": 2.33,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 177
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Fracturing Shard",
+      "lastUpdated": "2025-02-08T07:02:26.175535Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.33,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 70
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 227
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Mirror Shard",
+      "lastUpdated": "2025-02-08T07:02:31.729890Z",
+      "offers": [
+        {
+          "haveAmount": 39.5,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 40.0,
+          "wantAmount": 1.0,
+          "stock": 82
+        },
+        {
+          "haveAmount": 41.0,
+          "wantAmount": 1.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 41.5,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 41.75,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 41.75,
+          "wantAmount": 1.0,
+          "stock": 81
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 38.0,
+          "wantAmount": 1.0,
+          "stock": 1064
+        },
+        {
+          "haveAmount": 37.0,
+          "wantAmount": 1.0,
+          "stock": 37
+        },
+        {
+          "haveAmount": 36.0,
+          "wantAmount": 1.0,
+          "stock": 396
+        },
+        {
+          "haveAmount": 35.0,
+          "wantAmount": 1.0,
+          "stock": 385
+        },
+        {
+          "haveAmount": 34.0,
+          "wantAmount": 1.0,
+          "stock": 68
+        },
+        {
+          "haveAmount": 34.0,
+          "wantAmount": 1.0,
+          "stock": 1262
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Gemcutter's Prism",
+      "lastUpdated": "2025-02-08T07:02:41.253331Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 250
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 1960
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 7208
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 120.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 148.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 150.0,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Maven's Chisel of Proliferation",
+      "lastUpdated": "2025-02-08T07:02:50.786638Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 138
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.75,
+          "stock": 330
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.6,
+          "stock": 26
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 120
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.2,
+          "stock": 286
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.2,
+          "stock": 527
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.5,
+          "stock": 138
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.8,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.85,
+          "stock": 104
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Maven's Chisel of Avarice",
+      "lastUpdated": "2025-02-08T07:02:56.313128Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 91
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 1129
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 16
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Maven's Chisel of Divination",
+      "lastUpdated": "2025-02-08T07:03:01.850500Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 32
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.25,
+          "stock": 61
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 15
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.33,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 157
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 80.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Maven's Chisel of Scarabs",
+      "lastUpdated": "2025-02-08T07:03:07.385046Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.33,
+          "stock": 16
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 230
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.8,
+          "stock": 24
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 6
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 67
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 5
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 33.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Crusader's Exalted Orb",
+      "lastUpdated": "2025-02-08T07:03:12.911413Z",
+      "offers": [
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 58
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 26
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 1.1,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 76
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 8
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.6,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.6,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Redeemer's Exalted Orb",
+      "lastUpdated": "2025-02-08T07:03:18.448706Z",
+      "offers": [
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 3.67,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 147
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.25,
+          "wantAmount": 1.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 42
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 162
+        },
+        {
+          "haveAmount": 1.1,
+          "wantAmount": 1.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 100
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 67
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Hunter's Exalted Orb",
+      "lastUpdated": "2025-02-08T07:03:23.979625Z",
+      "offers": [
+        {
+          "haveAmount": 3.5,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 41
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 100
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 117
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Warlord's Exalted Orb",
+      "lastUpdated": "2025-02-08T07:03:29.510756Z",
+      "offers": [
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 79
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.6,
+          "wantAmount": 1.0,
+          "stock": 26
+        },
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 60
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 29
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 14
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Awakener's Orb",
+      "lastUpdated": "2025-02-08T07:03:35.046626Z",
+      "offers": [
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 4.5,
+          "wantAmount": 1.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 116
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 132
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Orb of Dominance",
+      "lastUpdated": "2025-02-08T07:03:40.564872Z",
+      "offers": [
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 155
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 5
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 628
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.33,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Tainted Chromatic Orb",
+      "lastUpdated": "2025-02-08T07:03:46.101617Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 35
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Tainted Blacksmith's Whetstone",
+      "lastUpdated": "2025-02-08T07:03:59.615446Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 75.0,
+          "stock": 2700
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 70.0,
+          "stock": 210
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 69.0,
+          "stock": 276
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 68.0,
+          "stock": 68
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 65.0,
+          "stock": 65
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 65.0,
+          "stock": 2405
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 150.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Tainted Mythic Orb",
+      "lastUpdated": "2025-02-08T07:04:09.121341Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 13
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 63
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 17.5,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 39.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Tainted Chaos Orb",
+      "lastUpdated": "2025-02-08T07:04:14.657090Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.14,
+          "stock": 30
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 96
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 40
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Tainted Divine Teardrop",
+      "lastUpdated": "2025-02-08T07:04:24.171285Z",
+      "offers": [
+        {
+          "haveAmount": 9.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 11.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 12.0,
+          "wantAmount": 1.0,
+          "stock": 16
+        },
+        {
+          "haveAmount": 15.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 8.0,
+          "wantAmount": 1.0,
+          "stock": 32
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 49
+        },
+        {
+          "haveAmount": 6.0,
+          "wantAmount": 1.0,
+          "stock": 108
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Horned Scarab of Preservation",
+      "lastUpdated": "2025-02-08T07:04:29.705720Z",
+      "offers": [
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 47
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 28
+        },
+        {
+          "haveAmount": 5.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 7.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 21
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.25,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ambush Scarab of Containment",
+      "lastUpdated": "2025-02-08T07:04:35.287946Z",
+      "offers": [
+        {
+          "haveAmount": 1.8,
+          "wantAmount": 1.0,
+          "stock": 60
+        },
+        {
+          "haveAmount": 1.83,
+          "wantAmount": 1.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 1.88,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 1.9,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 421
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 81
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.6,
+          "wantAmount": 1.0,
+          "stock": 16
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 189
+        },
+        {
+          "haveAmount": 1.43,
+          "wantAmount": 1.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 136.0,
+          "wantAmount": 1.0,
+          "stock": 60
+        },
+        {
+          "haveAmount": 1.36,
+          "wantAmount": 1.0,
+          "stock": 1364
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Horned Scarab of Glittering",
+      "lastUpdated": "2025-02-08T07:04:40.845168Z",
+      "offers": [
+        {
+          "haveAmount": 2.85,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 95
+        },
+        {
+          "haveAmount": 3.38,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 940
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.15,
+          "stock": 13
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.25,
+          "stock": 32
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Horned Scarab of Awakening",
+      "lastUpdated": "2025-02-08T07:04:46.399461Z",
+      "offers": [
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.6,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.65,
+          "wantAmount": 1.0,
+          "stock": 80
+        },
+        {
+          "haveAmount": 1.67,
+          "wantAmount": 1.0,
+          "stock": 414
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 530
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 70
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.2,
+          "wantAmount": 1.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 351
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.25,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 150.0,
+          "stock": 97
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Horned Scarab of Bloodlines",
+      "lastUpdated": "2025-02-08T07:04:51.958715Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.23,
+          "stock": 43
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.71,
+          "stock": 41
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.171,
+          "stock": 21
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.1,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 110.0,
+          "stock": 767
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.97,
+          "stock": 243
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 42
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 33
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.9,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.97,
+          "stock": 39
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.97,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ultimatum Scarab of Catalysing",
+      "lastUpdated": "2025-02-08T07:04:57.495716Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 58
+        },
+        {
+          "haveAmount": 1.3,
+          "wantAmount": 1.0,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.33,
+          "wantAmount": 1.0,
+          "stock": 222
+        },
+        {
+          "haveAmount": 1.36,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 1.4,
+          "wantAmount": 1.0,
+          "stock": 35
+        },
+        {
+          "haveAmount": 1.4,
+          "wantAmount": 1.0,
+          "stock": 211
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.5,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.5,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Horned Scarab of Pandemonium",
+      "lastUpdated": "2025-02-08T07:05:03.045818Z",
+      "offers": [
+        {
+          "haveAmount": 1.67,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.75,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 145
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 3.62,
+          "wantAmount": 1.0,
+          "stock": 20
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.6,
+          "wantAmount": 1.0,
+          "stock": 160
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 75
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Harvest Scarab of Cornucopia",
+      "lastUpdated": "2025-02-08T07:05:08.596588Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 68
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.07,
+          "stock": 16
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 83
+        },
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 10
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.67,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.9,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.33,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Essence Scarab of Calcification",
+      "lastUpdated": "2025-02-08T07:05:14.118921Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 45
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.2,
+          "stock": 143
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 62
+        }
+      ],
+      "competingTrades": []
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Domination Scarab of Terrors",
+      "lastUpdated": "2025-02-08T07:05:19.662640Z",
+      "offers": [
+        {
+          "haveAmount": 2.5,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 3.0,
+          "wantAmount": 1.0,
+          "stock": 9
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 2.0,
+          "wantAmount": 1.0,
+          "stock": 26
+        },
+        {
+          "haveAmount": 1.5,
+          "wantAmount": 1.0,
+          "stock": 240
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 124
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Incursion Scarab of Timelines",
+      "lastUpdated": "2025-02-08T07:05:25.217420Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 156
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.62,
+          "stock": 21
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.58,
+          "stock": 31
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.5,
+          "stock": 190
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.0,
+          "stock": 94
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.5,
+          "stock": 60
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 31.0,
+          "wantAmount": 5.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.5,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.5,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Harvest Scarab of Doubling",
+      "lastUpdated": "2025-02-08T07:05:30.760185Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.5,
+          "stock": 737
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.06,
+          "stock": 91
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 555
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.69,
+          "stock": 75
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.5,
+          "stock": 81
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.5,
+          "stock": 1056
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.5,
+          "stock": 54
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 74
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.9,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.9,
+          "stock": 127
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Harbinger Scarab of Regency",
+      "lastUpdated": "2025-02-08T07:05:41.863031Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 120
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 27
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.05,
+          "stock": 161
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 176
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 346
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.5,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 19.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 19.0,
+          "stock": 66
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Cartography Scarab of Corruption",
+      "lastUpdated": "2025-02-08T07:05:47.408323Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.33,
+          "stock": 34
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.09,
+          "stock": 122
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 130
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 103
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 32.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 33.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Blight Scarab of Blooming",
+      "lastUpdated": "2025-02-08T07:05:52.928448Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.5,
+          "stock": 9
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 312
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 2.2,
+          "stock": 66
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 11
+        },
+        {
+          "haveAmount": 4.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Scarab of Wisps",
+      "lastUpdated": "2025-02-08T07:06:02.454094Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 36
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 200
+        },
+        {
+          "haveAmount": 10.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 39.2,
+          "wantAmount": 1.0,
+          "stock": 40
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 33
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 5
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.0,
+          "stock": 33
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 47
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 51
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Harbinger Scarab of Warhoards",
+      "lastUpdated": "2025-02-08T07:06:07.985332Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 360
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.08,
+          "stock": 144
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 132
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 110
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 432
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 266
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 28.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 29.0,
+          "stock": 8
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Legion Scarab of Eternal Conflict",
+      "lastUpdated": "2025-02-08T07:06:13.512007Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 45
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 200
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 95
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 29.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Cartography Scarab of the Multitude",
+      "lastUpdated": "2025-02-08T07:06:30.995882Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 48
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.5,
+          "stock": 126
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 1090
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 33
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.0,
+          "stock": 110
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 72
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 23
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ambush Scarab",
+      "lastUpdated": "2025-02-08T07:06:40.516845Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 21.0,
+          "stock": 105
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 80
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 90
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.33,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 130
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 5
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 31.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 32.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 34.0,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Horned Scarab of Nemeses",
+      "lastUpdated": "2025-02-08T07:06:46.055949Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.14,
+          "stock": 106
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 15.0,
+          "stock": 30
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 52
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 24
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 66
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 947
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ritual Scarab of Abundance",
+      "lastUpdated": "2025-02-08T07:06:51.612928Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 160
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 176
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Titanic Scarab of Legend",
+      "lastUpdated": "2025-02-08T07:06:57.173811Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 6.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 4.0,
+          "stock": 1020
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.33,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 4
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 47
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 127
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Delirium Scarab of Paranoia",
+      "lastUpdated": "2025-02-08T07:07:02.697696Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 1020
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 22.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 29.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Divination Scarab of The Cloister",
+      "lastUpdated": "2025-02-08T07:07:08.243433Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.25,
+          "stock": 480
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 21.0,
+          "stock": 1008
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 440
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.67,
+          "stock": 70
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.67,
+          "stock": 240
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 500.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3333.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Cartography Scarab of Risk",
+      "lastUpdated": "2025-02-08T07:07:13.782208Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 875
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.08,
+          "stock": 241
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 2760
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.6,
+          "stock": 96
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 5.0,
+          "stock": 50
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 35.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 46.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 49.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 18
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Harbinger Scarab",
+      "lastUpdated": "2025-02-08T07:07:19.312772Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 50
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 120
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.33,
+          "stock": 100
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.31,
+          "stock": 133
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 79.0,
+          "stock": 6
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 80.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Bestiary Scarab of the Herd",
+      "lastUpdated": "2025-02-08T07:07:24.851442Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 60
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 18.0,
+          "stock": 36
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 17.0,
+          "stock": 85
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.07,
+          "stock": 322
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 96
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 450
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 28.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 70.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 80.0,
+          "stock": 2
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 85.0,
+          "stock": 7
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 85.0,
+          "stock": 7
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Bestiary Scarab of Duplicating",
+      "lastUpdated": "2025-02-08T07:07:30.384926Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.0,
+          "stock": 140
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.12,
+          "stock": 105
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 8
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 27
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 22.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Anarchy Scarab of Gigantification",
+      "lastUpdated": "2025-02-08T07:07:35.926567Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 690
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 9.0,
+          "stock": 1314
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 8.0,
+          "stock": 888
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 7.0,
+          "stock": 7
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.0,
+          "stock": 149
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 12.5,
+          "stock": 10
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.0,
+          "stock": 19
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 13.33,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.0,
+          "stock": 30
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 14.0,
+          "stock": 239
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Horned Scarab of Tradition",
+      "lastUpdated": "2025-02-08T07:07:41.450652Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 25.0,
+          "stock": 25
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 24.0,
+          "stock": 48
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 22.0,
+          "stock": 154
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 21.0,
+          "stock": 1680
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 22
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 11.0,
+          "stock": 214
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 100.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Scarab of Monstrous Lineage",
+      "lastUpdated": "2025-02-08T07:08:02.889635Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 20.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 10.0,
+          "stock": 110
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 59.0,
+          "stock": 9
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 60.0,
+          "stock": 40
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 90.0,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Ultimatum Scarab of Bribing",
+      "lastUpdated": "2025-02-08T07:08:16.380442Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 21.0,
+          "stock": 63
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.8,
+          "stock": 124
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.57,
+          "stock": 116
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 16.0,
+          "stock": 32
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 40.0,
+          "stock": 12
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 42.0,
+          "stock": 3
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 50.0,
+          "stock": 43
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 70.0,
+          "stock": 1
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 75.0,
+          "stock": 5
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 75.0,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "haveCurrency": "Divine Orb",
+      "wantCurrency": "Essence Scarab of Ascent",
+      "lastUpdated": "2025-02-08T07:08:25.893493Z",
+      "offers": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 3.0,
+          "stock": 90
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.33,
+          "stock": 20
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.2,
+          "stock": 66
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 1.0,
+          "stock": 1
+        }
+      ],
+      "competingTrades": [
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 30.0,
+          "stock": 4
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 32.0,
+          "stock": 16
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 60.0,
+          "stock": 10
         }
       ]
     }
