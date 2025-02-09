@@ -1,16 +1,16 @@
-import React, { useContext } from "react";
-import { AppBar, Toolbar, Typography, Box, CircularProgress, Chip } from "@mui/material";
-import { PricesContext } from "../context/PricesContext";
+import React, { useContext } from 'react';
+import { AppBar, Toolbar, Typography, Box, CircularProgress, Chip } from '@mui/material';
+import { PricesContext } from '../context/PricesContext';
 
 export default function HeaderBar() {
   const { prices, loading, isLive } = useContext(PricesContext);
 
   // Find Divine Orb price
-  const divineOrb = prices.find((price) => price.want_currency === "Divine Orb");
-  const divineOrbPrice = divineOrb ? divineOrb.ninja_price : "N/A";
+  const divineOrb = prices.find((price) => price.want_currency === 'Divine Orb');
+  const divineOrbPrice = divineOrb ? divineOrb.ninja_price : 'N/A';
 
   return (
-    <AppBar position="static" sx={{ backgroundColor: "#212121", padding: "5px" }}>
+    <AppBar position="static" sx={{ backgroundColor: '#212121', padding: '5px' }}>
       <Toolbar>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
           Faustus Price Checker
@@ -25,9 +25,9 @@ export default function HeaderBar() {
 
         {/* WebSocket Connection Status */}
         <Chip
-          label={isLive ? "Live" : "Disconnected"}
-          color={isLive ? "success" : "error"}
-          sx={{ fontWeight: "bold" }}
+          label={isLive ? 'Live' : 'Disconnected'}
+          color={isLive ? 'success' : 'error'}
+          sx={{ fontWeight: 'bold' }}
         />
       </Toolbar>
     </AppBar>

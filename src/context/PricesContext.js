@@ -1,5 +1,5 @@
-import React, { createContext, useState, useEffect } from "react";
-import PropTypes from "prop-types";
+import React, { createContext, useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
 
 export const PricesContext = createContext();
 
@@ -15,15 +15,15 @@ export const PricesProvider = ({ children }) => {
 
   const fetchInitialData = async () => {
     try {
-      console.log("📡 Fetching initial prices...");
+      console.log('📡 Fetching initial prices...');
 
-      if (process.env.NODE_ENV === "development") {
-        response = await fetch("http://localhost:5001/api/prices");
+      if (process.env.NODE_ENV === 'development') {
+        response = await fetch('http://localhost:5001/api/prices');
       } else {
-        response = await fetch("https://faustus-price-checker.onrender.com/api/prices");
+        response = await fetch('https://faustus-price-checker.onrender.com/api/prices');
       }
 
-      if (!response.ok) throw new Error("Failed to fetch prices");
+      if (!response.ok) {throw new Error('Failed to fetch prices');}
       const data = await response.json();
 
       /**
@@ -32,7 +32,7 @@ export const PricesProvider = ({ children }) => {
 
       // 1) Find the matching price object
       const matchingPrice = data.find(
-        p => p.have_currency === "Divine Orb" && p.want_currency === "Chaos Orb"
+        p => p.have_currency === 'Divine Orb' && p.want_currency === 'Chaos Orb'
       );
 
       if (matchingPrice) {
@@ -46,30 +46,30 @@ export const PricesProvider = ({ children }) => {
           setIsLive(true);
         }
       } else {
-        console.log("No matching pair found in the array.");
+        console.log('No matching pair found in the array.');
       }
 
       setPrices(data);
       setLoading(false);
     } catch (error) {
-      console.error("❌ Error fetching prices:", error);
+      console.error('❌ Error fetching prices:', error);
       setLoading(false);
-  };
+    };
   
-  PricesProvider.propTypes = {
-    children: PropTypes.node.isRequired,
-  };
+    PricesProvider.propTypes = {
+      children: PropTypes.node.isRequired
+    };
   };
 
   const connectWebSocket = () => {
-    if (process.env.NODE_ENV === "development") {
-      ws = new WebSocket("ws://localhost:5001");
+    if (process.env.NODE_ENV === 'development') {
+      ws = new WebSocket('ws://localhost:5001');
     } else {
-      ws = new WebSocket("wss://faustus-price-checker.onrender.com");
+      ws = new WebSocket('wss://faustus-price-checker.onrender.com');
     }
 
     ws.onopen = () => {
-      console.log("✅ WebSocket connected!");
+      console.log('✅ WebSocket connected!');
       setIsConnected(true);
       reconnectAttempts = 0;
     };
@@ -80,11 +80,11 @@ export const PricesProvider = ({ children }) => {
     };
 
     ws.onerror = (error) => {
-      console.error("❌ WebSocket error:", error);
+      console.error('❌ WebSocket error:', error);
     };
 
     ws.onclose = () => {
-      console.log("❌ WebSocket disconnected.");
+      console.log('❌ WebSocket disconnected.');
       setIsConnected(false);
 
       // Auto-reconnect with exponential backoff (max 30s)
@@ -94,7 +94,7 @@ export const PricesProvider = ({ children }) => {
         reconnectAttempts++;
         setTimeout(connectWebSocket, timeout);
       } else {
-        console.error("🚨 Max WebSocket reconnect attempts reached.");
+        console.error('🚨 Max WebSocket reconnect attempts reached.');
       }
     };
   };
