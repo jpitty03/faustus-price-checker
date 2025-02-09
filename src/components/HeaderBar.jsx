@@ -3,11 +3,11 @@ import { AppBar, Toolbar, Typography, Box, CircularProgress, Chip } from '@mui/m
 import { PricesContext } from '../context/PricesContext';
 
 export default function HeaderBar() {
-  const { prices, loading, isLive } = useContext(PricesContext);
+  const { loading, isLive, divinePrice } = useContext(PricesContext);
 
-  // Find Divine Orb price
-  const divineOrb = prices.find((price) => price.want_currency === 'Divine Orb');
-  const divineOrbPrice = divineOrb ? divineOrb.ninja_price : 'N/A';
+  // // Find Divine Orb price
+  // const divineOrb = prices.find((price) => price.want_currency === 'Divine Orb');
+  // const divineOrbPrice = divineOrb ? divineOrb.ninja_price : 'N/A';
 
   return (
     <AppBar position="static" sx={{ backgroundColor: '#212121', padding: '5px' }}>
@@ -19,7 +19,7 @@ export default function HeaderBar() {
         {/* Divine Orb Price Display */}
         <Box sx={{ marginRight: 2 }}>
           <Typography variant="body1">
-            Divine Orb Price: {loading ? <CircularProgress size={16} color="inherit" /> : `${divineOrbPrice} Chaos`}
+            Divine Orb Price: {loading ? <CircularProgress size={16} color="inherit" /> : `${divinePrice} Chaos`}
           </Typography>
         </Box>
 

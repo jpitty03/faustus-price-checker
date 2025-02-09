@@ -5374,50 +5374,6 @@
     },
     {
       "haveCurrency": "Divine Orb",
-      "wantCurrency": "Mirror of Kalandra",
-      "lastUpdated": "2025-02-08T07:01:20.378276Z",
-      "offers": [
-        {
-          "haveAmount": 165.0,
-          "wantAmount": 1.0,
-          "stock": 2
-        }
-      ],
-      "competingTrades": [
-        {
-          "haveAmount": 138.0,
-          "wantAmount": 1.0,
-          "stock": 1656
-        },
-        {
-          "haveAmount": 135.0,
-          "wantAmount": 1.0,
-          "stock": 135
-        },
-        {
-          "haveAmount": 132.0,
-          "wantAmount": 1.0,
-          "stock": 396
-        },
-        {
-          "haveAmount": 128.0,
-          "wantAmount": 1.0,
-          "stock": 384
-        },
-        {
-          "haveAmount": 123.0,
-          "wantAmount": 1.0,
-          "stock": 615
-        },
-        {
-          "haveAmount": 123.0,
-          "wantAmount": 1.0,
-          "stock": 3962
-        }
-      ]
-    },
-    {
-      "haveCurrency": "Divine Orb",
       "wantCurrency": "Eldritch Chaos Orb",
       "lastUpdated": "2025-02-08T07:01:25.916542Z",
       "offers": [

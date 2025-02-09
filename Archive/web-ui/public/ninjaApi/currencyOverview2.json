@@ -10,26 +10,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    1.12,
-                    2.82,
-                    1.23,
-                    0.67,
-                    2.47,
-                    -5.52
+                    1.68,
+                    0.11,
+                    -0.44,
+                    1.33,
+                    -3.71,
+                    -8.5
                 ],
-                "totalChange": -5.52
+                "totalChange": -8.5
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    1.12,
-                    2.82,
-                    1.23,
-                    0.67,
-                    2.47,
-                    -5.52
+                    1.68,
+                    0.11,
+                    -0.44,
+                    1.33,
+                    -3.71,
+                    -8.5
                 ],
-                "totalChange": -5.52
+                "totalChange": -8.5
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -39,13 +39,13 @@
                 }
             ],
             "flavourText": "We must not forget those who came before.",
-            "chaosValue": 308.13,
-            "exaltedValue": 17.0,
-            "divineValue": 1.84,
-            "count": 75,
+            "chaosValue": 301.75,
+            "exaltedValue": 16.83,
+            "divineValue": 1.8,
+            "count": 79,
             "detailsId": "horned-scarab-of-preservation",
             "tradeInfo": [],
-            "listingCount": 763
+            "listingCount": 769
         },
         {
             "id": 113826,
@@ -57,26 +57,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    8.27,
-                    15.32,
-                    15.03,
-                    14.74,
-                    15.04,
-                    15.2
+                    6.51,
+                    6.24,
+                    5.97,
+                    6.25,
+                    6.35,
+                    6.51
                 ],
-                "totalChange": 15.2
+                "totalChange": 6.51
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    8.27,
-                    15.32,
-                    15.03,
-                    14.74,
-                    15.04,
-                    15.2
+                    6.51,
+                    6.24,
+                    5.97,
+                    6.25,
+                    6.35,
+                    6.51
                 ],
-                "totalChange": 15.2
+                "totalChange": 6.51
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -86,13 +86,13 @@
                 }
             ],
             "flavourText": "The silence belies lurking doom.",
-            "chaosValue": 251.19,
-            "exaltedValue": 13.86,
+            "chaosValue": 251.46,
+            "exaltedValue": 14.02,
             "divineValue": 1.5,
-            "count": 210,
+            "count": 213,
             "detailsId": "ambush-scarab-of-containment",
             "tradeInfo": [],
-            "listingCount": 3844
+            "listingCount": 3848
         },
         {
             "id": 113900,
@@ -104,26 +104,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.46,
-                    0.1,
-                    -0.56,
-                    -0.53,
-                    -0.29,
-                    -0.09
+                    -0.36,
+                    -1.02,
+                    -0.98,
+                    -0.75,
+                    -0.68,
+                    -0.44
                 ],
-                "totalChange": -0.09
+                "totalChange": -0.44
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.46,
-                    0.1,
-                    -0.56,
-                    -0.53,
-                    -0.29,
-                    -0.09
+                    -0.36,
+                    -1.02,
+                    -0.98,
+                    -0.75,
+                    -0.68,
+                    -0.44
                 ],
-                "totalChange": -0.09
+                "totalChange": -0.44
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -133,13 +133,13 @@
                 }
             ],
             "flavourText": "Wealth flows to those that shine brightest.",
-            "chaosValue": 251.19,
-            "exaltedValue": 13.86,
+            "chaosValue": 251.46,
+            "exaltedValue": 14.02,
             "divineValue": 1.5,
-            "count": 165,
+            "count": 179,
             "detailsId": "horned-scarab-of-glittering",
             "tradeInfo": [],
-            "listingCount": 3003
+            "listingCount": 3020
         },
         {
             "id": 114030,
@@ -151,26 +151,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.17,
-                    0.08,
-                    -0.24,
-                    -0.49,
-                    -0.24,
-                    -0.09
+                    -0.09,
+                    -0.41,
+                    -0.66,
+                    -0.4,
+                    -0.3,
+                    -0.15
                 ],
-                "totalChange": -0.09
+                "totalChange": -0.15
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.17,
-                    0.08,
-                    -0.24,
-                    -0.49,
-                    -0.24,
-                    -0.09
+                    -0.09,
+                    -0.41,
+                    -0.66,
+                    -0.4,
+                    -0.3,
+                    -0.15
                 ],
-                "totalChange": -0.09
+                "totalChange": -0.15
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -180,13 +180,13 @@
                 }
             ],
             "flavourText": "The Atlas can be anything you want... and everything you want.",
-            "chaosValue": 200.95,
-            "exaltedValue": 11.09,
+            "chaosValue": 201.17,
+            "exaltedValue": 11.22,
             "divineValue": 1.2,
-            "count": 269,
+            "count": 286,
             "detailsId": "horned-scarab-of-awakening",
             "tradeInfo": [],
-            "listingCount": 3095
+            "listingCount": 3110
         },
         {
             "id": 113922,
@@ -199,9 +199,9 @@
                 "data": [
                     0,
                     0,
-                    0,
                     -0.8,
                     -0.67,
+                    0,
                     0,
                     0
                 ],
@@ -211,9 +211,9 @@
                 "data": [
                     0,
                     0,
-                    0,
                     -0.8,
                     -0.67,
+                    0,
                     0,
                     0
                 ],
@@ -228,12 +228,12 @@
             ],
             "flavourText": "Only the hardiest survive. Only survivors perpetuate.",
             "chaosValue": 75.0,
-            "exaltedValue": 4.14,
+            "exaltedValue": 4.18,
             "divineValue": 0.45,
-            "count": 251,
+            "count": 269,
             "detailsId": "horned-scarab-of-bloodlines",
             "tradeInfo": [],
-            "listingCount": 3866
+            "listingCount": 3873
         },
         {
             "id": 114031,
@@ -275,12 +275,12 @@
             ],
             "flavourText": "Most regret finding out how the powder is made.",
             "chaosValue": 70.0,
-            "exaltedValue": 3.86,
+            "exaltedValue": 3.9,
             "divineValue": 0.42,
-            "count": 253,
+            "count": 248,
             "detailsId": "ultimatum-scarab-of-catalysing",
             "tradeInfo": [],
-            "listingCount": 4423
+            "listingCount": 4410
         },
         {
             "id": 113860,
@@ -292,26 +292,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.58,
-                    0.56,
-                    -0.99,
-                    -1.03,
-                    -0.55,
-                    0.43
+                    -0.02,
+                    -1.56,
+                    -1.59,
+                    -1.12,
+                    -0.2,
+                    -0.04
                 ],
-                "totalChange": 0.43
+                "totalChange": -0.04
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.58,
-                    0.56,
-                    -0.99,
-                    -1.03,
-                    -0.55,
-                    0.43
+                    -0.02,
+                    -1.56,
+                    -1.59,
+                    -1.12,
+                    -0.2,
+                    -0.04
                 ],
-                "totalChange": 0.43
+                "totalChange": -0.04
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -321,13 +321,13 @@
                 }
             ],
             "flavourText": "Punctured dreams bleed into the mind.",
-            "chaosValue": 55.82,
-            "exaltedValue": 3.08,
+            "chaosValue": 55.88,
+            "exaltedValue": 3.12,
             "divineValue": 0.33,
-            "count": 200,
+            "count": 201,
             "detailsId": "horned-scarab-of-pandemonium",
             "tradeInfo": [],
-            "listingCount": 3840
+            "listingCount": 3830
         },
         {
             "id": 113909,
@@ -339,26 +339,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.16,
-                    0.07,
-                    -3.74,
-                    -2.45,
-                    -1.41,
-                    -1.56
+                    -0.09,
+                    -3.9,
+                    -2.61,
+                    -1.57,
+                    -1.72,
+                    -1.72
                 ],
-                "totalChange": -1.56
+                "totalChange": -1.72
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.16,
-                    0.07,
-                    -3.74,
-                    -2.45,
-                    -1.41,
-                    -1.56
+                    -0.09,
+                    -3.9,
+                    -2.61,
+                    -1.57,
+                    -1.72,
+                    -1.72
                 ],
-                "totalChange": -1.56
+                "totalChange": -1.72
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -369,12 +369,12 @@
             ],
             "flavourText": "The taller the tree, the better the fruit.",
             "chaosValue": 55.0,
-            "exaltedValue": 3.04,
+            "exaltedValue": 3.07,
             "divineValue": 0.33,
-            "count": 228,
+            "count": 235,
             "detailsId": "harvest-scarab-of-cornucopia",
             "tradeInfo": [],
-            "listingCount": 2850
+            "listingCount": 2859
         },
         {
             "id": 113761,
@@ -386,26 +386,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    10.1,
-                    20.52,
-                    11.99,
-                    10.49,
-                    13.03,
-                    16.16
+                    9.47,
+                    1.72,
+                    0.36,
+                    2.66,
+                    3.55,
+                    14.02
                 ],
-                "totalChange": 16.16
+                "totalChange": 14.02
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    10.1,
-                    20.52,
-                    11.99,
-                    10.49,
-                    13.03,
-                    16.16
+                    9.47,
+                    1.72,
+                    0.36,
+                    2.66,
+                    3.55,
+                    14.02
                 ],
-                "totalChange": 16.16
+                "totalChange": 14.02
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -419,13 +419,13 @@
                 }
             ],
             "flavourText": "Whatever the prize, fight for it.",
-            "chaosValue": 35.66,
-            "exaltedValue": 1.97,
-            "divineValue": 0.21,
-            "count": 115,
+            "chaosValue": 38.54,
+            "exaltedValue": 2.15,
+            "divineValue": 0.23,
+            "count": 131,
             "detailsId": "domination-scarab-of-terrors",
             "tradeInfo": [],
-            "listingCount": 3065
+            "listingCount": 3078
         },
         {
             "id": 113945,
@@ -441,7 +441,7 @@
                     0,
                     0,
                     0,
-                    0,
+                    -12.5,
                     -12.5
                 ],
                 "totalChange": -12.5
@@ -453,7 +453,7 @@
                     0,
                     0,
                     0,
-                    0,
+                    -12.5,
                     -12.5
                 ],
                 "totalChange": -12.5
@@ -467,12 +467,12 @@
             ],
             "flavourText": "The crystals... can spread?",
             "chaosValue": 35.0,
-            "exaltedValue": 1.93,
+            "exaltedValue": 1.95,
             "divineValue": 0.21,
-            "count": 244,
+            "count": 245,
             "detailsId": "essence-scarab-of-calcification",
             "tradeInfo": [],
-            "listingCount": 4654
+            "listingCount": 4653
         },
         {
             "id": 113830,
@@ -484,26 +484,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    -0.92,
-                    -12.17,
-                    -12.46,
-                    -12.67,
-                    -12.46,
-                    -14.95
+                    -11.36,
+                    -11.65,
+                    -11.86,
+                    -11.65,
+                    -12.26,
+                    -12.95
                 ],
-                "totalChange": -14.95
+                "totalChange": -12.95
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    -0.92,
-                    -12.17,
-                    -12.46,
-                    -12.67,
-                    -12.46,
-                    -14.95
+                    -11.36,
+                    -11.65,
+                    -11.86,
+                    -11.65,
+                    -12.26,
+                    -12.95
                 ],
-                "totalChange": -14.95
+                "totalChange": -12.95
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -513,13 +513,13 @@
                 }
             ],
             "flavourText": "They say if you go far enough, you will meet yourself...",
-            "chaosValue": 32.49,
-            "exaltedValue": 1.79,
-            "divineValue": 0.19,
-            "count": 150,
+            "chaosValue": 32.95,
+            "exaltedValue": 1.84,
+            "divineValue": 0.2,
+            "count": 158,
             "detailsId": "incursion-scarab-of-timelines",
             "tradeInfo": [],
-            "listingCount": 2217
+            "listingCount": 2220
         },
         {
             "id": 113827,
@@ -531,26 +531,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    -1.83,
-                    -1.83,
-                    -1.83,
-                    -1.83,
-                    -1.83,
-                    -4.87
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -3.66
                 ],
-                "totalChange": -4.87
+                "totalChange": -3.66
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    -1.83,
-                    -1.83,
-                    -1.83,
-                    -1.83,
-                    -1.83,
-                    -4.87
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -3.66
                 ],
-                "totalChange": -4.87
+                "totalChange": -3.66
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -560,13 +560,13 @@
                 }
             ],
             "flavourText": "A good season brings bounty.",
-            "chaosValue": 28.1,
-            "exaltedValue": 1.55,
+            "chaosValue": 27.94,
+            "exaltedValue": 1.56,
             "divineValue": 0.17,
             "count": 399,
             "detailsId": "harvest-scarab-of-doubling",
             "tradeInfo": [],
-            "listingCount": 4776
+            "listingCount": 4790
         },
         {
             "id": 113709,
@@ -578,26 +578,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.16,
-                    0.11,
-                    -0.21,
-                    -0.48,
-                    -0.21,
-                    -0.05
+                    -0.05,
+                    -0.38,
+                    -0.64,
+                    -0.38,
+                    -0.27,
+                    -0.32
                 ],
-                "totalChange": -0.05
+                "totalChange": -0.32
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.16,
-                    0.11,
-                    -0.21,
-                    -0.48,
-                    -0.21,
-                    -0.05
+                    -0.05,
+                    -0.38,
+                    -0.64,
+                    -0.38,
+                    -0.27,
+                    -0.32
                 ],
-                "totalChange": -0.05
+                "totalChange": -0.32
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -607,13 +607,13 @@
                 }
             ],
             "flavourText": "A keen eye sorts the worthy from the chaff.",
-            "chaosValue": 18.61,
-            "exaltedValue": 1.03,
+            "chaosValue": 18.59,
+            "exaltedValue": 1.04,
             "divineValue": 0.11,
-            "count": 383,
+            "count": 395,
             "detailsId": "ambush-scarab-of-discernment",
             "tradeInfo": [],
-            "listingCount": 8230
+            "listingCount": 8240
         },
         {
             "id": 113749,
@@ -625,26 +625,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.17,
-                    0.08,
+                    -0.08,
+                    -0.42,
+                    -0.67,
+                    -0.42,
                     -0.25,
-                    -0.5,
-                    -0.25,
-                    -0.08
+                    -0.17
                 ],
-                "totalChange": -0.08
+                "totalChange": -0.17
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.17,
-                    0.08,
+                    -0.08,
+                    -0.42,
+                    -0.67,
+                    -0.42,
                     -0.25,
-                    -0.5,
-                    -0.25,
-                    -0.08
+                    -0.17
                 ],
-                "totalChange": -0.08
+                "totalChange": -0.17
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -654,13 +654,13 @@
                 }
             ],
             "flavourText": "The truly noble wage war from the front.",
-            "chaosValue": 11.96,
-            "exaltedValue": 0.66,
+            "chaosValue": 11.97,
+            "exaltedValue": 0.67,
             "divineValue": 0.07,
-            "count": 300,
+            "count": 313,
             "detailsId": "harbinger-scarab-of-regency",
             "tradeInfo": [],
-            "listingCount": 5620
+            "listingCount": 5634
         },
         {
             "id": 113706,
@@ -676,10 +676,10 @@
                     0,
                     0,
                     0,
-                    0,
-                    1.45
+                    1.36,
+                    1.64
                 ],
-                "totalChange": 1.45
+                "totalChange": 1.64
             },
             "lowConfidenceSparkline": {
                 "data": [
@@ -688,10 +688,10 @@
                     0,
                     0,
                     0,
-                    0,
-                    1.45
+                    1.36,
+                    1.64
                 ],
-                "totalChange": 1.45
+                "totalChange": 1.64
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -701,13 +701,13 @@
                 }
             ],
             "flavourText": "Corruption bleeds between realities.",
-            "chaosValue": 11.16,
+            "chaosValue": 11.18,
             "exaltedValue": 0.62,
             "divineValue": 0.07,
-            "count": 266,
+            "count": 260,
             "detailsId": "cartography-scarab-of-corruption",
             "tradeInfo": [],
-            "listingCount": 4806
+            "listingCount": 4795
         },
         {
             "id": 113872,
@@ -719,26 +719,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.18,
-                    0.09,
-                    -0.72,
-                    -0.72,
                     -0.09,
-                    -0.45
+                    -0.89,
+                    -0.89,
+                    -0.27,
+                    -0.45,
+                    -1.7
                 ],
-                "totalChange": -0.45
+                "totalChange": -1.7
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.18,
-                    0.09,
-                    -0.72,
-                    -0.72,
                     -0.09,
-                    -0.45
+                    -0.89,
+                    -0.89,
+                    -0.27,
+                    -0.45,
+                    -1.7
                 ],
-                "totalChange": -0.45
+                "totalChange": -1.7
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -748,13 +748,13 @@
                 }
             ],
             "flavourText": "Victory is meaningless, failure will be mocked.",
-            "chaosValue": 11.12,
+            "chaosValue": 11.0,
             "exaltedValue": 0.61,
             "divineValue": 0.07,
-            "count": 138,
+            "count": 143,
             "detailsId": "ultimatum-scarab-of-dueling",
             "tradeInfo": [],
-            "listingCount": 2565
+            "listingCount": 2564
         },
         {
             "id": 113766,
@@ -766,26 +766,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.17,
-                    -0.5,
-                    -6.85,
-                    -7.1,
-                    -6.85,
-                    -8.1
+                    -0.67,
+                    -7.01,
+                    -7.26,
+                    -7.01,
+                    -7.26,
+                    -16.6
                 ],
-                "totalChange": -8.1
+                "totalChange": -16.6
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.17,
-                    -0.5,
-                    -6.85,
-                    -7.1,
-                    -6.85,
-                    -8.1
+                    -0.67,
+                    -7.01,
+                    -7.26,
+                    -7.01,
+                    -7.26,
+                    -16.6
                 ],
-                "totalChange": -8.1
+                "totalChange": -16.6
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -795,13 +795,13 @@
                 }
             ],
             "flavourText": "Once a century, the Blight spills forth...",
-            "chaosValue": 11.0,
-            "exaltedValue": 0.61,
-            "divineValue": 0.07,
-            "count": 129,
+            "chaosValue": 10.0,
+            "exaltedValue": 0.56,
+            "divineValue": 0.06,
+            "count": 130,
             "detailsId": "blight-scarab-of-blooming",
             "tradeInfo": [],
-            "listingCount": 2589
+            "listingCount": 2587
         },
         {
             "id": 117971,
@@ -813,26 +813,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    11.9,
-                    10,
-                    10,
-                    6,
-                    0,
-                    0
+                    -1.7,
+                    -1.7,
+                    -5.27,
+                    -10.63,
+                    -10.63,
+                    -10.63
                 ],
-                "totalChange": 0
+                "totalChange": -10.63
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    11.9,
-                    10,
-                    10,
-                    6,
-                    0,
-                    0
+                    -1.7,
+                    -1.7,
+                    -5.27,
+                    -10.63,
+                    -10.63,
+                    -10.63
                 ],
-                "totalChange": 0
+                "totalChange": -10.63
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -843,63 +843,12 @@
             ],
             "flavourText": "The Dra\u00edocht connects everything that lives.",
             "chaosValue": 10.0,
-            "exaltedValue": 0.55,
+            "exaltedValue": 0.56,
             "divineValue": 0.06,
             "count": 261,
             "detailsId": "scarab-of-wisps",
             "tradeInfo": [],
-            "listingCount": 3400
-        },
-        {
-            "id": 113832,
-            "name": "Harbinger Scarab of Warhoards",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
-            "baseType": "Harbinger Scarab of Warhoards",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    0.61,
-                    0.41,
-                    0.2,
-                    -0.1,
-                    0.2,
-                    -0.92
-                ],
-                "totalChange": -0.92
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    0.61,
-                    0.41,
-                    0.2,
-                    -0.1,
-                    0.2,
-                    -0.92
-                ],
-                "totalChange": -0.92
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Currency shards dropped by Harbingers in Area have a 25% chance to be duplicated",
-                    "optional": true
-                },
-                {
-                    "text": "Currency shards dropped by Harbingers in Area are duplicated",
-                    "optional": true
-                }
-            ],
-            "flavourText": "For those who can leverage it, war can be as much a machine of profit as it is death.",
-            "chaosValue": 9.73,
-            "exaltedValue": 0.54,
-            "divineValue": 0.06,
-            "count": 353,
-            "detailsId": "harbinger-scarab-of-warhoards",
-            "tradeInfo": [],
-            "listingCount": 6758
+            "listingCount": 3401
         },
         {
             "id": 117976,
@@ -915,10 +864,10 @@
                     0,
                     0,
                     0,
-                    0,
-                    18.75
+                    18.75,
+                    25
                 ],
-                "totalChange": 18.75
+                "totalChange": 25
             },
             "lowConfidenceSparkline": {
                 "data": [
@@ -927,10 +876,10 @@
                     0,
                     0,
                     0,
-                    0,
-                    18.75
+                    18.75,
+                    25
                 ],
-                "totalChange": 18.75
+                "totalChange": 25
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -940,13 +889,64 @@
                 }
             ],
             "flavourText": "Reality weakens with each new wound.",
-            "chaosValue": 9.5,
-            "exaltedValue": 0.52,
+            "chaosValue": 10.0,
+            "exaltedValue": 0.56,
             "divineValue": 0.06,
-            "count": 116,
+            "count": 117,
             "detailsId": "breach-scarab-of-resonant-cascade",
             "tradeInfo": [],
-            "listingCount": 1638
+            "listingCount": 1639
+        },
+        {
+            "id": 113832,
+            "name": "Harbinger Scarab of Warhoards",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
+            "baseType": "Harbinger Scarab of Warhoards",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    -0.2,
+                    -0.4,
+                    -0.71,
+                    -0.4,
+                    -0.51,
+                    -0.2
+                ],
+                "totalChange": -0.2
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    -0.2,
+                    -0.4,
+                    -0.71,
+                    -0.4,
+                    -0.51,
+                    -0.2
+                ],
+                "totalChange": -0.2
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Currency shards dropped by Harbingers in Area have a 25% chance to be duplicated",
+                    "optional": true
+                },
+                {
+                    "text": "Currency shards dropped by Harbingers in Area are duplicated",
+                    "optional": true
+                }
+            ],
+            "flavourText": "For those who can leverage it, war can be as much a machine of profit as it is death.",
+            "chaosValue": 9.86,
+            "exaltedValue": 0.55,
+            "divineValue": 0.06,
+            "count": 367,
+            "detailsId": "harbinger-scarab-of-warhoards",
+            "tradeInfo": [],
+            "listingCount": 6767
         },
         {
             "id": 113875,
@@ -961,8 +961,8 @@
                     0,
                     0,
                     0,
-                    0,
                     10,
+                    0,
                     0
                 ],
                 "totalChange": 0
@@ -973,8 +973,8 @@
                     0,
                     0,
                     0,
-                    0,
                     10,
+                    0,
                     0
                 ],
                 "totalChange": 0
@@ -988,12 +988,12 @@
             ],
             "flavourText": "An eternity of blood. Glorious.",
             "chaosValue": 8.0,
-            "exaltedValue": 0.44,
+            "exaltedValue": 0.45,
             "divineValue": 0.05,
-            "count": 141,
+            "count": 146,
             "detailsId": "legion-scarab-of-eternal-conflict",
             "tradeInfo": [],
-            "listingCount": 1837
+            "listingCount": 1840
         },
         {
             "id": 117973,
@@ -1005,26 +1005,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    10.84,
-                    9.36,
-                    -1.48,
-                    -1.48,
-                    -1.48,
-                    -1.48
+                    -1.33,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11
                 ],
-                "totalChange": -1.48
+                "totalChange": -11.11
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    10.84,
-                    9.36,
-                    -1.48,
-                    -1.48,
-                    -1.48,
-                    -1.48
+                    -1.33,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11
                 ],
-                "totalChange": -1.48
+                "totalChange": -11.11
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1035,12 +1035,12 @@
             ],
             "flavourText": "The crystalline lattice expands in directions alien to the mortal mind.",
             "chaosValue": 8.0,
-            "exaltedValue": 0.44,
+            "exaltedValue": 0.45,
             "divineValue": 0.05,
-            "count": 192,
+            "count": 194,
             "detailsId": "essence-scarab-of-adaptation",
             "tradeInfo": [],
-            "listingCount": 3190
+            "listingCount": 3188
         },
         {
             "id": 118282,
@@ -1052,26 +1052,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    -0.99,
-                    -4.29,
-                    -11.99,
-                    -11.99,
-                    -11.99,
-                    -11.99
+                    -3.33,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11
                 ],
-                "totalChange": -11.99
+                "totalChange": -11.11
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    -0.99,
-                    -4.29,
-                    -11.99,
-                    -11.99,
-                    -11.99,
-                    -11.99
+                    -3.33,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11,
+                    -11.11
                 ],
-                "totalChange": -11.99
+                "totalChange": -11.11
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1082,12 +1082,12 @@
             ],
             "flavourText": "If you do not seize your fate, someone else will.",
             "chaosValue": 8.0,
-            "exaltedValue": 0.44,
+            "exaltedValue": 0.45,
             "divineValue": 0.05,
             "count": 218,
             "detailsId": "divination-scarab-of-pilfering",
             "tradeInfo": [],
-            "listingCount": 3862
+            "listingCount": 3858
         },
         {
             "id": 118273,
@@ -1099,26 +1099,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.26,
-                    0.26,
-                    -1.45,
-                    -4.6,
-                    -0.13,
-                    0
+                    0,
+                    -1.7,
+                    -4.85,
+                    -0.39,
+                    -0.26,
+                    -0.13
                 ],
-                "totalChange": 0
+                "totalChange": -0.13
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.26,
-                    0.26,
-                    -1.45,
-                    -4.6,
-                    -0.13,
-                    0
+                    0,
+                    -1.7,
+                    -4.85,
+                    -0.39,
+                    -0.26,
+                    -0.13
                 ],
-                "totalChange": 0
+                "totalChange": -0.13
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1128,60 +1128,13 @@
                 }
             ],
             "flavourText": "There is no end, no horizon.",
-            "chaosValue": 7.61,
+            "chaosValue": 7.62,
             "exaltedValue": 0.42,
             "divineValue": 0.05,
-            "count": 303,
+            "count": 307,
             "detailsId": "cartography-scarab-of-the-multitude",
             "tradeInfo": [],
-            "listingCount": 6180
-        },
-        {
-            "id": 113728,
-            "name": "Ambush Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
-            "baseType": "Ambush Scarab",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    0.27,
-                    0.14,
-                    -0.14,
-                    -0.41,
-                    -0.27,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    0.27,
-                    0.14,
-                    -0.14,
-                    -0.41,
-                    -0.27,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Area contains (2-5) additional Strongboxes",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Is it still an ambush if you're expecting it?",
-            "chaosValue": 7.28,
-            "exaltedValue": 0.4,
-            "divineValue": 0.04,
-            "count": 399,
-            "detailsId": "ambush-scarab",
-            "tradeInfo": [],
-            "listingCount": 7990
+            "listingCount": 6165
         },
         {
             "id": 113879,
@@ -1193,26 +1146,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.14,
-                    0,
-                    -1.37,
-                    -4.12,
-                    -0.27,
-                    -3.98
+                    -0.14,
+                    -1.51,
+                    -4.25,
+                    -0.41,
+                    -0.82,
+                    1.78
                 ],
-                "totalChange": -3.98
+                "totalChange": 1.78
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.14,
-                    0,
-                    -1.37,
-                    -4.12,
-                    -0.27,
-                    -3.98
+                    -0.14,
+                    -1.51,
+                    -4.25,
+                    -0.41,
+                    -0.82,
+                    1.78
                 ],
-                "totalChange": -3.98
+                "totalChange": 1.78
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1222,13 +1175,60 @@
                 }
             ],
             "flavourText": "Care where you step.",
-            "chaosValue": 7.0,
-            "exaltedValue": 0.39,
+            "chaosValue": 7.43,
+            "exaltedValue": 0.41,
             "divineValue": 0.04,
             "count": 124,
             "detailsId": "breach-scarab-of-snares",
             "tradeInfo": [],
-            "listingCount": 2059
+            "listingCount": 2054
+        },
+        {
+            "id": 113728,
+            "name": "Ambush Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
+            "baseType": "Ambush Scarab",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    -0.14,
+                    -0.41,
+                    -0.68,
+                    -0.55,
+                    -4.11,
+                    -0.14
+                ],
+                "totalChange": -0.14
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    -0.14,
+                    -0.41,
+                    -0.68,
+                    -0.55,
+                    -4.11,
+                    -0.14
+                ],
+                "totalChange": -0.14
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Area contains (2-5) additional Strongboxes",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Is it still an ambush if you're expecting it?",
+            "chaosValue": 7.29,
+            "exaltedValue": 0.41,
+            "divineValue": 0.04,
+            "count": 399,
+            "detailsId": "ambush-scarab",
+            "tradeInfo": [],
+            "listingCount": 7987
         },
         {
             "id": 113873,
@@ -1240,26 +1240,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.16,
-                    0,
-                    -0.31,
-                    -0.47,
+                    -0.15,
+                    -0.46,
+                    -0.62,
+                    3.56,
                     3.72,
-                    3.88
+                    3.87
                 ],
-                "totalChange": 3.88
+                "totalChange": 3.87
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.16,
-                    0,
-                    -0.31,
-                    -0.47,
+                    -0.15,
+                    -0.46,
+                    -0.62,
+                    3.56,
                     3.72,
-                    3.88
+                    3.87
                 ],
-                "totalChange": 3.88
+                "totalChange": 3.87
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1269,13 +1269,13 @@
                 }
             ],
             "flavourText": "Glory draws ever tighter its own doom.",
-            "chaosValue": 6.7,
+            "chaosValue": 6.71,
             "exaltedValue": 0.37,
             "divineValue": 0.04,
-            "count": 315,
+            "count": 321,
             "detailsId": "horned-scarab-of-nemeses",
             "tradeInfo": [],
-            "listingCount": 4939
+            "listingCount": 4934
         },
         {
             "id": 113760,
@@ -1287,26 +1287,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    7.33,
-                    7.33,
-                    7.33,
-                    7.33,
-                    7.33,
-                    7.33
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
                 ],
-                "totalChange": 7.33
+                "totalChange": 0
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    7.33,
-                    7.33,
-                    7.33,
-                    7.33,
-                    7.33,
-                    7.33
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
                 ],
-                "totalChange": 7.33
+                "totalChange": 0
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1319,10 +1319,10 @@
             "chaosValue": 6.0,
             "exaltedValue": 0.33,
             "divineValue": 0.04,
-            "count": 228,
+            "count": 239,
             "detailsId": "ritual-scarab-of-abundance",
             "tradeInfo": [],
-            "listingCount": 5037
+            "listingCount": 5039
         },
         {
             "id": 121389,
@@ -1334,26 +1334,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    33.33,
-                    11.67,
-                    0,
-                    -8.17,
-                    -8.33,
-                    -10
+                    -16.25,
+                    -25,
+                    -31.12,
+                    -31.25,
+                    -32.5,
+                    -31.5
                 ],
-                "totalChange": -10
+                "totalChange": -31.5
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    33.33,
-                    11.67,
-                    0,
-                    -8.17,
-                    -8.33,
-                    -10
+                    -16.25,
+                    -25,
+                    -31.12,
+                    -31.25,
+                    -32.5,
+                    -31.5
                 ],
-                "totalChange": -10
+                "totalChange": -31.5
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1363,13 +1363,13 @@
                 }
             ],
             "flavourText": "Power accumulates.",
-            "chaosValue": 5.4,
-            "exaltedValue": 0.3,
+            "chaosValue": 5.48,
+            "exaltedValue": 0.31,
             "divineValue": 0.03,
-            "count": 198,
+            "count": 203,
             "detailsId": "titanic-scarab-of-legend",
             "tradeInfo": [],
-            "listingCount": 3088
+            "listingCount": 3091
         },
         {
             "id": 113730,
@@ -1413,10 +1413,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.28,
             "divineValue": 0.03,
-            "count": 256,
+            "count": 264,
             "detailsId": "delirium-scarab-of-paranoia",
             "tradeInfo": [],
-            "listingCount": 4139
+            "listingCount": 4143
         },
         {
             "id": 121388,
@@ -1428,26 +1428,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    10.95,
-                    10.95,
-                    10.71,
-                    3.1,
-                    2.38,
-                    9.05
+                    0,
+                    -0.21,
+                    -7.08,
+                    -7.73,
+                    -3.65,
+                    -10.09
                 ],
-                "totalChange": 9.05
+                "totalChange": -10.09
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    10.95,
-                    10.95,
-                    10.71,
-                    3.1,
-                    2.38,
-                    9.05
+                    0,
+                    -0.21,
+                    -7.08,
+                    -7.73,
+                    -3.65,
+                    -10.09
                 ],
-                "totalChange": 9.05
+                "totalChange": -10.09
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1457,13 +1457,13 @@
                 }
             ],
             "flavourText": "No disease can be contained forever.",
-            "chaosValue": 4.58,
-            "exaltedValue": 0.25,
-            "divineValue": 0.03,
+            "chaosValue": 4.19,
+            "exaltedValue": 0.23,
+            "divineValue": 0.02,
             "count": 399,
             "detailsId": "divination-scarab-of-the-cloister",
             "tradeInfo": [],
-            "listingCount": 8633
+            "listingCount": 8634
         },
         {
             "id": 118275,
@@ -1507,10 +1507,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.22,
             "divineValue": 0.02,
-            "count": 292,
+            "count": 282,
             "detailsId": "cartography-scarab-of-risk",
             "tradeInfo": [],
-            "listingCount": 4519
+            "listingCount": 4510
         },
         {
             "id": 113714,
@@ -1522,26 +1522,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    6.85,
-                    8.04,
-                    8.04,
-                    7.14,
-                    8.04,
-                    7.14
+                    1.11,
+                    1.11,
+                    0.28,
+                    1.11,
+                    0.28,
+                    0.28
                 ],
-                "totalChange": 7.14
+                "totalChange": 0.28
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    6.85,
-                    8.04,
-                    8.04,
-                    7.14,
-                    8.04,
-                    7.14
+                    1.11,
+                    1.11,
+                    0.28,
+                    1.11,
+                    0.28,
+                    0.28
                 ],
-                "totalChange": 7.14
+                "totalChange": 0.28
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1558,57 +1558,10 @@
             "chaosValue": 3.6,
             "exaltedValue": 0.2,
             "divineValue": 0.02,
-            "count": 359,
+            "count": 377,
             "detailsId": "harbinger-scarab",
             "tradeInfo": [],
-            "listingCount": 6988
-        },
-        {
-            "id": 117975,
-            "name": "Blight Scarab of Invigoration",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
-            "baseType": "Blight Scarab of Invigoration",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    20,
-                    13.33
-                ],
-                "totalChange": 13.33
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    20,
-                    13.33
-                ],
-                "totalChange": 13.33
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Each Empowering Tower in Areas grants Blighted Monsters in\nrange increased Difficulty and Reward",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Reversing the polarity of the compression modulator seems to have intriguing effects...",
-            "chaosValue": 3.4,
-            "exaltedValue": 0.19,
-            "divineValue": 0.02,
-            "count": 136,
-            "detailsId": "blight-scarab-of-invigoration",
-            "tradeInfo": [],
-            "listingCount": 2290
+            "listingCount": 6991
         },
         {
             "id": 113721,
@@ -1625,9 +1578,9 @@
                     0,
                     0,
                     0,
-                    0
+                    1.67
                 ],
-                "totalChange": 0
+                "totalChange": 1.67
             },
             "lowConfidenceSparkline": {
                 "data": [
@@ -1637,9 +1590,9 @@
                     0,
                     0,
                     0,
-                    0
+                    1.67
                 ],
-                "totalChange": 0
+                "totalChange": 1.67
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1649,13 +1602,13 @@
                 }
             ],
             "flavourText": "The First Ones ran rampant and free in the forests of old.",
-            "chaosValue": 3.0,
+            "chaosValue": 3.05,
             "exaltedValue": 0.17,
             "divineValue": 0.02,
             "count": 399,
             "detailsId": "bestiary-scarab-of-the-herd",
             "tradeInfo": [],
-            "listingCount": 4917
+            "listingCount": 4912
         },
         {
             "id": 113726,
@@ -1699,7 +1652,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.17,
             "divineValue": 0.02,
-            "count": 223,
+            "count": 225,
             "detailsId": "bestiary-scarab-of-duplicating",
             "tradeInfo": [],
             "listingCount": 4189
@@ -1714,26 +1667,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    -2.8,
-                    -2.2,
-                    -25.8,
-                    -40,
-                    -40,
-                    -40
+                    0.62,
+                    -23.66,
+                    -38.27,
+                    -38.27,
+                    -38.27,
+                    -38.27
                 ],
-                "totalChange": -40
+                "totalChange": -38.27
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    -2.8,
-                    -2.2,
-                    -25.8,
-                    -40,
-                    -40,
-                    -40
+                    0.62,
+                    -23.66,
+                    -38.27,
+                    -38.27,
+                    -38.27,
+                    -38.27
                 ],
-                "totalChange": -40
+                "totalChange": -38.27
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1746,10 +1699,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.17,
             "divineValue": 0.02,
-            "count": 260,
+            "count": 271,
             "detailsId": "anarchy-scarab-of-gigantification",
             "tradeInfo": [],
-            "listingCount": 3478
+            "listingCount": 3485
         },
         {
             "id": 113896,
@@ -1793,10 +1746,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.17,
             "divineValue": 0.02,
-            "count": 151,
+            "count": 150,
             "detailsId": "horned-scarab-of-tradition",
             "tradeInfo": [],
-            "listingCount": 2653
+            "listingCount": 2654
         },
         {
             "id": 117974,
@@ -1840,10 +1793,57 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.17,
             "divineValue": 0.02,
-            "count": 121,
+            "count": 117,
             "detailsId": "scarab-of-radiant-storms",
             "tradeInfo": [],
             "listingCount": 1641
+        },
+        {
+            "id": 117975,
+            "name": "Blight Scarab of Invigoration",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
+            "baseType": "Blight Scarab of Invigoration",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    20,
+                    6.67,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    20,
+                    6.67,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Each Empowering Tower in Areas grants Blighted Monsters in\nrange increased Difficulty and Reward",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Reversing the polarity of the compression modulator seems to have intriguing effects...",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.17,
+            "divineValue": 0.02,
+            "count": 142,
+            "detailsId": "blight-scarab-of-invigoration",
+            "tradeInfo": [],
+            "listingCount": 2296
         },
         {
             "id": 117977,
@@ -1857,24 +1857,24 @@
                     0,
                     0,
                     0,
-                    0,
                     -1.33,
                     -2,
-                    -2
+                    -2,
+                    -6
                 ],
-                "totalChange": -2
+                "totalChange": -6
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
                     0,
                     0,
-                    0,
                     -1.33,
                     -2,
-                    -2
+                    -2,
+                    -6
                 ],
-                "totalChange": -2
+                "totalChange": -6
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1884,13 +1884,13 @@
                 }
             ],
             "flavourText": "The deeper we dig, the more we find, be it fortune or foe.",
-            "chaosValue": 2.94,
+            "chaosValue": 2.82,
             "exaltedValue": 0.16,
             "divineValue": 0.02,
-            "count": 101,
+            "count": 103,
             "detailsId": "abyss-scarab-of-profound-depth",
             "tradeInfo": [],
-            "listingCount": 2013
+            "listingCount": 2017
         },
         {
             "id": 121391,
@@ -1902,26 +1902,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    -12.08,
-                    -12.5,
-                    -12.92,
-                    -12.92,
-                    -9.17,
-                    6.67
+                    -0.47,
+                    -0.95,
+                    -0.95,
+                    3.32,
+                    22.75,
+                    28.44
                 ],
-                "totalChange": 6.67
+                "totalChange": 28.44
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    -12.08,
-                    -12.5,
-                    -12.92,
-                    -12.92,
-                    -9.17,
-                    6.67
+                    -0.47,
+                    -0.95,
+                    -0.95,
+                    3.32,
+                    22.75,
+                    28.44
                 ],
-                "totalChange": 6.67
+                "totalChange": 28.44
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1931,13 +1931,13 @@
                 }
             ],
             "flavourText": "Greed is a trap of the mind.",
-            "chaosValue": 2.56,
-            "exaltedValue": 0.14,
+            "chaosValue": 2.71,
+            "exaltedValue": 0.15,
             "divineValue": 0.02,
-            "count": 238,
+            "count": 250,
             "detailsId": "titanic-scarab-of-treasures",
             "tradeInfo": [],
-            "listingCount": 4693
+            "listingCount": 4699
         },
         {
             "id": 113685,
@@ -1949,26 +1949,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    5,
-                    5,
-                    4.5,
-                    7.5,
-                    7.5,
-                    4.5
+                    0,
+                    -0.48,
+                    2.38,
+                    2.38,
+                    -0.48,
+                    0
                 ],
-                "totalChange": 4.5
+                "totalChange": 0
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    5,
-                    5,
-                    4.5,
-                    7.5,
-                    7.5,
-                    4.5
+                    0,
+                    -0.48,
+                    2.38,
+                    2.38,
+                    -0.48,
+                    0
                 ],
-                "totalChange": 4.5
+                "totalChange": 0
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1978,13 +1978,13 @@
                 }
             ],
             "flavourText": "The bloodlines evolve faster than they can be culled.",
-            "chaosValue": 2.09,
+            "chaosValue": 2.1,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 214,
+            "count": 215,
             "detailsId": "scarab-of-monstrous-lineage",
             "tradeInfo": [],
-            "listingCount": 4128
+            "listingCount": 4126
         },
         {
             "id": 113686,
@@ -2028,61 +2028,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 202,
+            "count": 200,
             "detailsId": "influencing-scarab-of-conversion",
             "tradeInfo": [],
-            "listingCount": 3090
-        },
-        {
-            "id": 113697,
-            "name": "Breach Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37bd40da6c/LesserScarabBreach.png",
-            "baseType": "Breach Scarab",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    4.71,
-                    4.71,
-                    4.71,
-                    -2.62,
-                    3.14,
-                    4.71
-                ],
-                "totalChange": 4.71
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    4.71,
-                    4.71,
-                    4.71,
-                    -2.62,
-                    3.14,
-                    4.71
-                ],
-                "totalChange": 4.71
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Area contains an additional Breach",
-                    "optional": true
-                },
-                {
-                    "text": "Area contains 2 additional Breaches",
-                    "optional": true
-                }
-            ],
-            "flavourText": "They are never far.",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.11,
-            "divineValue": 0.01,
-            "count": 214,
-            "detailsId": "breach-scarab",
-            "tradeInfo": [],
-            "listingCount": 3859
+            "listingCount": 3089
         },
         {
             "id": 113732,
@@ -2094,26 +2043,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    5.82,
-                    5.82,
-                    5.82,
-                    1.06,
-                    5.82,
-                    5.82
+                    0,
+                    0,
+                    -4.5,
+                    0,
+                    0,
+                    0
                 ],
-                "totalChange": 5.82
+                "totalChange": 0
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    5.82,
-                    5.82,
-                    5.82,
-                    1.06,
-                    5.82,
-                    5.82
+                    0,
+                    0,
+                    -4.5,
+                    0,
+                    0,
+                    0
                 ],
-                "totalChange": 5.82
+                "totalChange": 0
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2126,10 +2075,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 241,
+            "count": 246,
             "detailsId": "ultimatum-scarab-of-bribing",
             "tradeInfo": [],
-            "listingCount": 4475
+            "listingCount": 4471
         },
         {
             "id": 113744,
@@ -2173,10 +2122,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 216,
+            "count": 224,
             "detailsId": "influencing-scarab-of-hordes",
             "tradeInfo": [],
-            "listingCount": 3468
+            "listingCount": 3471
         },
         {
             "id": 113745,
@@ -2188,26 +2137,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0.5,
-                    0.5,
-                    0.5,
-                    0.5,
-                    0.5,
-                    0.5
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
                 ],
-                "totalChange": 0.5
+                "totalChange": 0
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0.5,
-                    0.5,
-                    0.5,
-                    0.5,
-                    0.5,
-                    0.5
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
                 ],
-                "totalChange": 0.5
+                "totalChange": 0
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2220,7 +2169,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 295,
+            "count": 299,
             "detailsId": "essence-scarab-of-ascent",
             "tradeInfo": [],
             "listingCount": 6575
@@ -2235,26 +2184,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    35.5,
-                    36.5,
-                    0,
-                    0,
-                    0,
-                    0
+                    0.74,
+                    -26.2,
+                    -26.2,
+                    -26.2,
+                    -26.2,
+                    -26.2
                 ],
-                "totalChange": 0
+                "totalChange": -26.2
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    35.5,
-                    36.5,
-                    0,
-                    0,
-                    0,
-                    0
+                    0.74,
+                    -26.2,
+                    -26.2,
+                    -26.2,
+                    -26.2,
+                    -26.2
                 ],
-                "totalChange": 0
+                "totalChange": -26.2
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2267,10 +2216,61 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 210,
+            "count": 207,
             "detailsId": "domination-scarab-of-evolution",
             "tradeInfo": [],
-            "listingCount": 2917
+            "listingCount": 2918
+        },
+        {
+            "id": 113697,
+            "name": "Breach Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37bd40da6c/LesserScarabBreach.png",
+            "baseType": "Breach Scarab",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -7.0,
+                    -1.5,
+                    0,
+                    -3
+                ],
+                "totalChange": -3
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -7.0,
+                    -1.5,
+                    0,
+                    -3
+                ],
+                "totalChange": -3
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Area contains an additional Breach",
+                    "optional": true
+                },
+                {
+                    "text": "Area contains 2 additional Breaches",
+                    "optional": true
+                }
+            ],
+            "flavourText": "They are never far.",
+            "chaosValue": 1.94,
+            "exaltedValue": 0.11,
+            "divineValue": 0.01,
+            "count": 227,
+            "detailsId": "breach-scarab",
+            "tradeInfo": [],
+            "listingCount": 3869
         },
         {
             "id": 113712,
@@ -2282,26 +2282,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0,
                     -1.02,
                     -5.58,
                     -3.55,
                     -0.25,
-                    -5.58
+                    -4.57,
+                    -2.03
                 ],
-                "totalChange": -5.58
+                "totalChange": -2.03
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0,
                     -1.02,
                     -5.58,
                     -3.55,
                     -0.25,
-                    -5.58
+                    -4.57,
+                    -2.03
                 ],
-                "totalChange": -5.58
+                "totalChange": -2.03
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2311,60 +2311,13 @@
                 }
             ],
             "flavourText": "They stand against you with equal enmity.",
-            "chaosValue": 1.86,
-            "exaltedValue": 0.1,
+            "chaosValue": 1.93,
+            "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 235,
+            "count": 240,
             "detailsId": "scarab-of-adversaries",
             "tradeInfo": [],
-            "listingCount": 4492
-        },
-        {
-            "id": 113862,
-            "name": "Legion Scarab of Officers",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
-            "baseType": "Legion Scarab of Officers",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    25,
-                    7,
-                    0,
-                    0,
-                    71,
-                    85
-                ],
-                "totalChange": 85
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    25,
-                    7,
-                    0,
-                    0,
-                    71,
-                    85
-                ],
-                "totalChange": 85
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Legion Factions in Area have (2-5) additional Sergeants",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Even a battlefield has middle management.",
-            "chaosValue": 1.85,
-            "exaltedValue": 0.1,
-            "divineValue": 0.01,
-            "count": 178,
-            "detailsId": "legion-scarab-of-officers",
-            "tradeInfo": [],
-            "listingCount": 3899
+            "listingCount": 4494
         },
         {
             "id": 118281,
@@ -2378,24 +2331,24 @@
                     0,
                     0,
                     0,
-                    0,
                     -1.0,
                     -7.0,
-                    -10
+                    -8.0,
+                    -7
                 ],
-                "totalChange": -10
+                "totalChange": -7
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
                     0,
                     0,
-                    0,
                     -1.0,
                     -7.0,
-                    -10
+                    -8.0,
+                    -7
                 ],
-                "totalChange": -10
+                "totalChange": -7
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2413,13 +2366,60 @@
                 }
             ],
             "flavourText": "We create a thousand futures with every action.",
-            "chaosValue": 1.8,
+            "chaosValue": 1.86,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 244,
+            "count": 249,
             "detailsId": "divination-scarab-of-plenty",
             "tradeInfo": [],
             "listingCount": 3769
+        },
+        {
+            "id": 113862,
+            "name": "Legion Scarab of Officers",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
+            "baseType": "Legion Scarab of Officers",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    -14.4,
+                    -20,
+                    -20,
+                    36.8,
+                    48,
+                    42.4
+                ],
+                "totalChange": 42.4
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    -14.4,
+                    -20,
+                    -20,
+                    36.8,
+                    48,
+                    42.4
+                ],
+                "totalChange": 42.4
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Legion Factions in Area have (2-5) additional Sergeants",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Even a battlefield has middle management.",
+            "chaosValue": 1.78,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "count": 177,
+            "detailsId": "legion-scarab-of-officers",
+            "tradeInfo": [],
+            "listingCount": 3895
         },
         {
             "id": 118277,
@@ -2431,26 +2431,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0,
                     -7.14,
                     -9.52,
                     -9.52,
                     -9.52,
-                    -2.38
+                    -4.17,
+                    0
                 ],
-                "totalChange": -2.38
+                "totalChange": 0
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0,
                     -7.14,
                     -9.52,
                     -9.52,
                     -9.52,
-                    -2.38
+                    -4.17,
+                    0
                 ],
-                "totalChange": -2.38
+                "totalChange": 0
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2460,13 +2460,13 @@
                 }
             ],
             "flavourText": "Opportunity thrives where dreams are most perilous.",
-            "chaosValue": 1.64,
+            "chaosValue": 1.68,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 318,
+            "count": 329,
             "detailsId": "cartography-scarab-of-escalation",
             "tradeInfo": [],
-            "listingCount": 4911
+            "listingCount": 4907
         },
         {
             "id": 113771,
@@ -2478,26 +2478,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    1.94,
-                    5.81,
-                    1.29,
-                    -1.94,
-                    -1.29,
-                    -3.23
+                    3.8,
+                    -0.63,
+                    -3.8,
+                    -3.16,
+                    -5.06,
+                    -5.7
                 ],
-                "totalChange": -3.23
+                "totalChange": -5.7
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    1.94,
-                    5.81,
-                    1.29,
-                    -1.94,
-                    -1.29,
-                    -3.23
+                    3.8,
+                    -0.63,
+                    -3.8,
+                    -3.16,
+                    -5.06,
+                    -5.7
                 ],
-                "totalChange": -3.23
+                "totalChange": -5.7
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2507,13 +2507,13 @@
                 }
             ],
             "flavourText": "There is always a wager to be made... if you can afford it.",
-            "chaosValue": 1.5,
+            "chaosValue": 1.49,
             "exaltedValue": 0.08,
             "divineValue": 0.01,
-            "count": 243,
+            "count": 240,
             "detailsId": "ultimatum-scarab-of-inscription",
             "tradeInfo": [],
-            "listingCount": 4344
+            "listingCount": 4341
         },
         {
             "id": 113695,
@@ -2525,26 +2525,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    10.74,
-                    6.61,
-                    6.61,
-                    9.09,
-                    10.74,
-                    0.83
+                    -3.73,
+                    -3.73,
+                    -1.49,
+                    0,
+                    -4.48,
+                    -3.73
                 ],
-                "totalChange": 0.83
+                "totalChange": -3.73
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    10.74,
-                    6.61,
-                    6.61,
-                    9.09,
-                    10.74,
-                    0.83
+                    -3.73,
+                    -3.73,
+                    -1.49,
+                    0,
+                    -4.48,
+                    -3.73
                 ],
-                "totalChange": 0.83
+                "totalChange": -3.73
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2554,13 +2554,13 @@
                 }
             ],
             "flavourText": "Pick and choose which sacred tenets you prefer...",
-            "chaosValue": 1.22,
+            "chaosValue": 1.29,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 239,
+            "count": 233,
             "detailsId": "ritual-scarab-of-selectiveness",
             "tradeInfo": [],
-            "listingCount": 4549
+            "listingCount": 4545
         },
         {
             "id": 113687,
@@ -2572,26 +2572,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    3.45,
-                    -1.38,
-                    -4.14,
-                    -17.24,
-                    -17.93,
-                    -17.24
+                    -4.67,
+                    -7.33,
+                    -20,
+                    -20.67,
+                    -20,
+                    -20
                 ],
-                "totalChange": -17.24
+                "totalChange": -20
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    3.45,
-                    -1.38,
-                    -4.14,
-                    -17.24,
-                    -17.93,
-                    -17.24
+                    -4.67,
+                    -7.33,
+                    -20,
+                    -20.67,
+                    -20,
+                    -20
                 ],
-                "totalChange": -17.24
+                "totalChange": -20
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2608,57 +2608,10 @@
             "chaosValue": 1.2,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 330,
+            "count": 335,
             "detailsId": "essence-scarab",
             "tradeInfo": [],
             "listingCount": 7440
-        },
-        {
-            "id": 113688,
-            "name": "Betrayal Scarab of Intelligence",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
-            "baseType": "Betrayal Scarab of Intelligence",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    3
-                ],
-                "totalChange": 3
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    3
-                ],
-                "totalChange": 3
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "150% Increased Intelligence gained from\nImmortal Syndicate targets encountered in Area",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Those that can never die fear only pain.",
-            "chaosValue": 1.03,
-            "exaltedValue": 0.06,
-            "divineValue": 0.01,
-            "count": 202,
-            "detailsId": "betrayal-scarab-of-intelligence",
-            "tradeInfo": [],
-            "listingCount": 3210
         },
         {
             "id": 113683,
@@ -2702,10 +2655,57 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 265,
+            "count": 276,
             "detailsId": "anarchy-scarab",
             "tradeInfo": [],
-            "listingCount": 5001
+            "listingCount": 5006
+        },
+        {
+            "id": 113688,
+            "name": "Betrayal Scarab of Intelligence",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
+            "baseType": "Betrayal Scarab of Intelligence",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "150% Increased Intelligence gained from\nImmortal Syndicate targets encountered in Area",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Those that can never die fear only pain.",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "count": 208,
+            "detailsId": "betrayal-scarab-of-intelligence",
+            "tradeInfo": [],
+            "listingCount": 3214
         },
         {
             "id": 113689,
@@ -2749,10 +2749,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 271,
+            "count": 287,
             "detailsId": "sulphite-scarab",
             "tradeInfo": [],
-            "listingCount": 5496
+            "listingCount": 5509
         },
         {
             "id": 113690,
@@ -2796,10 +2796,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 334,
+            "count": 336,
             "detailsId": "essence-scarab-of-stability",
             "tradeInfo": [],
-            "listingCount": 5339
+            "listingCount": 5345
         },
         {
             "id": 113691,
@@ -2843,10 +2843,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 200,
+            "count": 208,
             "detailsId": "delirium-scarab-of-neuroses",
             "tradeInfo": [],
-            "listingCount": 3724
+            "listingCount": 3731
         },
         {
             "id": 113694,
@@ -2890,10 +2890,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 289,
+            "count": 299,
             "detailsId": "harvest-scarab",
             "tradeInfo": [],
-            "listingCount": 5727
+            "listingCount": 5735
         },
         {
             "id": 113698,
@@ -2937,10 +2937,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 243,
+            "count": 253,
             "detailsId": "legion-scarab",
             "tradeInfo": [],
-            "listingCount": 5965
+            "listingCount": 5971
         },
         {
             "id": 113700,
@@ -2984,10 +2984,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 216,
+            "count": 225,
             "detailsId": "expedition-scarab-of-verisium-powder",
             "tradeInfo": [],
-            "listingCount": 3982
+            "listingCount": 3993
         },
         {
             "id": 113701,
@@ -3001,8 +3001,8 @@
                     0,
                     0,
                     0,
-                    0,
                     -1,
+                    0,
                     0,
                     0
                 ],
@@ -3013,8 +3013,8 @@
                     0,
                     0,
                     0,
-                    0,
                     -1,
+                    0,
                     0,
                     0
                 ],
@@ -3031,10 +3031,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 314,
+            "count": 324,
             "detailsId": "beyond-scarab",
             "tradeInfo": [],
-            "listingCount": 5769
+            "listingCount": 5776
         },
         {
             "id": 113704,
@@ -3078,10 +3078,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 202,
+            "count": 198,
             "detailsId": "legion-scarab-of-command",
             "tradeInfo": [],
-            "listingCount": 3826
+            "listingCount": 3828
         },
         {
             "id": 113705,
@@ -3125,10 +3125,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 311,
+            "count": 317,
             "detailsId": "blight-scarab",
             "tradeInfo": [],
-            "listingCount": 6069
+            "listingCount": 6074
         },
         {
             "id": 113707,
@@ -3176,57 +3176,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 217,
+            "count": 218,
             "detailsId": "incursion-scarab-of-invasion",
             "tradeInfo": [],
-            "listingCount": 4310
-        },
-        {
-            "id": 113708,
-            "name": "Ultimatum Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e0bf2875db/LesserScarabUltimatum.png",
-            "baseType": "Ultimatum Scarab",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Area contains an Ultimatum Encounter",
-                    "optional": false
-                }
-            ],
-            "flavourText": "A challenge may be requested at any time.",
-            "chaosValue": 1.0,
-            "exaltedValue": 0.06,
-            "divineValue": 0.01,
-            "count": 326,
-            "detailsId": "ultimatum-scarab",
-            "tradeInfo": [],
-            "listingCount": 6017
+            "listingCount": 4312
         },
         {
             "id": 113710,
@@ -3270,10 +3223,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 254,
+            "count": 269,
             "detailsId": "breach-scarab-of-splintering",
             "tradeInfo": [],
-            "listingCount": 4406
+            "listingCount": 4414
         },
         {
             "id": 113711,
@@ -3364,10 +3317,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 203,
+            "count": 210,
             "detailsId": "sulphite-scarab-of-fumes",
             "tradeInfo": [],
-            "listingCount": 3933
+            "listingCount": 3939
         },
         {
             "id": 113715,
@@ -3411,10 +3364,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 229,
+            "count": 234,
             "detailsId": "abyss-scarab",
             "tradeInfo": [],
-            "listingCount": 4565
+            "listingCount": 4568
         },
         {
             "id": 113716,
@@ -3458,10 +3411,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 294,
+            "count": 303,
             "detailsId": "delirium-scarab",
             "tradeInfo": [],
-            "listingCount": 5421
+            "listingCount": 5430
         },
         {
             "id": 113718,
@@ -3505,10 +3458,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 223,
+            "count": 229,
             "detailsId": "delirium-scarab-of-mania",
             "tradeInfo": [],
-            "listingCount": 3465
+            "listingCount": 3469
         },
         {
             "id": 113720,
@@ -3552,10 +3505,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 245,
+            "count": 249,
             "detailsId": "torment-scarab",
             "tradeInfo": [],
-            "listingCount": 4927
+            "listingCount": 4931
         },
         {
             "id": 113731,
@@ -3567,26 +3520,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    16,
-                    3,
-                    0,
-                    0,
-                    0,
-                    0
+                    -11.21,
+                    -13.79,
+                    -13.79,
+                    -13.79,
+                    -13.79,
+                    -13.79
                 ],
-                "totalChange": 0
+                "totalChange": -13.79
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    16,
-                    3,
-                    0,
-                    0,
-                    0,
-                    0
+                    -11.21,
+                    -13.79,
+                    -13.79,
+                    -13.79,
+                    -13.79,
+                    -13.79
                 ],
-                "totalChange": 0
+                "totalChange": -13.79
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -3599,57 +3552,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 195,
+            "count": 199,
             "detailsId": "abyss-scarab-of-multitudes",
             "tradeInfo": [],
-            "listingCount": 3726
-        },
-        {
-            "id": 113733,
-            "name": "Bestiary Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
-            "baseType": "Bestiary Scarab",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -2,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "lowConfidenceSparkline": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -2,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Area contains Einhar",
-                    "optional": false
-                }
-            ],
-            "flavourText": "The Beastmaster answers the call.",
-            "chaosValue": 1.0,
-            "exaltedValue": 0.05,
-            "divineValue": 0.01,
-            "count": 311,
-            "detailsId": "bestiary-scarab",
-            "tradeInfo": [],
-            "listingCount": 5927
+            "listingCount": 3722
         },
         {
             "id": 113734,
@@ -3693,10 +3599,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 172,
+            "count": 178,
             "detailsId": "breach-scarab-of-lordship",
             "tradeInfo": [],
-            "listingCount": 2996
+            "listingCount": 2999
         },
         {
             "id": 113736,
@@ -3740,10 +3646,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 299,
+            "count": 316,
             "detailsId": "expedition-scarab",
             "tradeInfo": [],
-            "listingCount": 5793
+            "listingCount": 5804
         },
         {
             "id": 113737,
@@ -3787,10 +3693,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 186,
+            "count": 195,
             "detailsId": "beyond-scarab-of-the-invasion",
             "tradeInfo": [],
-            "listingCount": 3115
+            "listingCount": 3121
         },
         {
             "id": 113738,
@@ -3834,7 +3740,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 263,
+            "count": 262,
             "detailsId": "ambush-scarab-of-hidden-compartments",
             "tradeInfo": [],
             "listingCount": 4402
@@ -3852,8 +3758,8 @@
                     0,
                     0,
                     0,
-                    0,
                     -1,
+                    0,
                     0
                 ],
                 "totalChange": 0
@@ -3864,8 +3770,8 @@
                     0,
                     0,
                     0,
-                    0,
                     -1,
+                    0,
                     0
                 ],
                 "totalChange": 0
@@ -3881,10 +3787,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 287,
+            "count": 301,
             "detailsId": "betrayal-scarab",
             "tradeInfo": [],
-            "listingCount": 5335
+            "listingCount": 5342
         },
         {
             "id": 113740,
@@ -3896,9 +3802,9 @@
             "sparkline": {
                 "data": [
                     0,
-                    0,
                     -6.67,
                     -7.5,
+                    -16.67,
                     -16.67,
                     -16.67,
                     -16.67
@@ -3908,9 +3814,9 @@
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0,
                     -6.67,
                     -7.5,
+                    -16.67,
                     -16.67,
                     -16.67,
                     -16.67
@@ -3928,10 +3834,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 267,
+            "count": 282,
             "detailsId": "domination-scarab",
             "tradeInfo": [],
-            "listingCount": 4592
+            "listingCount": 4602
         },
         {
             "id": 113741,
@@ -3975,10 +3881,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 235,
+            "count": 240,
             "detailsId": "influencing-scarab-of-the-elder",
             "tradeInfo": [],
-            "listingCount": 4744
+            "listingCount": 4742
         },
         {
             "id": 113742,
@@ -4022,10 +3928,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 220,
+            "count": 228,
             "detailsId": "scarab-of-hunted-traitors",
             "tradeInfo": [],
-            "listingCount": 3800
+            "listingCount": 3807
         },
         {
             "id": 113743,
@@ -4069,10 +3975,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 170,
+            "count": 183,
             "detailsId": "abyss-scarab-of-edifice",
             "tradeInfo": [],
-            "listingCount": 3385
+            "listingCount": 3394
         },
         {
             "id": 113746,
@@ -4116,10 +4022,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 197,
+            "count": 202,
             "detailsId": "expedition-scarab-of-runefinding",
             "tradeInfo": [],
-            "listingCount": 3795
+            "listingCount": 3798
         },
         {
             "id": 113747,
@@ -4163,10 +4069,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 268,
+            "count": 279,
             "detailsId": "beyond-scarab-of-haemophilia",
             "tradeInfo": [],
-            "listingCount": 4571
+            "listingCount": 4575
         },
         {
             "id": 113765,
@@ -4210,10 +4116,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 197,
+            "count": 202,
             "detailsId": "anarchy-scarab-of-partnership",
             "tradeInfo": [],
-            "listingCount": 3590
+            "listingCount": 3597
         },
         {
             "id": 113769,
@@ -4257,10 +4163,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 193,
+            "count": 195,
             "detailsId": "delirium-scarab-of-delusions",
             "tradeInfo": [],
-            "listingCount": 3655
+            "listingCount": 3660
         },
         {
             "id": 113770,
@@ -4307,7 +4213,7 @@
             "count": 224,
             "detailsId": "betrayal-scarab-of-reinforcements",
             "tradeInfo": [],
-            "listingCount": 3439
+            "listingCount": 3440
         },
         {
             "id": 113828,
@@ -4355,10 +4261,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 194,
+            "count": 192,
             "detailsId": "incursion-scarab-of-champions",
             "tradeInfo": [],
-            "listingCount": 3741
+            "listingCount": 3738
         },
         {
             "id": 113829,
@@ -4402,10 +4308,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 191,
+            "count": 192,
             "detailsId": "expedition-scarab-of-archaeology",
             "tradeInfo": [],
-            "listingCount": 3348
+            "listingCount": 3354
         },
         {
             "id": 113831,
@@ -4453,10 +4359,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 207,
+            "count": 209,
             "detailsId": "beyond-scarab-of-resurgence",
             "tradeInfo": [],
-            "listingCount": 3523
+            "listingCount": 3526
         },
         {
             "id": 113859,
@@ -4500,10 +4406,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 181,
+            "count": 179,
             "detailsId": "scarab-of-stability",
             "tradeInfo": [],
-            "listingCount": 3252
+            "listingCount": 3250
         },
         {
             "id": 117972,
@@ -4547,10 +4453,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 221,
+            "count": 229,
             "detailsId": "torment-scarab-of-possession",
             "tradeInfo": [],
-            "listingCount": 3866
+            "listingCount": 3872
         },
         {
             "id": 118272,
@@ -4598,10 +4504,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 224,
+            "count": 229,
             "detailsId": "scarab-of-divinity",
             "tradeInfo": [],
-            "listingCount": 4185
+            "listingCount": 4184
         },
         {
             "id": 118274,
@@ -4645,10 +4551,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 216,
+            "count": 215,
             "detailsId": "ritual-scarab-of-wisps",
             "tradeInfo": [],
-            "listingCount": 3816
+            "listingCount": 3817
         },
         {
             "id": 118276,
@@ -4692,7 +4598,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 175,
+            "count": 173,
             "detailsId": "blight-scarab-of-the-blightheart",
             "tradeInfo": [],
             "listingCount": 3143
@@ -4743,10 +4649,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 327,
+            "count": 329,
             "detailsId": "harbinger-scarab-of-obelisks",
             "tradeInfo": [],
-            "listingCount": 4890
+            "listingCount": 4895
         },
         {
             "id": 118279,
@@ -4794,10 +4700,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 258,
+            "count": 262,
             "detailsId": "domination-scarab-of-apparitions",
             "tradeInfo": [],
-            "listingCount": 3961
+            "listingCount": 3965
         },
         {
             "id": 118280,
@@ -4841,10 +4747,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 293,
+            "count": 294,
             "detailsId": "titanic-scarab",
             "tradeInfo": [],
-            "listingCount": 5131
+            "listingCount": 5130
         },
         {
             "id": 121392,
@@ -4888,10 +4794,57 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.01,
-            "count": 158,
+            "count": 157,
             "detailsId": "scarab-of-bisection",
             "tradeInfo": [],
-            "listingCount": 2880
+            "listingCount": 2882
+        },
+        {
+            "id": 113733,
+            "name": "Bestiary Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
+            "baseType": "Bestiary Scarab",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -2,
+                    0,
+                    -1
+                ],
+                "totalChange": -1
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -2,
+                    0,
+                    -1
+                ],
+                "totalChange": -1
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Area contains Einhar",
+                    "optional": false
+                }
+            ],
+            "flavourText": "The Beastmaster answers the call.",
+            "chaosValue": 0.99,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "count": 317,
+            "detailsId": "bestiary-scarab",
+            "tradeInfo": [],
+            "listingCount": 5937
         },
         {
             "id": 113692,
@@ -4903,26 +4856,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0,
                     -2.02,
                     -8.08,
                     -8.08,
                     -8.08,
-                    -4.04
+                    -4.04,
+                    -2.02
                 ],
-                "totalChange": -4.04
+                "totalChange": -2.02
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0,
                     -2.02,
                     -8.08,
                     -8.08,
                     -8.08,
-                    -4.04
+                    -4.04,
+                    -2.02
                 ],
-                "totalChange": -4.04
+                "totalChange": -2.02
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -4932,13 +4885,60 @@
                 }
             ],
             "flavourText": "Now there's a blood-curdling wail I haven't heard before!",
-            "chaosValue": 0.95,
+            "chaosValue": 0.97,
             "exaltedValue": 0.05,
             "divineValue": 0.01,
-            "count": 249,
+            "count": 263,
             "detailsId": "torment-scarab-of-peculiarity",
             "tradeInfo": [],
-            "listingCount": 4391
+            "listingCount": 4399
+        },
+        {
+            "id": 113708,
+            "name": "Ultimatum Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e0bf2875db/LesserScarabUltimatum.png",
+            "baseType": "Ultimatum Scarab",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -4
+                ],
+                "totalChange": -4
+            },
+            "lowConfidenceSparkline": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -4
+                ],
+                "totalChange": -4
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Area contains an Ultimatum Encounter",
+                    "optional": false
+                }
+            ],
+            "flavourText": "A challenge may be requested at any time.",
+            "chaosValue": 0.96,
+            "exaltedValue": 0.05,
+            "divineValue": 0.01,
+            "count": 340,
+            "detailsId": "ultimatum-scarab",
+            "tradeInfo": [],
+            "listingCount": 6027
         },
         {
             "id": 113722,
@@ -4950,26 +4950,26 @@
             "sparkline": {
                 "data": [
                     0,
-                    0,
                     -3,
                     -4,
                     -5,
                     -7,
-                    -8
+                    -7,
+                    -7
                 ],
-                "totalChange": -8
+                "totalChange": -7
             },
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0,
                     -3,
                     -4,
                     -5,
                     -7,
-                    -8
+                    -7,
+                    -7
                 ],
-                "totalChange": -8
+                "totalChange": -7
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -4979,13 +4979,13 @@
                 }
             ],
             "flavourText": "A sea of stars awaits those who dare imagine.",
-            "chaosValue": 0.92,
+            "chaosValue": 0.93,
             "exaltedValue": 0.05,
             "divineValue": 0.01,
-            "count": 318,
+            "count": 334,
             "detailsId": "influencing-scarab-of-the-shaper",
             "tradeInfo": [],
-            "listingCount": 5513
+            "listingCount": 5524
         },
         {
             "id": 113702,
@@ -4997,8 +4997,8 @@
             "sparkline": {
                 "data": [
                     0,
-                    0,
                     -2.13,
+                    -4.26,
                     -4.26,
                     -4.26,
                     -4.26,
@@ -5009,8 +5009,8 @@
             "lowConfidenceSparkline": {
                 "data": [
                     0,
-                    0,
                     -2.13,
+                    -4.26,
                     -4.26,
                     -4.26,
                     -4.26,
@@ -5029,10 +5029,10 @@
             "chaosValue": 0.9,
             "exaltedValue": 0.05,
             "divineValue": 0.01,
-            "count": 342,
+            "count": 355,
             "detailsId": "incursion-scarab",
             "tradeInfo": [],
-            "listingCount": 6157
+            "listingCount": 6171
         }
     ]
 }

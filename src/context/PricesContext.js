@@ -9,6 +9,7 @@ export const PricesProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
   const [isConnected, setIsConnected] = useState(false);
   const [isLive, setIsLive] = useState(false);
+  const [divinePrice, setDivinePrice] = useState(null);
   let ws = null;
   let reconnectAttempts = 0;
   let response;
@@ -23,7 +24,7 @@ export const PricesProvider = ({ children }) => {
         response = await fetch('https://faustus-price-checker.onrender.com/api/prices');
       }
 
-      if (!response.ok) {throw new Error('Failed to fetch prices');}
+      if (!response.ok) { throw new Error('Failed to fetch prices'); }
       const data = await response.json();
 
       /**
@@ -34,6 +35,9 @@ export const PricesProvider = ({ children }) => {
       const matchingPrice = data.find(
         p => p.have_currency === 'Divine Orb' && p.want_currency === 'Chaos Orb'
       );
+
+      const divineOrb = data.find((price) => price.want_currency === 'Divine Orb');
+      const divineOrbPrice = divineOrb ? divineOrb.ninja_price : 'N/A';
 
       if (matchingPrice) {
         // 2) Compare its created_at to one hour ago
@@ -50,12 +54,13 @@ export const PricesProvider = ({ children }) => {
       }
 
       setPrices(data);
+      setDivinePrice(divineOrbPrice);
       setLoading(false);
     } catch (error) {
       console.error('❌ Error fetching prices:', error);
       setLoading(false);
     };
-  
+
     PricesProvider.propTypes = {
       children: PropTypes.node.isRequired
     };
@@ -109,7 +114,7 @@ export const PricesProvider = ({ children }) => {
   }, []);
 
   return (
-    <PricesContext.Provider value={{ prices, loading, isConnected, isLive }}>
+    <PricesContext.Provider value={{ prices, loading, isConnected, isLive, divinePrice }}>
       {children}
     </PricesContext.Provider>
   );
