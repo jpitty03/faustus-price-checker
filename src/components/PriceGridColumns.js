@@ -93,17 +93,37 @@ export const GetPriceGridColumns = () => {
       type: 'number',
       width: 130,
       renderCell: (params) => {
+        const value = params.value;
+    
+        const chaosIconUrl = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d119a0d734/CurrencyRerollRare.png';
+        const divineIconUrl = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e1a54ff97d/CurrencyModValues.png';
+    
+        let displayValue = value;
+        let iconUrl = chaosIconUrl;
+    
+        if (divinePrice && value > divinePrice * 1.5) {
+          displayValue = (value / divinePrice).toFixed(2);
+          iconUrl = divineIconUrl;
+        }
+    
         return (
           <div style={{ display: 'flex', alignItems: 'center', marginLeft: 10 }}>
-            <span>{params.value}</span>
+            <img
+              src={iconUrl}
+              alt="Currency Icon"
+              style={{ width: 24, height: 24, marginRight: 8 }}
+            />
+            <span>{displayValue}</span>
             <Tooltip title="PoE Ninja price of Want" arrow>
-              <InfoIcon fontSize="small" style={{ marginLeft: 5, cursor: 'pointer', color: '#555' }} />
+              <InfoIcon 
+                fontSize="small" 
+                style={{ marginLeft: 5, cursor: 'pointer', color: '#555' }}
+              />
             </Tooltip>
-
           </div>
         );
       }
-    },
+    },    
     {
       field: 'arbitrage',
       headerName: 'Arbitrage',
