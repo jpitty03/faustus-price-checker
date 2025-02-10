@@ -29,9 +29,6 @@ faustus-price-checker/
 ┃ ┣ index.css
 ┃ ┗ index.js
 ┣ .env
-┣ .gitignore
-┣ .sequelizerc
-┣ filetree.txt
 ┣ package-lock.json
 ┣ package.json
 ┗ README.md
