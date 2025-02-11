@@ -3,14 +3,15 @@ import PropTypes from 'prop-types';
 import { AppBar, Toolbar, Typography, Box, CircularProgress, Chip, Button } from '@mui/material';
 import { PricesContext } from '../context/PricesContext';
 import FaustusPortrait from '../assets/Faustus_portrait.png';
+import AllItems from '../assets/all_items.png';
 
 const scarabIconUrl = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/10856e6528/SuperScarab4.png';
 const currencyIconUrl = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9fe8aa2704/HinekorasLock.png';
 
-export default function HeaderBar({ 
-  onFilterScarabs, 
-  onFilterCurrency, 
-  onClearFilter 
+export default function HeaderBar({
+  onFilterScarabs,
+  onFilterCurrency,
+  onClearFilter
 }) {
   const { loading, isLive, divinePrice } = useContext(PricesContext);
 
@@ -29,52 +30,83 @@ export default function HeaderBar({
           </Typography>
         </Box>
 
-        {/* Buttons with icons */}
+        {/* All Items Filter */}
+        <Button
+          variant="contained"
+          color="#0f0102"
+          size="small"
+          onClick={onClearFilter}
+          sx={{
+            marginRight: 1,
+            textTransform: 'none',
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            padding: '2px'
+          }}
+        >
+          {/* Icon */}
+          <Box
+            component="img"
+            src={AllItems}
+            alt="Currency Icon"
+            sx={{ width: 35, height: 35, marginBottom: 0.1 }}
+          />
+          {/* Text */}
+          <span>Show All</span>
+        </Button>
+
+        {/* Scarab Filter */}
         <Box display="flex" alignItems="center" sx={{ flexGrow: 1 }}>
           <Button
             variant="contained"
-            color="secondary"
+            color="#0f0102"
             size="small"
             onClick={onFilterScarabs}
-            sx={{ marginRight: 1 }}
-            startIcon={(
-              <Box
-                component="img"
-                src={scarabIconUrl}
-                alt="Scarab Icon"
-                sx={{ width: 20, height: 20 }}
-              />
-            )}
+            sx={{
+              marginRight: 1,
+              textTransform: 'none',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              padding: '2px'
+            }}
           >
-            Scarabs
+            {/* Icon */}
+            <Box
+              component="img"
+              src={scarabIconUrl}
+              alt="Scarab Icon"
+              sx={{ width: 35, height: 35, marginBottom: 0.1 }}
+            />
+            {/* Text */}
+            <span>Scarabs</span>
           </Button>
 
+          {/* Currency Filter */}
           <Button
             variant="contained"
-            color="secondary"
+            color="#0f0102"
             size="small"
             onClick={onFilterCurrency}
-            sx={{ marginRight: 1 }}
-            startIcon={(
-              <Box
-                component="img"
-                src={currencyIconUrl}
-                alt="Currency Icon"
-                sx={{ width: 20, height: 20 }}
-              />
-            )}
+            sx={{
+              marginRight: 1,
+              textTransform: 'none',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              padding: '2px'
+            }}
           >
-            Currency
-          </Button>
-
-          <Button
-            variant="contained"
-            color="inherit"
-            size="small"
-            onClick={onClearFilter}
-            sx={{ marginRight: 1 }}
-          >
-            Clear
+            {/* Icon */}
+            <Box
+              component="img"
+              src={currencyIconUrl}
+              alt="Currency Icon"
+              sx={{ width: 35, height: 35, marginBottom: 0.1 }}
+            />
+            {/* Text */}
+            <span>Currency</span>
           </Button>
         </Box>
 
