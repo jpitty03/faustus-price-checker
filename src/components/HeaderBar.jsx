@@ -19,13 +19,15 @@ export default function HeaderBar({
     <AppBar position="static" sx={{ backgroundColor: '#0f0102', padding: '5px' }}>
       <Toolbar>
         <Box display="flex" alignItems="center" sx={{ flexGrow: 1 }}>
-          <Box
-            component="img"
-            src={FaustusPortrait}
-            alt="Faustus Logo"
-            sx={{ height: 60, width: 'auto', marginRight: 2 }}
-          />
-          <Typography variant="h6" component="div">
+          <a href="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center' }}>
+            <Box
+              component="img"
+              src={FaustusPortrait}
+              alt="Faustus Logo"
+              sx={{ height: 60, width: 'auto', marginRight: 2 }}
+            />
+          </a>
+          <Typography variant="h6" component="div" color="inherit">
             Faustus Price Checker
           </Typography>
         </Box>
@@ -130,7 +132,7 @@ export default function HeaderBar({
           sx={{ fontWeight: 'bold' }}
         />
       </Toolbar>
-    </AppBar>
+    </AppBar >
   );
 }
 
