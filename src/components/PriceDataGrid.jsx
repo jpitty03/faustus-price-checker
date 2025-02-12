@@ -101,7 +101,7 @@ export default function PriceDataGrid() {
   }
 
   return (
-    <div style={{ height: '88vh', width: '100%' }}>
+    <div style={{ height: '88vh', width: '70%' }}>
       <HeaderBar
         onFilterScarabs={handleFilterScarabs}
         onFilterCurrency={handleFilterCurrency}
@@ -112,6 +112,7 @@ export default function PriceDataGrid() {
         rows={rows}
         columns={columns}
         pageSize={10}
+        density='compact'
         rowsPerPageOptions={[5, 10, 25]}
         sortingMode="server"
         onSortModelChange={handleSortModelChange}

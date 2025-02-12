@@ -4,6 +4,7 @@ const path = require('path');
 const cors = require('cors');
 const WebSocket = require('ws');
 const { Client } = require('pg');
+const pricesController = require('./controllers/prices_controller');
 require('dotenv').config();
 
 app.use(cors());
@@ -34,7 +35,6 @@ server.on('upgrade', (request, socket, head) => {
 });
 
 // 🔹 Controllers (API Endpoints)
-const pricesController = require('./controllers/prices_controller');
 app.use('/api/prices', pricesController);
 
 // 🔹 Serve React frontend for all other routes

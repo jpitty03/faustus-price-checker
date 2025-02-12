@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "./src/assets/Faustus_portrait.png",
+      "src": "./static/media/Faustus_portrait.d05b0c0c94d3f442f92c.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./src/assets/Faustus_portrait.png",
+      "src": "./static/media/Faustus_portrait.d05b0c0c94d3f442f92c.png",
       "type": "image/png",
       "sizes": "512x512"
     }

@@ -142,7 +142,7 @@ prices.get('/sort', async (req, res) => {
           'want_currency',
           'want_amount',
           'trade_type',
-          // stock is ignored
+          'stock',
           'ninja_price',
           'last_updated',
           'have_currency_icon',
@@ -191,6 +191,7 @@ prices.get('/sort', async (req, res) => {
         'want_currency',
         'want_amount',
         'trade_type',
+        'stock',
         'ninja_price',
         'last_updated',
         'have_currency_icon',

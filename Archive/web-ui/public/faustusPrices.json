@@ -1,5 +1,5 @@
 {
-  "updated": "2025-02-08T16:48:44.188385Z",
+  "updated": "2025-02-12T23:18:52.294219Z",
   "exchanges": [
     {
       "haveCurrency": "Chaos Orb",
@@ -777,69 +777,64 @@
     {
       "haveCurrency": "Chaos Orb",
       "wantCurrency": "Divine Orb",
-      "lastUpdated": "2025-02-08T16:48:35.540239Z",
+      "lastUpdated": "2025-02-12T23:18:43.608819Z",
       "offers": [
         {
           "haveAmount": 180.0,
           "wantAmount": 1.0,
-          "stock": 1
+          "stock": 44
         },
         {
-          "haveAmount": 190.0,
+          "haveAmount": 184.0,
           "wantAmount": 1.0,
-          "stock": 234
+          "stock": 30
         },
         {
-          "haveAmount": 191.0,
+          "haveAmount": 185.0,
           "wantAmount": 1.0,
-          "stock": 25
+          "stock": 3
         },
         {
-          "haveAmount": 192.0,
+          "haveAmount": 188.0,
           "wantAmount": 1.0,
-          "stock": 45
+          "stock": 10
         },
         {
-          "haveAmount": 193.0,
+          "haveAmount": 189.0,
           "wantAmount": 1.0,
-          "stock": 105
+          "stock": 270
         },
         {
-          "haveAmount": 193.0,
+          "haveAmount": 189.0,
           "wantAmount": 1.0,
-          "stock": 165
+          "stock": 401
         }
       ],
       "competingTrades": [
         {
-          "haveAmount": 174.0,
-          "wantAmount": 1.0,
-          "stock": 174
-        },
-        {
-          "haveAmount": 173.0,
-          "wantAmount": 1.0,
-          "stock": 1557
-        },
-        {
-          "haveAmount": 172.0,
-          "wantAmount": 1.0,
-          "stock": 46784
-        },
-        {
           "haveAmount": 171.0,
           "wantAmount": 1.0,
-          "stock": 7524
+          "stock": 2052
         },
         {
           "haveAmount": 170.0,
           "wantAmount": 1.0,
-          "stock": 56100
+          "stock": 63070
         },
         {
-          "haveAmount": 170.0,
+          "haveAmount": 168.0,
           "wantAmount": 1.0,
-          "stock": 862598
+          "stock": 44856
+        },
+        {
+          "haveAmount": 167.0,
+          "wantAmount": 1.0,
+          "stock": 2839
+        },
+        {
+          "haveAmount": 166.67,
+          "wantAmount": 1.0,
+          "stock": 819310
         }
       ]
     },
@@ -4445,69 +4440,69 @@
     {
       "haveCurrency": "Divine Orb",
       "wantCurrency": "Chaos Orb",
-      "lastUpdated": "2025-02-08T16:48:44.188385Z",
+      "lastUpdated": "2025-02-12T23:18:52.294219Z",
       "offers": [
         {
           "haveAmount": 1.0,
-          "wantAmount": 174.0,
-          "stock": 174
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 173.0,
-          "stock": 1557
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 172.0,
-          "stock": 46784
-        },
-        {
-          "haveAmount": 1.0,
-          "wantAmount": 71.0,
-          "stock": 7524
+          "wantAmount": 171.0,
+          "stock": 2052
         },
         {
           "haveAmount": 1.0,
           "wantAmount": 170.0,
-          "stock": 56100
+          "stock": 63070
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 170.0,
-          "stock": 862598
+          "wantAmount": 168.0,
+          "stock": 44856
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 167.0,
+          "stock": 2839
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 166.67,
+          "stock": 500
+        },
+        {
+          "haveAmount": 1.0,
+          "wantAmount": 166.67,
+          "stock": 819310
         }
       ],
       "competingTrades": [
         {
           "haveAmount": 1.0,
           "wantAmount": 180.0,
-          "stock": 1
+          "stock": 44
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 190.0,
-          "stock": 234
+          "wantAmount": 184.0,
+          "stock": 30
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 191.0,
-          "stock": 25
+          "wantAmount": 185.0,
+          "stock": 3
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 192.0,
-          "stock": 45
+          "wantAmount": 188.0,
+          "stock": 10
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 193.0,
-          "stock": 105
+          "wantAmount": 189.0,
+          "stock": 270
         },
         {
           "haveAmount": 1.0,
-          "wantAmount": 193.0,
-          "stock": 165
+          "wantAmount": 189.0,
+          "stock": 401
         }
       ]
     },
