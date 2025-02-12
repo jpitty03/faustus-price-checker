@@ -123,12 +123,17 @@ prices.delete('/:id', async (req, res) => {
 
 prices.get('/sort', async (req, res) => {
   try {
-    const { field, sort } = req.query;
-    let order = [];
+    const { field, sort, divinePrice } = req.query;
+    const orderDirection = sort?.toUpperCase() === 'DESC' ? 'DESC' : 'ASC';
 
-    // Handle the arbitrage field specially since it's calculated
+    // If sorting by arbitrage, use divinePrice in your conversion
     if (field === 'arbitrage') {
-      const prices = await Prices.findAll({
+      if (!divinePrice) {
+        return res.status(400).send('divinePrice is required for arbitrage calculations');
+      }
+      const divinePriceNum = parseFloat(divinePrice);
+
+      const sortedPrices = await Prices.findAll({
         attributes: [
           'id',
           'created_at',
@@ -137,7 +142,7 @@ prices.get('/sort', async (req, res) => {
           'want_currency',
           'want_amount',
           'trade_type',
-          'stock',
+          // stock is ignored
           'ninja_price',
           'last_updated',
           'have_currency_icon',
@@ -145,27 +150,36 @@ prices.get('/sort', async (req, res) => {
           'want_item_type',
           [
             sequelize.literal(`
-              CASE 
-                WHEN want_currency = 'Chaos Orb' THEN want_amount
-                ELSE want_amount * ninja_price
-              END - 
-              CASE 
-                WHEN have_currency = 'Chaos Orb' THEN have_amount
-                ELSE have_amount * ninja_price
-              END
+              (
+                CASE 
+                  WHEN want_currency = 'Chaos Orb' THEN want_amount * 1
+                  WHEN want_currency = 'Divine Orb' THEN want_amount * ${divinePriceNum}
+                  ELSE want_amount * ninja_price
+                END
+              )
+              -
+              (
+                CASE 
+                  WHEN have_currency = 'Chaos Orb' THEN have_amount * 1
+                  WHEN have_currency = 'Divine Orb' THEN have_amount * ${divinePriceNum}
+                  ELSE have_amount * ninja_price
+                END
+              )
             `),
-            'arbitrage_value'
+            'arbitrage'
           ]
         ],
-        order: [[sequelize.literal('arbitrage_value'), sort.toUpperCase()]],
+        order: [[sequelize.literal('arbitrage'), orderDirection]],
         raw: true
       });
-      return res.json(prices);
+
+      return res.json(sortedPrices);
     }
 
-    // For all other fields, use normal sorting
-    if (field && sort) {
-      order = [[field, sort.toUpperCase()]];
+    // For other fields, use normal ordering
+    let order = [];
+    if (field) {
+      order = [[field, orderDirection]];
     }
 
     const foundPrices = await Prices.findAll({
@@ -177,7 +191,6 @@ prices.get('/sort', async (req, res) => {
         'want_currency',
         'want_amount',
         'trade_type',
-        'stock',
         'ninja_price',
         'last_updated',
         'have_currency_icon',

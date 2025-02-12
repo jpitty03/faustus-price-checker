@@ -1,11 +1,11 @@
-import React, { useContext} from 'react';
+import React, { useContext } from 'react';
 import { Box, Tooltip } from '@mui/material';
 import { PricesContext } from '../context/PricesContext';
 import InfoIcon from '@mui/icons-material/Info';
 
 // Function to return column definitions
 export const GetPriceGridColumns = () => {
-  const {divinePrice} = useContext(PricesContext);
+  const { divinePrice } = useContext(PricesContext);
 
   function convertToChaos(haveCurrency, haveAmount) {
     const conversionRates = {
@@ -18,7 +18,7 @@ export const GetPriceGridColumns = () => {
     return null;
   }
 
-  const columns =  [
+  const columns = [
     {
       field: 'have_currency',
       headerName: 'Have',
@@ -53,6 +53,8 @@ export const GetPriceGridColumns = () => {
       field: 'trade_type',
       headerName: 'Type',
       width: 130,
+      type: 'singleSelect',
+      valueOptions: ['offer', 'competing'],
       renderCell: (params) => {
         const tradeType = params.value;
 
@@ -94,18 +96,18 @@ export const GetPriceGridColumns = () => {
       width: 130,
       renderCell: (params) => {
         const value = params.value;
-    
+
         const chaosIconUrl = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d119a0d734/CurrencyRerollRare.png';
         const divineIconUrl = 'https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e1a54ff97d/CurrencyModValues.png';
-    
+
         let displayValue = value;
         let iconUrl = chaosIconUrl;
-    
+
         if (divinePrice && value > divinePrice * 1.5) {
           displayValue = (value / divinePrice).toFixed(2);
           iconUrl = divineIconUrl;
         }
-    
+
         return (
           <div style={{ display: 'flex', alignItems: 'center', marginLeft: 10 }}>
             <img
@@ -115,39 +117,39 @@ export const GetPriceGridColumns = () => {
             />
             <span>{displayValue}</span>
             <Tooltip title="PoE Ninja price of Want" arrow>
-              <InfoIcon 
-                fontSize="small" 
+              <InfoIcon
+                fontSize="small"
                 style={{ marginLeft: 5, cursor: 'pointer', color: '#555' }}
               />
             </Tooltip>
           </div>
         );
       }
-    },    
+    },
     {
       field: 'arbitrage',
       headerName: 'Arbitrage',
       width: 180,
       // Add a numeric value for sorting
       valueGetter: (value, row) => {
-        if (!row) {return null;}
-        
+        if (!row) { return null; }
+
         const costInChaos = convertToChaos(row.have_currency, row.have_amount);
-        const resultInChaos = row.want_currency === 'Chaos Orb' 
+        const resultInChaos = row.want_currency === 'Chaos Orb'
           ? row.want_amount
           : row.want_amount * row.ninja_price;
-    
-        if (!costInChaos || !resultInChaos) {return null;}
-        
+
+        if (!costInChaos || !resultInChaos) { return null; }
+
         return resultInChaos - costInChaos;
       },
       renderCell: (params) => {
         const row = params.row;
         const { have_currency, have_amount, want_currency, want_amount, ninja_price } = row;
-    
+
         // 1) Convert "Have" to Chaos
         const costInChaos = convertToChaos(have_currency, have_amount);
-    
+
         // 2) Convert "Want" to Chaos
         let resultInChaos = null;
         if (want_currency === 'Chaos Orb') {
@@ -155,12 +157,12 @@ export const GetPriceGridColumns = () => {
         } else {
           resultInChaos = want_amount * ninja_price;
         }
-    
+
         // If we can't calculate either, show "N/A"
         if (costInChaos === null || resultInChaos === null) {
           return 'N/A';
         }
-    
+
         const difference = resultInChaos - costInChaos;
         const pct = (difference / costInChaos) * 100;
         const sign = difference >= 0 ? '+' : '';

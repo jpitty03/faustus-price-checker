@@ -16,7 +16,7 @@ const applyFilter = (data, filter) => {
 };
 
 export default function PriceDataGrid() {
-  const { prices, loading } = useContext(PricesContext);
+  const { prices, divinePrice, loading } = useContext(PricesContext);
 
   // Stores the full data from server (after sorting or initial load)
   const [masterRows, setMasterRows] = useState([]);
@@ -74,7 +74,9 @@ export default function PriceDataGrid() {
     }
 
     try {
-      const response = await fetch(`${baseUrl}/api/prices/sort?field=${field}&sort=${sort}`);
+      const response = await fetch(
+        `${baseUrl}/api/prices/sort?field=${field}&sort=${sort}&divinePrice=${divinePrice}`
+      );
       if (!response.ok) {
         const text = await response.text();
         throw new Error(`HTTP error ${response.status}: ${text}`);
