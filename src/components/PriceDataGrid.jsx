@@ -112,12 +112,14 @@ export default function PriceDataGrid() {
         rows={rows}
         columns={columns}
         pageSize={10}
-        density='compact'
         rowsPerPageOptions={[5, 10, 25]}
         sortingMode="server"
         onSortModelChange={handleSortModelChange}
         sortModel={sortModel}
         slots={{ toolbar: GridToolbar }}
+        initialState={{
+          density: 'compact'
+        }}
       />
     </div>
   );
