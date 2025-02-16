@@ -15,8 +15,6 @@ if (config.use_env_variable) {
   sequelize = new Sequelize(config.database, config.username, config.password, config);
 }
 
-console.log('db', db);
-
 fs
   .readdirSync(__dirname)
   .filter(file => {
@@ -27,10 +25,7 @@ fs
     db[model.name] = model;
   });
 
-
-console.log('db', db);
 Object.keys(db).forEach(modelName => {
-  console.log('modelName', modelName);
   if (db[modelName].associate) {
     db[modelName].associate(db);
   }

@@ -22,8 +22,6 @@ export default function PriceDataGrid() {
   const [masterRows, setMasterRows] = useState([]);
   // This is what the DataGrid actually displays (filtered subset)
   const [rows, setRows] = useState([]);
-  console.log('rows', rows);
-
   // Remember the currently active filter: 'all', 'scarab', 'currency'
   const [activeFilter, setActiveFilter] = useState('all');
 
@@ -84,7 +82,6 @@ export default function PriceDataGrid() {
       }
 
       const sortedData = await response.json();
-      console.log('sortedData', sortedData);
 
       // 1) Store the newly sorted data in masterRows
       setMasterRows(sortedData);

@@ -26,7 +26,6 @@ export const PricesProvider = ({ children }) => {
 
       if (!response.ok) { throw new Error('Failed to fetch prices'); }
       const data = await response.json();
-      console.log('dataPricesContext', data);
 
       /**
        * Sets site live based on Chaos/Divine pair's created_date
