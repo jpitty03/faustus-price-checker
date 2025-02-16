@@ -144,8 +144,3 @@ def update_json_file():
         print(f"✅ Successfully updated {json_file_path}")
     except IOError as e:
         print(f"❌ Error writing to JSON file: {e}")
-
-
-get_ninja_info()
-merge_json_files()
-update_json_file()

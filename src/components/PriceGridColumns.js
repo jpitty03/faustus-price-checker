@@ -58,7 +58,6 @@ export const GetPriceGridColumns = () => {
       renderCell: (params) => {
         const tradeType = params.value;
 
-        // Define tooltip messages
         const tooltipMessages = {
           competing: 'Indicates an exchange where the Have currency is listed, but the trade requires a seller to fulfill it.',
           offer: 'Indicates an exchange where the Have currency can be traded instantly for the Want currency.'
@@ -130,7 +129,6 @@ export const GetPriceGridColumns = () => {
       field: 'arbitrage',
       headerName: 'Arbitrage',
       width: 180,
-      // Add a numeric value for sorting
       valueGetter: (value, row) => {
         if (!row) { return null; }
 

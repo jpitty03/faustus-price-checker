@@ -5,6 +5,8 @@ import os
 from time import sleep
 
 import pyautogui
+from utils.create_sequelize_seeder import update_database
+from utils.ninjaApi import get_ninja_info, merge_json_files, update_json_file
 from utils.mouse_helper import click_mouse, exchange_search, move_mouse_to_position, move_mouse_to_random
 from utils.currencies import have_currencies, want_currencies
 from utils.resolution_helper import resolution_2560 as resolution
@@ -373,3 +375,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+pyautogui.sleep(.5)
+print('Grabbing Ninja Prices')
+get_ninja_info()
+merge_json_files()
+update_json_file()
+
+pyautogui.sleep(.5)
+print('Updating database...')
+update_database()

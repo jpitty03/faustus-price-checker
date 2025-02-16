@@ -28,34 +28,7 @@ const broadcastUpdate = async () => {
 prices.get('/', async (req, res) => {
   try {
     console.log('📡 GET ALL PRICES');
-    const { includeArbitrage, divinePrice } = req.query;
-
     const attributes = [...PRICE_ATTRIBUTES];
-
-    // Include arbitrage calculation if requested
-    if (includeArbitrage === 'true' && divinePrice) {
-      const divinePriceNum = parseFloat(divinePrice);
-      attributes.push([
-        sequelize.literal(`
-          (
-            CASE 
-              WHEN want_currency = 'Chaos Orb' THEN want_amount * 1
-              WHEN want_currency = 'Divine Orb' THEN want_amount * ${divinePriceNum}
-              ELSE want_amount * ninja_price
-            END
-          )
-          -
-          (
-            CASE 
-              WHEN have_currency = 'Chaos Orb' THEN have_amount * 1
-              WHEN have_currency = 'Divine Orb' THEN have_amount * ${divinePriceNum}
-              ELSE have_amount * ninja_price
-            END
-          )
-        `),
-        'arbitrage'
-      ]);
-    }
 
     const foundPrices = await Prices.findAll({ attributes, raw: true });
     res.status(200).json(foundPrices);
@@ -152,7 +125,6 @@ prices.get('/sort', async (req, res) => {
 
     const sortedPrices = await Prices.findAll({ attributes, order, raw: true });
 
-    console.log('📡 Sorted Prices:', sortedPrices);
     res.status(200).json(sortedPrices);
   } catch (err) {
     console.error('Error in sorting:', err);
