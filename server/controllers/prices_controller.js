@@ -1,6 +1,7 @@
 const prices = require('express').Router();
 const db = require('../models');
 const { Prices, sequelize } = db;
+const { Op } = require('sequelize');
 const { wss } = require('../server'); // Import WebSocket server
 
 // 🔹 Common attributes for all queries
@@ -17,7 +18,7 @@ const broadcastUpdate = async () => {
 
     console.log('📡 Broadcasting WebSocket update...');
     wss.clients.forEach(client => {
-      if (client.readyState === 1) {client.send(JSON.stringify(updatedPrices));}
+      if (client.readyState === 1) { client.send(JSON.stringify(updatedPrices)); }
     });
   } catch (err) {
     console.error('❌ WebSocket Broadcast Error:', err);
@@ -29,8 +30,19 @@ prices.get('/', async (req, res) => {
   try {
     console.log('📡 GET ALL PRICES');
     const attributes = [...PRICE_ATTRIBUTES];
+    const oneHourAgo = new Date(Date.now() - (60 * 60 * 1000));
 
-    const foundPrices = await Prices.findAll({ attributes, raw: true });
+    // Find all prices updated within the last hour
+    const foundPrices = await Prices.findAll({
+      where: {
+        last_updated: {
+          [Op.gte]: oneHourAgo
+        }
+      },
+      attributes,
+      raw: true
+    });
+
     res.status(200).json(foundPrices);
   } catch (err) {
     console.error(err);
@@ -60,7 +72,7 @@ prices.put('/:id', async (req, res) => {
       returning: true
     });
 
-    if (!updatedCount) {return res.status(404).send('Price not found');}
+    if (!updatedCount) { return res.status(404).send('Price not found'); }
 
     console.log('✅ Updated price:', updatedPrices[0]);
     broadcastUpdate();
@@ -77,7 +89,7 @@ prices.delete('/:id', async (req, res) => {
     const { id } = req.params;
     const deletedCount = await Prices.destroy({ where: { id } });
 
-    if (!deletedCount) {return res.status(404).send('Price not found');}
+    if (!deletedCount) { return res.status(404).send('Price not found'); }
 
     console.log('✅ Deleted price ID:', id);
     broadcastUpdate();
@@ -95,6 +107,7 @@ prices.get('/sort', async (req, res) => {
     const orderDirection = sort?.toUpperCase() === 'DESC' ? 'DESC' : 'ASC';
 
     const attributes = [...PRICE_ATTRIBUTES];
+    const oneHourAgo = new Date(Date.now() - (60 * 60 * 1000));
 
     // If sorting by arbitrage, include calculation
     if (field === 'arbitrage' && divinePrice) {
@@ -123,7 +136,16 @@ prices.get('/sort', async (req, res) => {
 
     const order = field ? [[sequelize.literal(field), orderDirection]] : [];
 
-    const sortedPrices = await Prices.findAll({ attributes, order, raw: true });
+    const sortedPrices = await Prices.findAll({
+      where: {
+        last_updated: {
+          [Op.gte]: oneHourAgo
+        }
+      },
+      attributes,
+      order,
+      raw: true
+    });
 
     res.status(200).json(sortedPrices);
   } catch (err) {
